@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class QuestionViewController: UIViewController {
 //    @IBOutlet weak var chapterTitleLabel: UILabel!
     @IBOutlet weak var chapterNumberLabel: UILabel!
     
@@ -18,20 +18,17 @@ class ViewController: UIViewController {
     @IBOutlet weak var rationalBottomConstraint: NSLayoutConstraint!
     
     @IBOutlet weak var rationalContainerViewTopConstraint: NSLayoutConstraint!
-    @IBOutlet weak var previousButton: UIButton!
-    @IBOutlet weak var nextButton: UIButton!
     var chapterQuestions = [Question]()
     var currentQuestion = 0
+    var chapter = ""
     
     fileprivate var multipleQuestionsTableViewController: MultipleChoiceTableViewController?
     fileprivate var rationalViewController: RationalViewController?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Pass in Chapter
-        // Generate each chapter on it's on plist
-        guard let questions = parseQuestionsFromPList(plistName: "chapter1") else {
-            nextButton.isEnabled = true
+        guard let questions = parseQuestionsFromPList(plistName: chapter) else {
+//            nextButton.isEnabled = true
             return
         }
         guard let multipleChoiceTVC = childViewControllers.first as? MultipleChoiceTableViewController else { return }
@@ -41,25 +38,26 @@ class ViewController: UIViewController {
         chapterQuestions = questions
         loadViewWithData(question: chapterQuestions[currentQuestion])
         title = chapterQuestions.first?.chapterTitle
-        previousButton.isEnabled = false
+//        previousButton.isEnabled = false
     }
     
     func loadViewWithData(question: Question) {
         chapterNumberLabel.text = "Chapter " + question.chapterNumber
         questionNumberLabel.text = "Question " + question.questionNumber + "/\(chapterQuestions.count)"
         questionTitleLabel.text = question.questionTitle
-        multipleQuestionsTableViewController?.multipleChoices = chapterQuestions[currentQuestion].multipleChoices
-        rationalViewController?.rationalText = chapterQuestions[currentQuestion].rationale
+        let question = chapterQuestions[currentQuestion]
+        multipleQuestionsTableViewController?.options = (question.multipleChoices, question.answer)
+        multipleQuestionsTableViewController?.cellSelected = animateRational
+        rationalViewController?.rationalText = question.rationale
         rationalViewController?.tapHandler = rationalSelected
     }
     
     @IBAction func previousButtonSelected(_ sender: UIButton) {
-        
-        let isFirstQuestion = currentQuestion == 1
-        previousButton.isEnabled = !isFirstQuestion
+//        let isFirstQuestion = currentQuestion == 1
+//        previousButton.isEnabled = !isFirstQuestion
         if currentQuestion == 0 { return }
         currentQuestion -= 1
-        nextButton.isEnabled = true
+//        nextButton.isEnabled = true
 
         loadViewWithData(question: chapterQuestions[currentQuestion])
     }
@@ -70,12 +68,38 @@ class ViewController: UIViewController {
         if isLastQuestion  { return }
         loadViewWithData(question: chapterQuestions[currentQuestion])
 
-        nextButton.isEnabled = currentQuestion != chapterQuestions.count - 1
-        previousButton.isEnabled = true
+//        nextButton.isEnabled = currentQuestion != chapterQuestions.count - 1
+//        previousButton.isEnabled = true
     }
     
     @IBAction func showAnswer(_ sender: UIButton) {
-        
+        multipleQuestionsTableViewController?.showAnswer()
+        animateRational()
+    }
+    
+    func animateRational() {
+        UIView.animate(withDuration: 0.2) {
+            self.rationalContainerView.frame.origin.y -= 40
+            self.view.layoutIfNeeded()
+        }
+    }
+    
+    @IBAction func leftSwipe(_ sender: Any) {
+        currentQuestion += 1
+        let isLastQuestion = currentQuestion == chapterQuestions.count
+        if isLastQuestion  { return }
+        loadViewWithData(question: chapterQuestions[currentQuestion])
+//        nextButton.isEnabled = currentQuestion != chapterQuestions.count - 1
+//        previousButton.isEnabled = true
+    }
+    
+    @IBAction func rightSwipe(_ sender: UISwipeGestureRecognizer) {
+//        let isFirstQuestion = currentQuestion == 1
+//        previousButton.isEnabled = !isFirstQuestion
+        if currentQuestion == 0 { return }
+        currentQuestion -= 1
+//        nextButton.isEnabled = true
+        loadViewWithData(question: chapterQuestions[currentQuestion])
     }
     
     func rationalSelected() {
@@ -90,12 +114,14 @@ class ViewController: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         guard let segueIdentifier = segue.identifier else { return }
         switch segueIdentifier {
-        case "MultipleChoiceTableViewController":
+        case MultipleChoiceTableViewController.className:
             if let upcoming = segue.destination as? MultipleChoiceTableViewController, chapterQuestions.count > 0 {
                 multipleQuestionsTableViewController = upcoming
-                upcoming.multipleChoices = chapterQuestions[currentQuestion].multipleChoices
+                upcoming.cellSelected = animateRational
+                let question = chapterQuestions[currentQuestion]
+                upcoming.options = (question.multipleChoices, question.answer)
             }
-        case "RationalViewController":
+        case RationalViewController.className:
             if let upcoming = segue.destination as? RationalViewController, chapterQuestions.count > 0 {
                 upcoming.tapHandler = rationalSelected
                 rationalViewController = upcoming

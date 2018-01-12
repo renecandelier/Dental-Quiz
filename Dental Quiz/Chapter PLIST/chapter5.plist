@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>1</string>
+          <key>Question Title</key>
+          <string>Which vitamin prevents both cheilosis and glossitis? </string>
+          <key>a</key>
+          <string>Niacin.</string>
+          <key>b</key>
+          <string>Thiamin.</string>
+          <key>c</key>
+          <string>Riboﬂavin.</string>
+          <key>d</key>
+          <string>Cyanocobalamin.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Riboﬂavin (C) prevents cheilosis and glossitis. Niacin (A) prevents pellagra; thiamin (B) prevents beriberi; and cyanocobalamin (cobalamin) (D) prevents pernicious anemia. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>2</string>
+          <key>Question Title</key>
+          <string>A deﬁciency of vitamin B12 causes:</string>
+          <key>a</key>
+          <string>Scurvy.</string>
+          <key>b</key>
+          <string>Pellegra. </string>
+          <key>c</key>
+          <string>Pernicious anemia.</string>
+          <key>d</key>
+          <string>Megaloblastic anemia. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>A deﬁciency in B12 (cobalamin) causes pernicious anemia (C). Scurvy (A) is caused by a vitamin C deﬁciency; pellegra (B) results from a niacin deﬁciency; and megaloblastic anemia (D) results from a folic acid deﬁciency. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>3</string>
+          <key>Question Title</key>
+          <string>Which vitamin is associated with blood clotting?</string>
+          <key>a</key>
+          <string>D.</string>
+          <key>b</key>
+          <string>A.</string>
+          <key>c</key>
+          <string>E.</string>
+          <key>d</key>
+          <string>K.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Vitamin K (D) synthesizes prothrombin for blood clotting. Vitamin D (A) helps absorb calcium and phosphorus; vitamin A (B) is needed for vision; and vitamin E (C) is an essential antioxidant. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>4</string>
+          <key>Question Title</key>
+          <string>Lipids provide:</string>
+          <key>a</key>
+          <string>Sodium. </string>
+          <key>b</key>
+          <string>Vitamin c. </string>
+          <key>c</key>
+          <string>Essential fatty acids.</string>
+          <key>d</key>
+          <string>Essential amino acids.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Lipids provide essential fatty acids (C). Sodium (A) is a mineral; vitamin C (B) is 
+essential for collagen synthesis and wound healing; and essential amino acids (D) are 
+proteins.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>5</string>
+          <key>Question Title</key>
+          <string>Which are associated with calcium? (Select the ﬁve that apply.) </string>
+          <key>a</key>
+          <string>Deﬁciency is p.ernicious anemia</string>
+          <key>b</key>
+          <string>Forms bones and teeth.</string>
+          <key>c</key>
+          <string>Deﬁciency is rickets.</string>
+          <key>d</key>
+          <string>Source includes soy.</string>
+          <key>e</key>
+          <string>Deﬁciency is osteoporosis.</string>
+          <key>f</key>
+          <string>Aids in blood coagulation.</string>
+          <key>g</key>
+          <string>Source includes carrots.</string>
+          <key>answer</key>
+          <string>B, C, D, E, F.</string>
+          <key>rationale</key>
+          <string>Options (B, C, D, E, and F) are associated with calcium. Pernicious anemia (A) results from a cobalamin deﬁciency and carrots are a good source of vitamin A, not calcium (G).</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>6</string>
+          <key>Question Title</key>
+          <string>Bulimia involves eating non-nutritive food substances. The cause of bulimia is a zinc deﬁciency. </string>
+          <key>a</key>
+          <string>Both statements are true. </string>
+          <key>b</key>
+          <string>Both statements are false. </string>
+          <key>c</key>
+          <string>The ﬁrst statement is true and the second is false. </string>
+          <key>d</key>
+          <string>The ﬁrst statement is false and the second is false.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Both statements are false (B). Bulimia involves purging of foods through vomiting or laxative and/or diuretic abuse. The cause is typically considered psychological, not from a zinc deﬁciency. Choices (A, C and D) do not deﬁne the statements. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>7</string>
+          <key>Question Title</key>
+          <string>Each of the following is a symptom of hypoglycemia EXCEPT one. Which one is the EXCEPTION?</string>
+          <key>a</key>
+          <string>Sweating.</string>
+          <key>b</key>
+          <string>Shakiness.</string>
+          <key>c</key>
+          <string>Palpitations.</string>
+          <key>d</key>
+          <string>Lowered heart rate.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>The exception is lowered heart rate (D). With hypoglycemia, the patient typically xperiences sweating (A), shakiness (C), palpations (D), and an increased rather than decreased heart rate. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>8</string>
+          <key>Question Title</key>
+          <string>Which process is aﬀected by diabetes?</string>
+          <key>a</key>
+          <string>Fat intolerance.</string>
+          <key>b</key>
+          <string>Protein metabolism.</string>
+          <key>c</key>
+          <string>Fructose intolerance.</string>
+          <key>d</key>
+          <string>Carbohydrate metabolism.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Diabetes is aﬀected by carbohydrate metabolism (D). The pancreas releases little or no insulin to transport glucose to the cells. Choices (A, B and C) do not deﬁne the question. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>9</string>
+          <key>Question Title</key>
+          <string>The main function of carbohydrates is to:</string>
+          <key>a</key>
+          <string>Regulate metabolism. </string>
+          <key>b</key>
+          <string>Provide energy to the body.</string>
+          <key>c</key>
+          <string>Maintain, repair, and build body tissues.</string>
+          <key>d</key>
+          <string>Aid in maintaining the body&apos;s temperature.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>The main function of carbohydrates is to provide energy to the body (B). The main function is not to regulate metabolism (A). Proteins maintain, repair, and build body tissues (C) and lipids aid in maintaining the body&apos;s temperature (D). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>10</string>
+          <key>Question Title</key>
+          <string>Starch, glycogen, and cellulose are examples of:</string>
+          <key>a</key>
+          <string>Glucose. </string>
+          <key>b</key>
+          <string>Dietary ﬁber.</string>
+          <key>c</key>
+          <string>Disaccharides.</string>
+          <key>d</key>
+          <string>Polysaccharides. </string>
+          <key>e</key>
+          <string>Monosaccharides.</string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Starch, glycogen, and cellulose are examples of polysaccharides (D). Glucose (A) is a monosaccharide. Cellulose is a dietary ﬁber (B), but starch and glycogen are not. Disaccharides (C) are made up of two monosaccharides and include sucrose, lactose, and maltose. Monosaccharides (E) are single sugars and include glucose, fructose and galactose. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>11</string>
+          <key>Question Title</key>
+          <string>Lactose is a:</string>
+          <key>a</key>
+          <string>Nutritive sweetener and is cariogenic. </string>
+          <key>b</key>
+          <string>Nonnutritive sweetener and is cariogenic. </string>
+          <key>c</key>
+          <string>Nutritive sweetener and is noncariogenic. </string>
+          <key>d</key>
+          <string>Nonnutritive sweetener and is noncariogenic.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Lactose, made up of glucose and galactose, is a milk sugar. It is a nutritive sweetener and cariogenic (A). A nutritive sweetener provides calories. All disaccharides are capable of causing decay. Options (B, C, and D) do not correctly deﬁne the statement. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>12</string>
+          <key>Question Title</key>
+          <string>Which vitamin is MOST likely to be deﬁcient in a vegan diet? </string>
+          <key>a</key>
+          <string>Thiamin.</string>
+          <key>b</key>
+          <string>Riboﬂavin.</string>
+          <key>c</key>
+          <string>Cobalamin.</string>
+          <key>d</key>
+          <string>Vitamin b2.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Vegans are most likely to be deﬁcient in cobalamin (C) since the major source of this vitamin is obtained from animals. Thiamin (A), riboﬂavin (B), and vitamin B2
+(riboﬂavin) (D) are obtained from plant sources. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>13</string>
+          <key>Question Title</key>
+          <string>Which food group provides the BEST sources of ascorbic acid?</string>
+          <key>a</key>
+          <string>Meat.</string>
+          <key>b</key>
+          <string>Grain.</string>
+          <key>c</key>
+          <string>Dairy.</string>
+          <key>d</key>
+          <string>Vegetable and fruit.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Ascorbic acid (vitamin C) is obtained from dark-green and yellow-orange vegetables and fruits. Some sources include broccoli, oranges, strawberries, and tomatoes. Meat (A), grains (B) and dairy (C) products are not good sources of vitamin C. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>14</string>
+          <key>Question Title</key>
+          <string>A person who consumes the recommended amounts of milk or dairy products will have an adequate intake of:</string>
+          <key>a</key>
+          <string>Iron.</string>
+          <key>b</key>
+          <string>Thiamine.</string>
+          <key>c</key>
+          <string>Vitamin c.</string>
+          <key>d</key>
+          <string>Vitamin b2.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>A person who consumes the recommended amounts of milk or dairy products will have an adequate intake of vitamin B2 (riboﬂavin) (D). Depending on the type of milk consumed, there may be little to no iron (A), thiamin (B), and/or vitamin C (C) present. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>15</string>
+          <key>Question Title</key>
+          <string>The most recommended professional topical ﬂuoride for bulimics is:</string>
+          <key>a</key>
+          <string>Sodium. </string>
+          <key>b</key>
+          <string>Stannous. </string>
+          <key>c</key>
+          <string>Acidulated phosphate.</string>
+          <key>d</key>
+          <string>Monoﬂuorophosphate.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>The most recommended professional topical ﬂuoride for bulimics is sodium (A) due to its neutral pH. Stannous (B) and acidulated phosphate (C) are not as commonly recommended. Monoﬂuorophosphate (D) is not a professional topical ﬂuoride, but rather an ingredient found in over-the-counter dentifrices. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>16</string>
+          <key>Question Title</key>
+          <string>Linolenic fatty acid is essential. Good sources of linolenic fatty acids are sunﬂower and saﬄower oils.</string>
+          <key>a</key>
+          <string>Both statements are true. </string>
+          <key>b</key>
+          <string>Both statements are false. </string>
+          <key>c</key>
+          <string>The ﬁrst statement is true and the second is false.</string>
+          <key>d</key>
+          <string>The ﬁrst statement is false and the second is false.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>The ﬁrst statement is true and the second is false (C). Linolenic (Omega 3) is an essential amino acid. Good sources </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>17</string>
+          <key>Question Title</key>
+          <string> Implications of bulimia include each of the following EXCEPT one. Which one is the EXCEPTION? </string>
+          <key>a</key>
+          <string>Decalciﬁcation of the teeth</string>
+          <key>b</key>
+          <string>Sores in the mouth</string>
+          <key>c</key>
+          <string>Low heart rate </string>
+          <key>d</key>
+          <string>Perimolysis</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Individuals with bulimia typically do not experience low heart rate (C)—a common side eﬀect of anorexia. Common side eﬀects of bulimia include decalciﬁcation (A), sores in the mouth (B), and perimolysis (D). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>18</string>
+          <key>Question Title</key>
+          <string>For which vitamin is tryptophan a precursor?</string>
+          <key>a</key>
+          <string>C.</string>
+          <key>b</key>
+          <string>D.</string>
+          <key>c</key>
+          <string>Niacin.</string>
+          <key>d</key>
+          <string>Thiamin.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Tryptophan is a precursor of niacin (C). If an individual consumes foods high in tryptophan (e.g., chicken and turkey), it converts to niacin equivalents. Options (A, B and D) do not correctly deﬁne the question. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>19</string>
+          <key>Question Title</key>
+          <string>Good sources of vitamin B1 include:</string>
+          <key>a</key>
+          <string>Animal sources only. </string>
+          <key>b</key>
+          <string>Turkey, legumes, and yogurt. </string>
+          <key>c</key>
+          <string>Pork, enriched grains, and nuts. </string>
+          <key>d</key>
+          <string>Fruits, vegetables, and fortiﬁed foods.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Good sources of vitamin B1 (thiamin) include pork, enriched grains, and nuts (C). Animal sources (A) provide an excellent source of cobalamin. Choices (B and D) do not correctly deﬁne the statement. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>20</string>
+          <key>Question Title</key>
+          <string>For each deﬁciency, select the correct vitamin from the list provided. Deﬁciency Vitamin </string>
+          <key>a</key>
+          <string>Night blindness a. folate</string>
+          <key>b</key>
+          <string>Rickets b. niacin </string>
+          <key>c</key>
+          <string>Beriberi c. a </string>
+          <key>d</key>
+          <string>Scurvy d. c </string>
+          <key>e</key>
+          <string>Pellegra E. Thiamin </string>
+          <key>f</key>
+          <string>Spina bifada F. D </string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>A vitamin A (C) deﬁciency results in night blindness; a vitamin D (F) deﬁciency results in rickets; a thiamin (E) deﬁciency results in beriberi; a vitamin C (D) deﬁciency results in scurvy; a niacin (B) deﬁciency results in pellagra; and a folate (A) deﬁciency can result in spina bifada. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>21</string>
+          <key>Question Title</key>
+          <string>Which carbohydrate provides fuel for the brain?</string>
+          <key>a</key>
+          <string>Sucrose.</string>
+          <key>b</key>
+          <string>Glucose.</string>
+          <key>c</key>
+          <string>Fructose.</string>
+          <key>d</key>
+          <string>Galactose.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Glucose (B) provides fuel for the brain. Sucrose (A), a disaccharide, is table sugar. Fructose (C) is the sweetest of the monosaccharides. Galactose (D), a monosaccharide, is a component of milk sugar. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>22</string>
+          <key>Question Title</key>
+          <string>When evaluating the patient’s intake of fermentable carbohydrates during a diet survey,the most important aspect of the evaluation is the:</string>
+          <key>a</key>
+          <string>Amount of sugar added to foods.</string>
+          <key>b</key>
+          <string>Consistency (physical form) of food.</string>
+          <key>c</key>
+          <string>Frequency of intake. </string>
+          <key>d</key>
+          <string>Total intake. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>When evaluating a diet survey, the most important aspect of the evaluation is the frequency of intake (C)—the amount of times the dentition is exposed to fermentable carbohydrates. Other considerations do include the amount of sugar added to foods (A), the physical form (c0nsistency) of the food (B), and the total amount (D) consumed. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>23</string>
+          <key>Question Title</key>
+          <string>Essential amino acids can be made in the body as long as nitrogen is present. There are 11 essential amino acids.</string>
+          <key>a</key>
+          <string>Both statements are true. </string>
+          <key>b</key>
+          <string>Both statements are false. </string>
+          <key>c</key>
+          <string>The ﬁrst statement is true and the second is false.</string>
+          <key>d</key>
+          <string>The ﬁrst statement is false and the second is false.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Both statements are false (B). Essential amino acids must be obtained from food sources. There are 9 essential amino acids. Options (A, C and D) do not correctly deﬁne the statements. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>24</string>
+          <key>Question Title</key>
+          <string>Monounsaturated fats are bad to consume because they raise serum cholesterol levels.</string>
+          <key>a</key>
+          <string>Both statement and reason are correct and related. </string>
+          <key>b</key>
+          <string>Both statement and reason are correct, but not related</string>
+          <key>c</key>
+          <string>The statement is correct, but the reason is not. </string>
+          <key>d</key>
+          <string>The statement is not correct, but the reason is correct.</string>
+          <key>e</key>
+          <string>NEITHER the statement NOR the reason is correct.</string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>E.</string>
+          <key>rationale</key>
+          <string>Neither the statement nor the reason is correct (E). Monounsaturated fats are not bad to consume and provide a fat that maintains serum cholesterol levels. Choices (A, B, C and D) no not correctly deﬁne the statement and reason.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Nutrition</string>
+          <key>Question Number</key>
+          <string>25</string>
+          <key>Question Title</key>
+          <string>Which fat-soluble vitamin is synthesized by intestinal bacterial ﬂora?</string>
+          <key>a</key>
+          <string>A.</string>
+          <key>b</key>
+          <string>D.</string>
+          <key>c</key>
+          <string>E.</string>
+          <key>d</key>
+          <string>K.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Although vitamin K (D) is obtained from green leafy vegetables and certain vegetable oils, it is also synthesized by intestinal bacterial ﬂora. Fat-soluble vitamins A (A), D (B), and E (C) are obtained from food sources. </string>
+    </dict>
+</array>
+</plist>

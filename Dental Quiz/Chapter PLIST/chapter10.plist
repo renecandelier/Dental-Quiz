@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>1</string>
+		<key>Question Title</key>
+		<string>Prolonged use of which of the following can contribute to gingival hyperplasia? </string>
+		<key>a</key>
+		<string>Digoxin.</string>
+		<key>b</key>
+		<string>Diuretics.</string>
+		<key>c</key>
+		<string>Phenytoin.</string>
+		<key>d</key>
+		<string>Phenobarbital.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  Digoxin is a cardiac glycoside drug to treat CHF, and is not associated with gingival hyperplasia 
+b-  Diuretics are “water pills” not associated with gingival hyperplasia d- Phenobarbital is a barbiturate; the drugs associated with gingival hyperplasia include Phenytoin (Dilantin), calcium channel blockers (like Procardia), and cyclosporine</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>2</string>
+		<key>Question Title</key>
+		<string>Each of the following classes of drugs may be used to treat an allergic reaction except one. Which is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Steroids.</string>
+		<key>b</key>
+		<string>Antibiotics.</string>
+		<key>c</key>
+		<string>Antihistamines.</string>
+		<key>d</key>
+		<string>Sympathomimetic agents.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>a- steroids reduce inﬂammation associated with allergies c- antihistamine reduces histamine action during an allergic reaction  d- sympathomimetics include epinephrine, which is indicated in an anaphylactic reaction</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>3</string>
+		<key>Question Title</key>
+		<string>Which drug would be least desirable to treat an infection in a two-year old patient?</string>
+		<key>a</key>
+		<string>Penicillin.</string>
+		<key>b</key>
+		<string>Tetracycline.</string>
+		<key>c</key>
+		<string>Erythromycin.</string>
+		<key>d</key>
+		<string>Cephalosporin.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>a, c, d- All may be indicated to treat an infection in in a young patient. Tetracycline may result in tooth discoloration if it is taken during tooth development</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>4</string>
+		<key>Question Title</key>
+		<string>The abbreviation “qid” stands for </string>
+		<key>a</key>
+		<string>Every four days.</string>
+		<key>b</key>
+		<string>Every four hours.</string>
+		<key>c</key>
+		<string>Four times a day.</string>
+		<key>d</key>
+		<string>As needed, or as required.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  every four days = q4d 
+b-  every four hours = q4h d- as needed, or as required = PRN </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>5</string>
+		<key>Question Title</key>
+		<string>If a dental patient is allergic to procaine, the allergy is to</string>
+		<key>a</key>
+		<string>Esters.</string>
+		<key>b</key>
+		<string>Amides.</string>
+		<key>c</key>
+		<string>Barbiturates.</string>
+		<key>d</key>
+		<string>Anticonvulsants.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>b- amides are local anesthetics that have an “i” in the ﬁrst part of their name 
+c, d- these medications are not local anesthetics. Procaine (-caine) is an ester local anesthetic medication with a relatively high allergy potential</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>6</string>
+		<key>Question Title</key>
+		<string>The most common concentration of vasoconstrictor in a local anesthetic solution is </string>
+		<key>a</key>
+		<string>2%.</string>
+		<key>b</key>
+		<string>3%.</string>
+		<key>c</key>
+		<string>1:50,000.</string>
+		<key>d</key>
+		<string>1:100,000.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a, b- vasoconstrictor in a local anesthetic solution is expressed as a ratio, not as a percentage c- a 1:50,000 ratio is higher than 1:100,000, and is often used to control hemorrhage </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>7</string>
+		<key>Question Title</key>
+		<string>Which of the following drugs is indicated in the treatment of oral candidiasis? </string>
+		<key>a</key>
+		<string>Penicillin.</string>
+		<key>b</key>
+		<string>Hydrocortisone.</string>
+		<key>c</key>
+		<string>Zovirax (acyclovir).</string>
+		<key>d</key>
+		<string>Nystatin (mycostatin).</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a-  Penicillin is an antibiotic used in the treatment of bacterial infections, not fungal infections 
+b-  Hydrocortisone is a steroid medication 
+c-  Zovirax is an antiviral medication, not used to treat fungal infections </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>8</string>
+		<key>Question Title</key>
+		<string>Which condition is an indication for the use of a vasodilator medication?</string>
+		<key>a</key>
+		<string>Syncope.</string>
+		<key>b</key>
+		<string>Chest pain.</string>
+		<key>c</key>
+		<string>Hypoglycemia.</string>
+		<key>d</key>
+		<string>Respiratory distress.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>a- Syncope is managed by placing the patient supine, and administering aromatic ammonia and oxygen c-  Hypoglycemia is managed with the administration of oral carbohydrate, such as glucose d-  Respiratory distress in often managed with albuterol and/or oxygen </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>9</string>
+		<key>Question Title</key>
+		<string>What is the action of enalapril maleate (Vasotec)?</string>
+		<key>a</key>
+		<string>Bronchodilator.</string>
+		<key>b</key>
+		<string>Antidepressant.</string>
+		<key>c</key>
+		<string>Antihypertensive.</string>
+		<key>d</key>
+		<string>Sedation and anxiety reduction.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  Vasotec is an ACE inhibitor used to manage hypertension, it is not a bronchodilator 
+b-  Vasotec is an ACE inhibitor used to manage hypertension, it is not an antidepressant d- Vasotec is an ACE inhibitor used to manage hypertension, it does not reduce anxiety</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>10</string>
+		<key>Question Title</key>
+		<string>Abuse of which drug will result in “pinpoint” pupils of the eyes? </string>
+		<key>a</key>
+		<string>Heroin.</string>
+		<key>b</key>
+		<string>Valium.</string>
+		<key>c</key>
+		<string>Cocaine.</string>
+		<key>d</key>
+		<string>Amphetamines.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>b-  Valium is not an opioid medication, it is a benzodiazepine drug 
+c-  Cocaine abusers often present with dilated pupils 
+d-  Amphetamine abusers often present with dilated pupils </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>11</string>
+		<key>Question Title</key>
+		<string>When are anticholinergic drugs indicated in dentistry?</string>
+		<key>a</key>
+		<string>Local anesthesia.</string>
+		<key>b</key>
+		<string>Treatment of xerostomia.</string>
+		<key>c</key>
+		<string>Emergency treatment of chest pain.</string>
+		<key>d</key>
+		<string>Decrease of salivation to obtain dry ﬁeld for treatment.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a-  Local anesthetics used in dentistry usually have “-caine” in their names, and they are not anticholinergic drugs 
+b-  Anticholinergic drugs block the parasympathetic nervous system which results in xerostomia 
+c-  Vasodilators (such as nitroglycerin) are indicted in the management of chest pain </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>12</string>
+		<key>Question Title</key>
+		<string>Which medication is contraindicated in young children?</string>
+		<key>a</key>
+		<string>Aspirin.</string>
+		<key>b</key>
+		<string>Opioids.</string>
+		<key>c</key>
+		<string>Acetaminophen.</string>
+		<key>d</key>
+		<string>Non-steroidal anti-inﬂammatory medications (NSAIDs).</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>b, c, d- these medications are NOT associated with Reye’s syndrome in young patients</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>13</string>
+		<key>Question Title</key>
+		<string>Epinephrine is added to local anesthetic solutions to </string>
+		<key>a</key>
+		<string>Prevent asthma attacks.</string>
+		<key>b</key>
+		<string>Increase the rate of diﬀusion from the injection site.</string>
+		<key>c</key>
+		<string>Decrease the rate of diﬀusion from the injection site.</string>
+		<key>d</key>
+		<string>Prevent circulatory collapse if the solution is injected into a blood vessel.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  Epinephrine injection IS indicted in the management of severe asthma episodes, but this is not the reason it is added to local anesthetic solutions 
+b-  Epinephrine decreases the rate of diﬀusion from the site through vasoconstriction d- Epinephrine is not used for this reason</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>14</string>
+		<key>Question Title</key>
+		<string>Benzodiazepines produce all of the following eﬀects except</string>
+		<key>a</key>
+		<string>Anesthesia.</string>
+		<key>b</key>
+		<string>Muscle relaxation.</string>
+		<key>c</key>
+		<string>Anxiety reduction.</string>
+		<key>d</key>
+		<string>Anticonvulsant action.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>b, c, d- although benzodiazepines (like Valium) are sedatives, they are not used for anesthesia. Their primary pharmacological eﬀects include anxiety reduction, anticonvulsant activity and muscle relaxation </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>15</string>
+		<key>Question Title</key>
+		<string>Each of the following is a pharmacological eﬀect of narcotic (opioid) agents EXCEPT one. Which is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Euphoria.</string>
+		<key>b</key>
+		<string>Sedation.</string>
+		<key>c</key>
+		<string>Analgesia.</string>
+		<key>d</key>
+		<string>Antitussive action.</string>
+		<key>e</key>
+		<string>Anti-inﬂammatory action</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>E.</string>
+		<key>rationale</key>
+		<string>a, b, c, d- Opioid medications are analgesics with no anti-inﬂammatory activity. Their pharmacological eﬀects include euphoria (feeling of well-being), sedation, analgesia and antitussive action (cough suppression). </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>16</string>
+		<key>Question Title</key>
+		<string>Which of the following is a relative contraindication for the use of nitrous oxide/oxygen sedation? </string>
+		<key>a</key>
+		<string>Asthma.</string>
+		<key>b</key>
+		<string>Epilepsy.</string>
+		<key>c</key>
+		<string>Hypertension.</string>
+		<key>d</key>
+		<string>Mental disability.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a, b, c- Nitrous oxide/oxygen sedation can be safely administered to patients with asthma, epilepsy and hypertension. However, some patients with a mental disability are unable to eﬀectively communicate regarding how the nitrous oxide aﬀects them, making titration/dosing diﬃcult. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>17</string>
+		<key>Question Title</key>
+		<string>Which antibiotic concentrates in gingival crevicular ﬂuid?</string>
+		<key>a</key>
+		<string>Penicillin.</string>
+		<key>b</key>
+		<string>Cephalexin.</string>
+		<key>c</key>
+		<string>Tetracycline.</string>
+		<key>d</key>
+		<string>Erythromycin.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a, b, d- These three antibiotic medications are often used in dentistry, but do not concentrate in gingival crevicular ﬂuid to the extent that tetracycline does. This property makes tetracycline a good drug to manage periodontal infections. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>18</string>
+		<key>Question Title</key>
+		<string>Which drug is a nonselective beta-blocking agent? </string>
+		<key>a</key>
+		<string>Atenolol.</string>
+		<key>b</key>
+		<string>Metoprolol .</string>
+		<key>c</key>
+		<string>Propranolol .</string>
+		<key>d</key>
+		<string>Levonordefrin .</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  Atenolol (Tenormin) is a “selective” beta-blocker, which means that it blocks beta-1 adrenergic receptors more than beta-2 adrenergic receptors.
+b-  Metoprolol (Lopressor) is a “selective” beta-blocker, which means that it blocks beta-1 adrenergic receptors more than beta-2 adrenergic receptors. d- Levonordefrin is not a beta-blocking drug.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>19</string>
+		<key>Question Title</key>
+		<string>Which medication is indicated to relieve a dental patient’s anxiety?</string>
+		<key>a</key>
+		<string>Tylenol.</string>
+		<key>b</key>
+		<string>Benadryl.</string>
+		<key>c</key>
+		<string>Tenormin.</string>
+		<key>d</key>
+		<string>Diazepam.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a-  Tylenol (acetaminophen) is an analgesic (pain control) drug- it does not control anxiety 
+b-  Benadryl (diphenhydramine) is an antihistamine- it does not control anxiety 
+c-  Tenormin (atenolol) is an adrenergic blocking drug indicated in the management of hypertension- it does not control anxiety 
+d-  Diazepam (Valium) is a benzodiazepine drug that is used to reduce anxiety </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>20</string>
+		<key>Question Title</key>
+		<string>Which of the following drugs acts upon the anaerobic organisms of necrotizing ulcerative gingivitis?</string>
+		<key>a</key>
+		<string>Nystatin.</string>
+		<key>b</key>
+		<string>Isoniazid.</string>
+		<key>c</key>
+		<string>Amoxicillin.</string>
+		<key>d</key>
+		<string>Metronidazole.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a-  Nystatin (mycostatin) is an antifungal medication that is not used to treat a bacterial infection such as NUG 
+b-  Isoniazid is an antibiotic most commonly used to treat tuberculosis 
+c-  Amoxicillin is an antibiotic with antibacterial action, but Metronidazole (Flagyl) has a greater anaerobic eﬃcacy</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>21</string>
+		<key>Question Title</key>
+		<string>Tylenol with codeine falls into which DEA schedule of controlled substances?</string>
+		<key>a</key>
+		<string>Schedule I.</string>
+		<key>b</key>
+		<string>Schedule II.</string>
+		<key>c</key>
+		<string>Schedule III.</string>
+		<key>d</key>
+		<string>Schedule IV.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  Schedule I drugs are associated with a high abuse potential, and have no accepted medical use 
+b-  Schedule II drugs include opioids, such as oxycodone and codeine ALONE. When codeine is found in combination with a non-opioid drug, it is classiﬁed as a schedule III drug d- Schedule IV drugs have a lower abuse potential than Tylenol with codeine</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>22</string>
+		<key>Question Title</key>
+		<string>Narcan (naloxone) reverses the eﬀects of </string>
+		<key>a</key>
+		<string>NSAID medications.</string>
+		<key>b</key>
+		<string>Opioid analgesic medications.</string>
+		<key>c</key>
+		<string>Topical and systemic ﬂuoride.</string>
+		<key>d</key>
+		<string>Antibiotics, especially penicillin.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>a- Narcan (naloxone) is a NARCOTIC antagonist that does not reverse NSAID eﬀects 
+c, d- Fluoride and antibiotic eﬀects are not reversed by narcotic antagonists </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>23</string>
+		<key>Question Title</key>
+		<string>A patient states that she frequently takes aspirin. Which of the following reasons BEST describes why a dental hygienist should question the patient further regarding her aspirin use? </string>
+		<key>a</key>
+		<string>Aspirin can increase a patient’s clotting time.</string>
+		<key>b</key>
+		<string>Aspirin often reduces a patient’s blood pressure.</string>
+		<key>c</key>
+		<string>Frequent aspirin use may increase the risk of post-treatment infection.</string>
+		<key>d</key>
+		<string>Aspirin interferes with the eﬀectiveness of antibiotics used in dentistry.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>b-  Aspirin may INCREASE a patient’s blood pressure if he/she is also taking antihypertensive medications 
+c-  At therapeutic doses, aspirin does not aﬀect a patient’s risk of infection 
+d-  Although aspirin is associated with many drug interactions (including with Warfarin, Probenecid, Methotrexate, Sulfonylurea and antihypertensive drugs), it can be taken concurrently with antibiotics </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>24</string>
+		<key>Question Title</key>
+		<string>Which of the following medications used to prevent organ transplant rejection might result in gingival overgrowth?</string>
+		<key>a</key>
+		<string>Phenytoin.</string>
+		<key>b</key>
+		<string>Prednisone.</string>
+		<key>c</key>
+		<string>Cyclosporine.</string>
+		<key>d</key>
+		<string>Cyclobenzaprine.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>a-  Phenytoin (Dilantin) has been associated with an increased risk of gingival hyperplasia, but it is an anticonvulsant medication, not used to prevent transplant rejection 
+b-  Prednisone is not typically associated with increasing a patient’s risk of gingival hyperplasia d- Cyclobenzaprine (Flexeril) is a skeletal muscle relaxant </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.2</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>25</string>
+		<key>Question Title</key>
+		<string>Which is the ﬁrst drug of choice indicated in the treatment of methicillin-resistant staphylococcus aureus (MRSA)?</string>
+		<key>a</key>
+		<string>Nystatin.</string>
+		<key>b</key>
+		<string>Methicillin.</string>
+		<key>c</key>
+		<string>Amoxicillin.</string>
+		<key>d</key>
+		<string>Vancomycin.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>a-  Nystatin (mycostatin) is an antifungal medication, not used to treat bacterial infections 
+b-  MRSA would not be eﬀectively treated with Methicillin, since the disease is resistant to this drug 
+c-  Amoxicillin is in a similar class of antibiotics with Methicillin (beta- lactams), to which MRSA is typically resistant</string>
+	</dict>
+</array>
+</plist>

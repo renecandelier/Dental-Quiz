@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>1</string>
+		<key>Question Title</key>
+		<string>When written on a prescription, &quot;PO&quot; is an abbreviation for </string>
+		<key>a</key>
+		<string>By mouth.</string>
+		<key>b</key>
+		<string>After meals.</string>
+		<key>c</key>
+		<string>Before meals.</string>
+		<key>d</key>
+		<string>Post-operatively.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>&quot;Po&quot; is an abbreviation from Latin meaning &quot;by the opening&quot; or &quot;per os&quot; 
+</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>2</string>
+		<key>Question Title</key>
+		<string>Narcan (Naloxone):</string>
+		<key>a</key>
+		<string>Is a narcotic (opioid) analgesic .</string>
+		<key>b</key>
+		<string>Is a narcotic analgesic medication similar to morphine.</string>
+		<key>c</key>
+		<string>Is used in the management of local anesthetic overdose.</string>
+		<key>d</key>
+		<string>Combines with endorphin receptors in the CNS, reversing the eﬀects of opioid drugs.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Narcan (naloxone) reverses the eﬀects of opioid medications by binding to the same 
+receptors as opioids, preventing opioid drugs from exerting their eﬀects.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>3</string>
+		<key>Question Title</key>
+		<string>Penicillin&apos;s mechanism of action:</string>
+		<key>a</key>
+		<string>Destroys the bacterial cell wall .</string>
+		<key>b</key>
+		<string>Inhibits bacterial protein synthesis.</string>
+		<key>c</key>
+		<string>Reduces inﬂammation associated with infections.</string>
+		<key>d</key>
+		<string>Inhibits nucleic acid (DNA) synthesis in pathogenic bacteria.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Penicillin destroys bacteria by inhibiting the ﬁnal step in the biosynthesis of the cell wall.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>4</string>
+		<key>Question Title</key>
+		<string>A drug&apos;s duration is: </string>
+		<key>a</key>
+		<string>The pharmacological activity of a drug..</string>
+		<key>b</key>
+		<string>The length of time that a drug has an eﬀect..</string>
+		<key>c</key>
+		<string>The time it takes for a drug to produce an eﬀect..</string>
+		<key>d</key>
+		<string>Represented on the log-dose curve by the maximum response..</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>The length of time that a drug has an eﬀect is the drug&apos;s duration. The time is takes for a
+drug to produce an eﬀect is the drug&apos;s onset.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>5</string>
+		<key>Question Title</key>
+		<string>During an emergency, which route of drug administration will result in the fastest onset of a drug&apos;s action?</string>
+		<key>a</key>
+		<string>Oral dose .</string>
+		<key>b</key>
+		<string>Sublingual dose.</string>
+		<key>c</key>
+		<string>Intravenous dose (IV) .</string>
+		<key>d</key>
+		<string>Subcutaneous route (sub-Q).</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Intravascular (IV) drug administration bypasses the absorption phase of pharmacokinetics, 
+and this direct application to the circulation allows a fast onset of the drug&apos;s action.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>6</string>
+		<key>Question Title</key>
+		<string>Each of the following drugs may result in an increased amount of bleeding during scaling and root planing except one. Which is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Aspirin .</string>
+		<key>b</key>
+		<string>Heparin.</string>
+		<key>c</key>
+		<string>Warfarin.</string>
+		<key>d</key>
+		<string>Acetaminophen.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Increased risk of bleeding during treatment may occur with aspirin, due to its antiplatelet 
+eﬀect. Heparin and Warfarin are anticoagulant (&quot;blood-thinners&quot;) medications. Acetaminophen does not exhibit these eﬀects.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>7</string>
+		<key>Question Title</key>
+		<string>The maximum amount of epinephrine that may be administered to a patient with cardiovascular disease is</string>
+		<key>a</key>
+		<string>.2 mg.</string>
+		<key>b</key>
+		<string>.4 mg.</string>
+		<key>c</key>
+		<string>.02 mg.</string>
+		<key>d</key>
+		<string>.04 mg.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>The maximum recommended dose of epinephrine for a healthy patient is .2 mg, and the maximum recommended dose for a patient with cardiovascular disease is .04 mg, or approximately 2 cartridges of a local anesthetic solution with epinephrine 1:100,000.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>8</string>
+		<key>Question Title</key>
+		<string>Which organ plays the greatest role in absorption of orally-administered medications?</string>
+		<key>a</key>
+		<string>Liver.</string>
+		<key>b</key>
+		<string>Kidneys .</string>
+		<key>c</key>
+		<string>Stomach.</string>
+		<key>d</key>
+		<string>Small intestine.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Medications taken by mouth are absorbed in the small intestine, metabolized in the liver, 
+and excreted by the kidneys. Although there are other routes, these organs are the most important in the pharmacokinetics of orally-administered medications.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>9</string>
+		<key>Question Title</key>
+		<string>Which adverse reaction is commonly associated with opioid analgesics?</string>
+		<key>a</key>
+		<string>Sedation .</string>
+		<key>b</key>
+		<string>Diarrhea .</string>
+		<key>c</key>
+		<string>Hypertension.</string>
+		<key>d</key>
+		<string>Superinfection.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Adverse reactions associated with opioid analgesics include sedation, respiratory depression, nausea, constipation and the risk for addiction/abuse. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>9.1</string>
+		<key>Chapter Title</key>
+		<string>Pharmacology</string>
+		<key>Question Number</key>
+		<string>10</string>
+		<key>Question Title</key>
+		<string>Which medication is NOT associated with gingival hyperplasia as an adverse eﬀect?</string>
+		<key>a</key>
+		<string>Cyclosporine .</string>
+		<key>b</key>
+		<string>Tenormin (atenolol).</string>
+		<key>c</key>
+		<string>Dilantin (phenytoin).</string>
+		<key>d</key>
+		<string>Procardia (nifedipine).</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Phenytoin, nifedipine and cyclosporine are three important medications that may increase the risk of gingival overgrowth in patients taking them.</string>
+	</dict>
+</array>
+</plist>

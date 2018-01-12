@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>1</string>
+		<key>Question Title</key>
+		<string>Each of the following is a property of a good disinfectant EXCEPT one. Which one is the EXCEPTION?</string>
+		<key>a</key>
+		<string>Offers a residual effect.</string>
+		<key>b</key>
+		<string>Kills all microorganisms.</string>
+		<key>c</key>
+		<string>Compatible to the environment.</string>
+		<key>d</key>
+		<string>Provides a broad-spectrum anti-microbial.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Even good disinfectants do not kill 
+all microorganisms (B). However,
+they do offer a residual effect (A), 
+are compatible to the environment
+(C), and provide a broad-spectrum
+anti-microbial (D).</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>2</string>
+		<key>Question Title</key>
+		<string>One of the disadvantages of steam sterilization is that it:</string>
+		<key>a</key>
+		<string>May not kill spores. </string>
+		<key>b</key>
+		<string>Produces a strong odor. </string>
+		<key>c</key>
+		<string>Has a long exposure time. </string>
+		<key>d</key>
+		<string>Corrodes carbon-steel instruments.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>One of the disadvantages to steam sterilization is that it corrodes carbon-steel instruments (D). Steam sterilization does kill spores (A) and does not produce a strong odor (B) nor does it have a long exposure time (C). </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>3</string>
+		<key>Question Title</key>
+		<string>Each of the following is an example of regulated biohazard waste EXCEPT one. Which one is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Needle.</string>
+		<key>b</key>
+		<string>Extracted tooth. </string>
+		<key>c</key>
+		<string>Moist facial mask. </string>
+		<key>d</key>
+		<string>Gauze square dripping with blood.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>A moist facial mask (C) is an example of non-regulated waste that can be disposed of in regular trash. A needle (A), an extracted tooth (B) and gauze saturated with blood (D) are examples of regulated biohazard waste.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>4</string>
+		<key>Question Title</key>
+		<string>Which agency monitors the ﬂuoride in bottled water?</string>
+		<key>a</key>
+		<string>EPA.</string>
+		<key>b</key>
+		<string>FDA.</string>
+		<key>c</key>
+		<string>OSHA.</string>
+		<key>d</key>
+		<string>Bureau of Water Management.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>The FDA (B) monitors the ﬂuoride in bottled water. The EPA (A) monitors the water in community drinking water systems. OSHA (C) sets standards to protect employees in the workplace. The Bureau of Water Management (D) develops and analyzes policies on water resource issues. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>5</string>
+		<key>Question Title</key>
+		<string>Referring to Angle’s classiﬁcation for occlusion for the permanent dentition, a Class II, division II (2) denotes a proﬁle that is: </string>
+		<key>a</key>
+		<string>Prognathic. </string>
+		<key>b</key>
+		<string>Mesognathic. </string>
+		<key>c</key>
+		<string>Retrognathic, with one or more anterior teeth inclined lingually. </string>
+		<key>d</key>
+		<string>Etrognathic, with one or more maxillary teeth protruded facially.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>A Class II, division II denotes a proﬁle that is retrognathic, with one or more anterior teeth inclined lingually (C). A prognathic (A) proﬁle is a Class III occlusion. A mesognathic (B) proﬁle is a Class I occlusion. A retrognathic proﬁle, with one or more maxillary teeth protruded facially (D) is a Class II, division I occlusion. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>6</string>
+		<key>Question Title</key>
+		<string>Clinically, the dentist ﬁnds evidence of decay on the cervical 1/3 of the facial of tooth #8. The G.V. Black Classiﬁcation of this decay is: </string>
+		<key>a</key>
+		<string>I.</string>
+		<key>b</key>
+		<string>V.</string>
+		<key>c</key>
+		<string>II.</string>
+		<key>d</key>
+		<string>IV.</string>
+		<key>e</key>
+		<string>VI.</string>
+		<key>f</key>
+		<string>III.</string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>G.V. Black Classiﬁcation of decay and/or restoration on the cervical 1/3 is a Class V (B). A Class I (A) involves pits and ﬁssures on lingual surfaces of anterior and occlusal, buccal, and lingual surfaces of posterior teeth. A Class II (C) involves the proximal surface of posterior teeth. A Class IV (D) involves the proximal surface of anterior teeth and includes the incisal edge. A Class VI (E) involves the incisal edge of anterior and/or cusp tips of posterior teeth. Class III (F) involves the proximal surfaces of anterior teeth.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>7</string>
+		<key>Question Title</key>
+		<string>One of the disadvantages of a phenol disinfectant is that it:</string>
+		<key>a</key>
+		<string>Is corrosive to metals. </string>
+		<key>b</key>
+		<string>Generates toxic fumes. </string>
+		<key>c</key>
+		<string>Has a lower kill spectrum.</string>
+		<key>d</key>
+		<string>Leaves a residue on surfaces.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>One of the disadvantages of a phenol disinfectant is that it leaves a residue on surfaces (D). Choices (A, B and C) do not correctly deﬁne the statement. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>8</string>
+		<key>Question Title</key>
+		<string>Each of the following is a compound used to ﬂuoridate community drinking water systems EXCEPT one. Which one is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Sodium ﬂuoride. </string>
+		<key>b</key>
+		<string>Sodium silicoﬂuoride.</string>
+		<key>c</key>
+		<string>Hydroﬂuorosilicic acid.</string>
+		<key>d</key>
+		<string>Sodium monoﬂuorophosphate. </string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Sodium monoﬂuorophosphate (D), not used to ﬂuoridate community drinking water systems, is found in over-the-counter products. Sodium ﬂuoride (A), sodium silicoﬂuoride (B) and hydroﬂuorosilicic acid (C) are all compounds used to ﬂuoridate community drinking water systems.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>9</string>
+		<key>Question Title</key>
+		<string>The dental hygienist is planning to use an ultrasonic scaler on his/her patient. What motion and which sides are active in the magnetostrictive ultrasonic scaler?Motion is: </string>
+		<key>a</key>
+		<string>Linear with all sides active. </string>
+		<key>b</key>
+		<string>Elliptical with all sides active. </string>
+		<key>c</key>
+		<string>Linear with lateral sides active</string>
+		<key>d</key>
+		<string>Elliptical with lateral sides active.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>With a magnetostrictive ultrasonic scaler, the motion is elliptical with all sides active (B). Choices (A and D) do not correctly deﬁne the statement. A linear motion with active lateral sides (C) describes a piezoelectric scaler. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>10</string>
+		<key>Question Title</key>
+		<string>The dental hygienist has just removed the instrument cassette from the autoclave. The indicator tape on the wrapping has turned brown. Which of the following is assured? </string>
+		<key>a</key>
+		<string>The instruments have been sterilized. </string>
+		<key>b</key>
+		<string>The instruments have been heat processed. </string>
+		<key>c</key>
+		<string>All microorganisms, except spores, have been killed. </string>
+		<key>d</key>
+		<string>All microorganisms, except tuberculosis, have been killed.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>The indicator tape turning brown after being through the autoclave only indicates instruments have been heat processed (B). The only way to determine if the instruments are sterilized (A), and that all microorganisms have been destroyed (C and D) is through spore testing. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>11</string>
+		<key>Question Title</key>
+		<string>Which stain is not caused by poor oral hygiene?</string>
+		<key>a</key>
+		<string>Brown.</string>
+		<key>b</key>
+		<string>Orange.</string>
+		<key>c</key>
+		<string>Green.</string>
+		<key>d</key>
+		<string>Bluish green.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Bluish green (D) stain is not caused by poor oral hygiene, but rather inhaling metallic dust. Brown (A) stain is caused from poor oral hygiene and drinking dark-colored beverages. Orange (B) and green (C) stains are associated from poor oral hygiene. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>12</string>
+		<key>Question Title</key>
+		<string>There are four classiﬁcations of furcations. With Class III furcation, there is severe bone loss with recession and the Nabers probe can pass between the roots. </string>
+		<key>a</key>
+		<string>Both statements are true. </string>
+		<key>b</key>
+		<string>Both statements are false. </string>
+		<key>c</key>
+		<string>The ﬁrst statement is true and the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false and the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>The ﬁrst statement is true and the second is false (C). There are 4 classiﬁcations of furcations—I, II, III and IV. With Class III furcation, the probe can pass between the roots, but there is no visible recession. Choices (A, B and D) do not correctly deﬁne the statements.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>13</string>
+		<key>Question Title</key>
+		<string>Which agency monitors the ﬂuoride in the community drinking water supply?</string>
+		<key>a</key>
+		<string>EPA.</string>
+		<key>b</key>
+		<string>FDA.</string>
+		<key>c</key>
+		<string>OSHA.</string>
+		<key>d</key>
+		<string>Bureau of Water Management.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>The EPA (A) monitors the ﬂuoride in the community drinking water systems. The FDA (B) monitors the ﬂuoride in bottled water. OSHA (C) sets standards to protect employees in the workplace and the Bureau of Water Management (D) develops and analyzes policies on water resource issues. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>14</string>
+		<key>Question Title</key>
+		<string>What is the ﬁrst measure to take when a child ingests a toxic amount of topical ﬂuoride?</string>
+		<key>a</key>
+		<string>Drink milk.</string>
+		<key>b</key>
+		<string>Induce vomiting.</string>
+		<key>c</key>
+		<string>Seek medical attention. </string>
+		<key>d</key>
+		<string>Administer a ﬂuoride-binding agent.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>The ﬁrst mode of action when a child ingests a toxic amount of topical ﬂuoride is to induce vomiting (B). Following, a ﬂuoride–binding agent (D) should be administered which milk (A) is an example. Lastly, if needed, seek medical attention (C). </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>15</string>
+		<key>Question Title</key>
+		<string>Which stain can stannous ﬂuoride cause?</string>
+		<key>a</key>
+		<string>Brown.</string>
+		<key>b</key>
+		<string>Green.</string>
+		<key>c</key>
+		<string>Black.</string>
+		<key>d</key>
+		<string>Orange.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Stannous ﬂuoride causes a brown (A) stain. Green (B) and orange (D) stains are caused from poor oral hygiene and black (C) stain is caused from tobacco use. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>16</string>
+		<key>Question Title</key>
+		<string>How long can symptoms of acute ﬂuoride toxicity last?</string>
+		<key>a</key>
+		<string>1 hour.</string>
+		<key>b</key>
+		<string>10 hours.</string>
+		<key>c</key>
+		<string>10 minutes.</string>
+		<key>d</key>
+		<string>Up to 24 hours.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Symptoms from acute ﬂuoride toxicity can begin in 30 minutes and last up to 24 hours (D). Options (A, B and C) do not correctly deﬁne the question.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>17</string>
+		<key>Question Title</key>
+		<string>From the following list, select ﬁve (5) items associated with Chlorhexidine.</string>
+		<key>a</key>
+		<string>Increases supragingival calculus formation.</string>
+		<key>b</key>
+		<string>Decreases supragingival plaque formation.</string>
+		<key>c</key>
+		<string>Suppresses Streptococcus mutans.</string>
+		<key>d</key>
+		<string>Causes gingival hyperplasia.</string>
+		<key>e</key>
+		<string>Causes dysgeusia.</string>
+		<key>f</key>
+		<string>Stains teeth.</string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A, B, C, E, &amp; F. </string>
+		<key>rationale</key>
+		<string>The ﬁve items associated with Chlorhexidine use are options (A, B, C, E and F). Chlorhexidine does not cause gingival hyperplasia (D). </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>18</string>
+		<key>Question Title</key>
+		<string>What is the safely tolerated dose for topical ﬂuoride?</string>
+		<key>a</key>
+		<string>&gt;5 mg/kg.</string>
+		<key>b</key>
+		<string>&gt;15 mg/kg.</string>
+		<key>c</key>
+		<string>One-fourth the certainly lethal dose. </string>
+		<key>d</key>
+		<string>The amount of drug likely to cause death if not intercepted by antidotal therapy.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>The safely tolerated dose of topical ﬂuoride is one-fourth of the certainly lethal dose (C)—the amount of drug likely to cause death if not intercepted by antidotal therapy. Options (A, B and D) do not correctly deﬁne the question. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>19</string>
+		<key>Question Title</key>
+		<string>Signs and symptoms of acute ﬂuoride toxicity includes each of the following EXCEPT one. Which one is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Vomiting.</string>
+		<key>b</key>
+		<string>Fluorosis. </string>
+		<key>c</key>
+		<string>Increase in thirst.</string>
+		<key>d</key>
+		<string>Increase in salivation.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Fluorosis (B) is not a sign or symptom of acute ﬂuoride toxicity, but rather from chronic intake of systemic ﬂuoride of 2ppm or greater during tooth development. Vomiting (A), increased thirst (C) and increased salivation (D) are signs and symptoms of acute ﬂuoride toxicity. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>20</string>
+		<key>Question Title</key>
+		<string>Fluorosis may be observed drinking ﬂuoridated water during tooth development beginning at how many ppm?</string>
+		<key>a</key>
+		<string>1.</string>
+		<key>b</key>
+		<string>2.</string>
+		<key>c</key>
+		<string>3.</string>
+		<key>d</key>
+		<string>4.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Signs of ﬂuorosis may be evidenced when there is 2 ppm (B) of ﬂuoride in the community drinking water systems. Typically, with 1 ppm (A) of ﬂuoride in the water there would be no evidence of ﬂuorosis. Three (C) and 4 ppm (D) of ﬂuoride in the community drinking water systems would be over the 2 ppm that would initially cause ﬂuorosis. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>21</string>
+		<key>Question Title</key>
+		<string>The Cooper’s live in a rural area and have well water which tested at &lt; 0.3 ppm of ﬂuoride. How much ﬂuoride should be supplemented daily for their 5-year-old daughter who has one occlusal restoration? </string>
+		<key>a</key>
+		<string>None.</string>
+		<key>b</key>
+		<string>1 mg.</string>
+		<key>c</key>
+		<string>.25 mg.</string>
+		<key>d</key>
+		<string>.50 mg.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>The amount of a daily ﬂuoride supplement recommended to a 5-year-old who lives in an area where there is &lt;0.3 ppm of ﬂuoride in the drinking water system is .50 mg. (D). Choices (A, B and C) do not correctly deﬁne the question. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>22</string>
+		<key>Question Title</key>
+		<string>The preferred type of professional topical ﬂuoride application for a patient with composite veneer bonding on teeth #s 8 and 9 is: </string>
+		<key>a</key>
+		<string>1.23% APF. </string>
+		<key>b</key>
+		<string>2% sodium ﬂuoride. </string>
+		<key>c</key>
+		<string>8% stannous ﬂuoride. </string>
+		<key>d</key>
+		<string>Sodium monoﬂuorophosphate.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>If a patient has porcelain or composite veneer bonding, the topical ﬂuoride of choice is 2% sodium ﬂuoride (B). 1.23% APF (A) would etch these restorative materials. 8% stannous ﬂuoride (C) is not recommended due to the possibility of staining around the margins of these restorations. Sodium monoﬂuorophosphate is not a professional topical ﬂuoride and is found in over-the-counter products. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>23</string>
+		<key>Question Title</key>
+		<string>A 4-year-old child who lives in a non-ﬂuoridated area has rampant decay. Each of the following ﬂuoride home-care regimens could be used, with parental supervision, EXCEPT one. Which one is the EXCEPTION? </string>
+		<key>a</key>
+		<string>Tablets.</string>
+		<key>b</key>
+		<string>Dentifrices.</string>
+		<key>c</key>
+		<string>Mouth rinses.</string>
+		<key>d</key>
+		<string>Brush-on gels.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>A 4-year-old child could use all of the above products, under direct supervision, except mouth rinses (C). It is not recommended for children under the age of 6 to use mouth rinses since they have a tendency to swallow, rather than expectorate the rinse. Tablets (A), dentifrices (B) and brush-on gels (D) can be used with direct supervision. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>24</string>
+		<key>Question Title</key>
+		<string>Which indicates a rapid pulse rate?</string>
+		<key>a</key>
+		<string>Bradypnea.</string>
+		<key>b</key>
+		<string>Tachypnea.</string>
+		<key>c</key>
+		<string>Bradycardia.</string>
+		<key>d</key>
+		<string>Tachycardia.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>A rapid pulse is tachycardia (D). Bradypnea (A) refers to slow respirations; tachypnea (B) refers to rapid respirations; and bradycardia (C) refers to a slow pulse rate.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>1</string>
+		<key>Chapter Title</key>
+		<string>Clinical Dental Hygiene/Flouride</string>
+		<key>Question Number</key>
+		<string>25</string>
+		<key>Question Title</key>
+		<string>The daily use of self-applied topical ﬂuoride: </string>
+		<key>a</key>
+		<string>Should be avoided. </string>
+		<key>b</key>
+		<string>Is contraindicated for adults. </string>
+		<key>c</key>
+		<string>Can result in chronic ﬂuoride poisoning. </string>
+		<key>d</key>
+		<string>Is recommended for patients with xerostomia.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Those with xerostomia (D) should use self-applied topical ﬂuorides on a daily basis. These patients will be more prone to decay due to xerostomia. Options (A, B and C) do not correctly deﬁne the statement.</string>
+	</dict>
+</array>
+</plist>

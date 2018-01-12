@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>1</string>
+		<key>Question Title</key>
+		<string>You have an asthmatic patient that uses an Advair inhaler. What should you advise the patient to do after using their inhaler?</string>
+		<key>a</key>
+		<string>Brush their teeth.</string>
+		<key>b</key>
+		<string>Rest for 5 minutes.</string>
+		<key>c</key>
+		<string>Rinse their mouth with water.</string>
+		<key>d</key>
+		<string>Not to eat or drink for 30 minutes .</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Advair contains a corticosteroid. The patient should rinse their mouth with water to decrease the risk of caries and Candidiasis. 
+</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>2</string>
+		<key>Question Title</key>
+		<string>A patient presents with a blood pressure of 144/86. This would be classiﬁed as:</string>
+		<key>a</key>
+		<string>Normal.</string>
+		<key>b</key>
+		<string>Prehypertension.</string>
+		<key>c</key>
+		<string>Stage 1 hypertension.</string>
+		<key>d</key>
+		<string>Stage 2 hypertension.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Stage 1 hypertension is a blood pressure where the systolic is between 140-159 or the diastolic reading is between 90-99.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>3</string>
+		<key>Question Title</key>
+		<string>All of the following conditions are of viral origin EXCEPT one. Which is the exception?</string>
+		<key>a</key>
+		<string>Shingles.</string>
+		<key>b</key>
+		<string>Hepatitis E.</string>
+		<key>c</key>
+		<string>Cerebral palsy.</string>
+		<key>d</key>
+		<string>Oral hairy leukoplakia.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Shingles is associated with the varicella-zoster virus, hepatitis E is a form of viral hepatitis, and oral hairy leukoplakia is associated with the Epstein-Barr virus. Cerebral palsy is not caused by a virus and is not contagious. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>4</string>
+		<key>Question Title</key>
+		<string>Choose all of the following strains of viral hepatitis that are spread through sexual contact?</string>
+		<key>a</key>
+		<string>A.</string>
+		<key>b</key>
+		<string>B.</string>
+		<key>c</key>
+		<string>C .</string>
+		<key>d</key>
+		<string>E.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B &amp; C.</string>
+		<key>rationale</key>
+		<string>Hepatitis A &amp; E are spread through the fecal oral route, and Hepatitis B &amp; C (as well as D) are transmitted through sexual contact, IV drug use, needle sticks, or perinatally.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>5</string>
+		<key>Question Title</key>
+		<string>A patient is experiencing unilateral facial paralysis consistent with Bell’s palsy. Which cranial nerve is involved in this motor deﬁcit?</string>
+		<key>a</key>
+		<string>Facial.</string>
+		<key>b</key>
+		<string>Hypoglossal.</string>
+		<key>c</key>
+		<string>Trigeminal, maxillary branch.</string>
+		<key>d</key>
+		<string>Trigeminal, opthmalmic branch.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Bell’s palsy causes loss of movement to involvement of the facial nerve (cranial nerve VII).</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>6</string>
+		<key>Question Title</key>
+		<string>You have an 80-year-old female patient with dementia who resides in a long-term care facility. You recommend for the patient to remove her denture at night and brush it daily with a denture brush and cleaner. Which one of the following approaches would provide the best follow-up to your recommendations?</string>
+		<key>a</key>
+		<string>Give the patient a pamphlet on denture care to read. </string>
+		<key>b</key>
+		<string>Tell the patient’s daughter to brush her mother’s denture.</string>
+		<key>c</key>
+		<string>Demonstrate to the patient’s daughter how to brush her mother’s dentures.</string>
+		<key>d</key>
+		<string>Contact the caregivers at the long-term care facility to discuss denture care.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>It is important to involve the care-taker(s) to take an active role in a patient’s oral care.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>7</string>
+		<key>Question Title</key>
+		<string>Which of the following conditions is NOT a contraindication for nitrous oxide use in a patient?</string>
+		<key>a</key>
+		<string>Asthma.</string>
+		<key>b</key>
+		<string>Emphysema.</string>
+		<key>c</key>
+		<string>Cystic ﬁbrosis.</string>
+		<key>d</key>
+		<string>Chronic bronchitis.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>While the use of nitrous is generally contraindicated for respiratory conditions, its use in asthmatic patients is not contraindicated.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>8</string>
+		<key>Question Title</key>
+		<string>You begin treatment and the patient starts convulsing and loses consciousness. What is the ﬁrst thing you should do?</string>
+		<key>a</key>
+		<string>Activate EMS.</string>
+		<key>b</key>
+		<string>Sit the patient upright.</string>
+		<key>c</key>
+		<string>Remove equipment from within reach of the patient.</string>
+		<key>d</key>
+		<string>Place a mouth prop or tongue blade between the patient’s teeth to prevent orofacial trauma.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Immediately removing equipment within reach of the patient minimizes the patient from contacting something that could cause harm.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>9</string>
+		<key>Question Title</key>
+		<string>All of the following are features of hyperthyroidism EXCEPT one. Which is the exception?</string>
+		<key>a</key>
+		<string>Sweating.</string>
+		<key>b</key>
+		<string>Tachycardia.</string>
+		<key>c</key>
+		<string>Exophthalmos.</string>
+		<key>d</key>
+		<string>Delayed tooth eruption.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Symptoms of hyperthyroidism include: goiter, tachycardia, nervousness, heat intolerance (sweating), exophthalmos, and accelerated tooth eruption.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>10</string>
+		<key>Question Title</key>
+		<string>Epinephrine should be used with caution in a patient using which of the following medications?</string>
+		<key>a</key>
+		<string>Chantix.</string>
+		<key>b</key>
+		<string>Albuterol.</string>
+		<key>c</key>
+		<string>Synthroid.</string>
+		<key>d</key>
+		<string>Non cardio-selective beta-blocker.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Epinephrine should be used with caution in conjunction with non-selective beta blockers. This does not apply to cardiac selective beta blockers.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>11</string>
+		<key>Question Title</key>
+		<string>Choose all of the following conditions that may require antibiotic premedication prior to invasive dental procedures?</string>
+		<key>a</key>
+		<string>Down syndrome .</string>
+		<key>b</key>
+		<string>Marfan syndrome.</string>
+		<key>c</key>
+		<string>Cardiac valve replacement .</string>
+		<key>d</key>
+		<string>Coronary artery bypass grafts.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A, B, C.</string>
+		<key>rationale</key>
+		<string>Down &amp; Marfan syndromes can both be associated with cardiac abnormalities that would require premedication. Cardiac valve replacement requires premedication, while coronary artery bypass graft surgery does not.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>12</string>
+		<key>Question Title</key>
+		<string>Match the following names to the appropriate disease condition </string>
+		<key>a</key>
+		<string>___ 1. Hyperthyroidism a. Addison’s disease .</string>
+		<key>b</key>
+		<string>___ 2. Hypercortisolism b. Crohn’s disease.</string>
+		<key>c</key>
+		<string>___ 3. Primary adrenal insuﬃciency c. Grave’s disease.</string>
+		<key>d</key>
+		<string>___ 4. Inﬂammatory bowel disease d. Cushing’s syndrome.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C, D, A, B.</string>
+		<key>rationale</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>13</string>
+		<key>Question Title</key>
+		<string>Arrange the steps of tobacco cessation counseling in the proper sequence.</string>
+		<key>a</key>
+		<string>Assess.</string>
+		<key>b</key>
+		<string>Ask .</string>
+		<key>c</key>
+		<string>Arrange.</string>
+		<key>d</key>
+		<string>Advise.</string>
+		<key>e</key>
+		<string>Assist.</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B, D, A, E, C.</string>
+		<key>rationale</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>14</string>
+		<key>Question Title</key>
+		<string>The TB skin test is also known as the Mantoux skin test. If a patient reports a positive TB skin test this means that they have active tuberculosis.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>The TB skin test is also knows as the PPD test, Mantoux skins test, and tuberculin skin test. A positive result indicates that an exposure to TB but not necessarily that the patient has active tuberculosis.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>15</string>
+		<key>Question Title</key>
+		<string>Pinpoint pupils, drowsiness, decreased respiration rate, and bradycardia are all symptoms of abuse of which of the following drugs?</string>
+		<key>a</key>
+		<string>Heroin.</string>
+		<key>b</key>
+		<string>Alcohol.</string>
+		<key>c</key>
+		<string>Cocaine.</string>
+		<key>d</key>
+		<string>Methamphetamine.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>These are all symptoms of heroin use. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>16</string>
+		<key>Question Title</key>
+		<string>Emphysema is caused from over-inﬂation of alveolar sacs that impairs airﬂow out of the lungs. A patient with emphysema is also known as a blue bloater.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Emphysemic patients are also know as pink puﬀers due to an increased respiration rate.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>17</string>
+		<key>Question Title</key>
+		<string>When is the best time to treat a patient with kidney failure who is on dialysis?</string>
+		<key>a</key>
+		<string>The day before dialysis. </string>
+		<key>b</key>
+		<string>Immediately following dialysis.</string>
+		<key>c</key>
+		<string>The afternoon of the dialysis treatment.</string>
+		<key>d</key>
+		<string>The day after dialysis. .</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>The best time for an appointment is the day after dialysis.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>18</string>
+		<key>Question Title</key>
+		<string>Hypoglycemia is the most common adverse diabetic event. Hypoglycemia can be caused by taking too much insulin, failing to eat, or heavy exercise.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Both statements are true. Emotional stress can also precipitate an event.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>19</string>
+		<key>Question Title</key>
+		<string>Which of the following ﬁndings is not associated with Down syndrome?</string>
+		<key>a</key>
+		<string>Macroglossia.</string>
+		<key>b</key>
+		<string>Fissured tongue .</string>
+		<key>c</key>
+		<string>Periodontal disease.</string>
+		<key>d</key>
+		<string>Increased caries rate.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Down syndrome is associated with a decreased caries rate.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>20</string>
+		<key>Question Title</key>
+		<string>You have a patient that is hearing impaired. Which of the following is NOT an appropriate appointment modiﬁcation?</string>
+		<key>a</key>
+		<string>Provide paper and pencil .</string>
+		<key>b</key>
+		<string>Shout if needed to be heard.</string>
+		<key>c</key>
+		<string>Face the patient when talking.</string>
+		<key>d</key>
+		<string>Remove face mask when talking.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>You should speak to a hearing impaired patient in a normal tone of voice.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>21</string>
+		<key>Question Title</key>
+		<string>All of the following are symptoms of Parkinson’s disease EXCEPT one. Which is the exception?</string>
+		<key>a</key>
+		<string>Temor.</string>
+		<key>b</key>
+		<string>Rigidity.</string>
+		<key>c</key>
+		<string>Bradykinesia.</string>
+		<key>d</key>
+		<string>Excessive blinking.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Patients with Parkinson’s disease have staring, unblinking eyes.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>22</string>
+		<key>Question Title</key>
+		<string>Generalized widening of the periodontal ligament space can be seen in:</string>
+		<key>a</key>
+		<string>Scleroderma.</string>
+		<key>b</key>
+		<string>Grave’s disease.</string>
+		<key>c</key>
+		<string>Down syndrome.</string>
+		<key>d</key>
+		<string>Sickle cell anemia.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Generalized widening of the PDL space is a feature of the overproduction of collagen associated with scleroderma.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>23</string>
+		<key>Question Title</key>
+		<string>Choose all of the following that are commonly seen in a child with cretinism?</string>
+		<key>a</key>
+		<string>Macroglossia.</string>
+		<key>b</key>
+		<string>Periodontal disease.</string>
+		<key>c</key>
+		<string>Mentally challenged .</string>
+		<key>d</key>
+		<string>Delayed tooth eruption.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A, C, D.</string>
+		<key>rationale</key>
+		<string>Mental retardation, physical limitations, enlarged tongue, and delayed tooth eruption are all features of cretinism (hypothyroidism in a child).</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>24</string>
+		<key>Question Title</key>
+		<string>Calcium channel blockers are used to treat epilepsy. The use of calcium channel blockers is associated with gingival hyperplasia.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Calcium channel blockers are used to treat hypertension. Calcium channel blockers, phenytoin, and cyclosporine are all associated with gingival hyperplasia.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>13</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>25</string>
+		<key>Question Title</key>
+		<string>A patient reports a history of seizures. They report the last seizure was about a month ago, it lasted about 20 seconds, and they experienced a transient loss of consciousness. This likely represents what type of seizure? </string>
+		<key>a</key>
+		<string>Petit mal.</string>
+		<key>b</key>
+		<string>Grand mal.</string>
+		<key>c</key>
+		<string>Status epilepticus.</string>
+		<key>d</key>
+		<string>None of the above as this likely was not a seizure.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Petit mal seizures typically last less than 20 seconds and are also known as absence seizures as they cause impairment of consciousness (absence). Grand mal seizures are associated with tonic-clonic movements, and status epilepticus is a persistent seizure lasting longer than 5 minutes.</string>
+	</dict>
+</array>
+</plist>

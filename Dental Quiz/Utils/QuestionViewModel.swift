@@ -24,20 +24,34 @@ struct Question {
     var f = ""
     var g = ""
     
+    enum Answer:String {
+        case a = "A. "
+        case b = "B. "
+        case c = "C. "
+        case d = "D. "
+        case e = "E. "
+        case f = "F. "
+        case g = "G. "
+        
+        init() {
+            self = .a
+        }
+    }
+    
     struct Constants {
-        static let a = "A"
-        static let b = "B"
-        static let c = "C"
-        static let d = "D"
-        static let e = "E"
-        static let f = "F"
-        static let g = "G"
+        static let a = "a"
+        static let b = "b"
+        static let c = "c"
+        static let d = "d"
+        static let e = "e"
+        static let f = "f"
+        static let g = "g"
         static let chapterTitle = "Chapter Title"
         static let chapterNumber = "Chapter Number"
         static let questionNumber = "Question Number"
         static let questionTitle = "Question Title"
-        static let answer = "Answer"
-        static let rationale = "Rationale"
+        static let answer = "answer"
+        static let rationale = "rationale"
     }
 }
 
@@ -55,26 +69,33 @@ func parseQuestionsFromPList(plistName: String) -> [Question]? {
             let answer = question[Question.Constants.answer] as? String,
             let rationale = question[Question.Constants.rationale] as? String else { return }
         
-        if let chapterNumber = question[Question.Constants.chapterNumber] {
+        if let chapterNumber = question[Question.Constants.chapterNumber] as? String {
             question1.chapterNumber = "\(chapterNumber)"
         }
-        if let questionNumber = question[Question.Constants.questionNumber] {
+        if let questionNumber = question[Question.Constants.questionNumber] as? String {
             question1.questionNumber = "\(questionNumber)"
         }
         question1.chapterTitle = chapterTitle
         question1.questionTitle = questionTitle
+
         question1.a = "A. " + a
         question1.b = "B. " + b
         question1.c = "C. " + c
         question1.d = "D. " + d
         question1.multipleChoices += [question1.a, question1.b, question1.c, question1.d]
         
-        //let e = question[Question.Constants.e] as? String,
-        //let f = question[Question.Constants.f] as? String,
-        //let g = question[Question.Constants.g] as? String,
-        //question1.e = e
-        //question1.f = f
-        //question1.g = g
+        if let e = question[Question.Constants.e] as? String, !e.isEmpty {
+            question1.e = "E. " + e
+            question1.multipleChoices.append(question1.e)
+        }
+        if let f = question[Question.Constants.f] as? String, !f.isEmpty {
+            question1.f = "F. " + f
+            question1.multipleChoices.append(question1.f)
+        }
+        if let g = question[Question.Constants.g] as? String, !g.isEmpty {
+            question1.g = "G. " + g
+            question1.multipleChoices.append(question1.g)
+        }
         question1.answer = answer
         question1.rationale = rationale
         questions.append(question1)
