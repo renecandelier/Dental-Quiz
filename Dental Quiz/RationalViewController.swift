@@ -10,7 +10,7 @@ import UIKit
 
 class RationalViewController: UIViewController {
 
-    var tapHandler: (() -> Void)?
+    var rationalTapHandler: (() -> Void)?
     var rationalText: String? {
         didSet(newValue) {
             rationalTextView.text = newValue ?? ""
@@ -23,7 +23,10 @@ class RationalViewController: UIViewController {
         super.viewDidLoad()
         
     }
-
+    @IBAction func swipeDownRationalView(_ sender: UISwipeGestureRecognizer) {
+    rationalTapHandler?()
+    }
+    
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         view.layer.shadowColor = UIColor.lightGray.cgColor
@@ -34,7 +37,7 @@ class RationalViewController: UIViewController {
     }
     
     @IBAction func rationalButtonSelected(_ sender: UIButton) {
-        tapHandler?()
+        rationalTapHandler?()
     }
 
 }

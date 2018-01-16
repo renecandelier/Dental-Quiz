@@ -62,36 +62,44 @@ func parseQuestionsFromPList(plistName: String) -> [Question]? {
         var question1 = Question()
         guard let chapterTitle = question[Question.Constants.chapterTitle] as? String,
             let questionTitle = question[Question.Constants.questionTitle] as? String,
+            let chapterNumber = question[Question.Constants.chapterNumber] as? String,
+            let questionNumber = question[Question.Constants.questionNumber] as? String,
             let a = question[Question.Constants.a] as? String,
             let b = question[Question.Constants.b] as? String,
-            let c = question[Question.Constants.c] as? String,
-            let d = question[Question.Constants.d] as? String,
             let answer = question[Question.Constants.answer] as? String,
             let rationale = question[Question.Constants.rationale] as? String else { return }
         
-        if let chapterNumber = question[Question.Constants.chapterNumber] as? String {
-            question1.chapterNumber = "\(chapterNumber)"
-        }
-        if let questionNumber = question[Question.Constants.questionNumber] as? String {
-            question1.questionNumber = "\(questionNumber)"
-        }
         question1.chapterTitle = chapterTitle
+        question1.chapterNumber = "\(chapterNumber)"
+        question1.questionNumber = "\(questionNumber)"
         question1.questionTitle = questionTitle
-
+        
+        // Multiple Choices
         question1.a = "A. " + a
         question1.b = "B. " + b
-        question1.c = "C. " + c
-        question1.d = "D. " + d
-        question1.multipleChoices += [question1.a, question1.b, question1.c, question1.d]
+        
+        question1.multipleChoices += [question1.a, question1.b]
+        
+        if let c = question[Question.Constants.c] as? String, !c.isEmpty {
+            question1.c = "C. " + c
+            question1.multipleChoices.append(question1.c)
+        }
+        
+        if let d = question[Question.Constants.d] as? String, !d.isEmpty {
+            question1.d = "D. " + d
+            question1.multipleChoices.append(question1.d)
+        }
         
         if let e = question[Question.Constants.e] as? String, !e.isEmpty {
             question1.e = "E. " + e
             question1.multipleChoices.append(question1.e)
         }
+        
         if let f = question[Question.Constants.f] as? String, !f.isEmpty {
             question1.f = "F. " + f
             question1.multipleChoices.append(question1.f)
         }
+        
         if let g = question[Question.Constants.g] as? String, !g.isEmpty {
             question1.g = "G. " + g
             question1.multipleChoices.append(question1.g)

@@ -15,14 +15,14 @@ class ChoiceTableViewCell: UITableViewCell {
         super.awakeFromNib()
         // Initialization code
     }
+    
     override func prepareForReuse() {
         super.prepareForReuse()
-        setSelected(false, animated: false)
+        selectedBackgroundView = nil
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
-
         // Configure the view for the selected state
     }
 

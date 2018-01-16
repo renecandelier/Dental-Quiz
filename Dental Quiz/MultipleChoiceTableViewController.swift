@@ -13,6 +13,7 @@ class MultipleChoiceTableViewController: UITableViewController {
     var options = (multipleChoices:[String](), answer: "") {
         didSet {
             self.tableView.reloadData()
+            tableView.allowsSelection = true
         }
     }
     
@@ -60,13 +61,15 @@ class MultipleChoiceTableViewController: UITableViewController {
     }
     
     func showAnswer() {
-        let cleanedAnswer = options.answer.replacingOccurrences(of: ".", with: "").replacingOccurrences(of: " ", with: "")
-        options.multipleChoices.forEach { (choice) in
-            if choice.hasPrefix(cleanedAnswer) {
-                if let index = options.multipleChoices.index(of: choice) {
-                    highlightRightAnswer(index: index)
-                    // disable cells getting selected
-                    // make sure that cells get unselected get on new question
+        let cleanedAnswers = Array(options.answer.replacingOccurrences(of: ".", with: "").replacingOccurrences(of: " ", with: ""))
+        cleanedAnswers.forEach { (cleanedAnswer) in
+            options.multipleChoices.forEach { (choice) in
+                if choice.hasPrefix(String(cleanedAnswer)) {
+                    if let index = options.multipleChoices.index(of: choice) {
+//                        DispatchQueue.main.async {
+                            self.highlightRightAnswer(index: index)
+//                        }
+                    }
                 }
             }
         }
@@ -80,11 +83,14 @@ class MultipleChoiceTableViewController: UITableViewController {
         let backgroundView = UIView()
         backgroundView.backgroundColor = UIColor(red:0.14, green:0.80, blue:0.93, alpha:0.3)
         cell?.selectedBackgroundView = backgroundView
+
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         showAnswer()
         // fix issue where rational is showing up after selected cell twice
         cellSelected?()
+        self.tableView.allowsSelection = false
+
     }
 }

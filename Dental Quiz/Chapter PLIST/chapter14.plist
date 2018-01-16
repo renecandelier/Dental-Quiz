@@ -317,34 +317,6 @@
 		<key>Chapter Title</key>
 		<string>Special Needs Patients</string>
 		<key>Question Number</key>
-		<string>12</string>
-		<key>Question Title</key>
-		<string>Match the following names to the appropriate disease condition </string>
-		<key>a</key>
-		<string>___ 1. Hyperthyroidism a. Addison’s disease .</string>
-		<key>b</key>
-		<string>___ 2. Hypercortisolism b. Crohn’s disease.</string>
-		<key>c</key>
-		<string>___ 3. Primary adrenal insuﬃciency c. Grave’s disease.</string>
-		<key>d</key>
-		<string>___ 4. Inﬂammatory bowel disease d. Cushing’s syndrome.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C, D, A, B.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>13</string>
-		<key>Chapter Title</key>
-		<string>Special Needs Patients</string>
-		<key>Question Number</key>
 		<string>13</string>
 		<key>Question Title</key>
 		<string>Arrange the steps of tobacco cessation counseling in the proper sequence.</string>
