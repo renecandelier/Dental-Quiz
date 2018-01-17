@@ -24,7 +24,9 @@ class QuestionViewController: UIViewController {
     var isLastQuestion = false
     let showRationalText = "Show Rational"
     let showAnswerText = "Show Answer"
-//    var isRationalVisible = false
+    var isRationalVisible: Bool {
+        return rationalContainerViewTopConstraint.isActive
+    }
 //    var isShowingRational: Bool {
 //        return rationalContainerViewTopConstraint.isActive
 //    }
@@ -49,7 +51,9 @@ class QuestionViewController: UIViewController {
     }
     
     func loadViewWithData(question: Question) {
-//        isRationalVisible = false
+        if rationalContainerViewTopConstraint.isActive {
+            rationalSelected()
+        }
         showAnswerButton.setTitle(showAnswerText, for: .normal)
         chapterNumberLabel.text = "Chapter " + question.chapterNumber
         questionNumberLabel.text = "Question " + question.questionNumber + "/\(chapterQuestions.count)"
@@ -59,6 +63,7 @@ class QuestionViewController: UIViewController {
         multipleQuestionsTableViewController?.cellSelected = animateRational
         rationalViewController?.rationalText = question.rationale
         rationalViewController?.rationalTapHandler = rationalSelected
+        
     }
     
     @IBAction func previousButtonSelected(_ sender: UIButton) {
@@ -83,7 +88,7 @@ class QuestionViewController: UIViewController {
     
     @IBAction func showAnswer(_ sender: UIButton) {
         if showAnswerButton.titleLabel?.text == showAnswerText {
-            multipleQuestionsTableViewController?.showAnswer()
+            multipleQuestionsTableViewController?.showRightAnswers()
             animateRational()
         } else {
             rationalSelected()
@@ -91,14 +96,13 @@ class QuestionViewController: UIViewController {
     }
     
     func animateRational() {
+
         showAnswerButton.setTitle(showRationalText, for: .normal)
-//        if !isRationalVisible {
 //            UIView.animate(withDuration: 0.2) {
 //                self.rationalContainerView.frame.origin.y -= 40
 //                self.view.layoutIfNeeded()
 //            }
 //        }
-//        isRationalVisible = true
     }
     
     @IBAction func leftSwipe(_ sender: Any) {

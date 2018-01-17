@@ -4,21 +4,21 @@
 <array>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>1</string>
 		<key>Question Title</key>
-		<string>Prolonged use of which of the following can contribute to gingival hyperplasia? </string>
+		<string>You have an asthmatic patient that uses an Advair inhaler. What should you advise the patient to do after using their inhaler?</string>
 		<key>a</key>
-		<string>Digoxin.</string>
+		<string>Brush their teeth.</string>
 		<key>b</key>
-		<string>Diuretics.</string>
+		<string>Rest for 5 minutes.</string>
 		<key>c</key>
-		<string>Phenytoin.</string>
+		<string>Rinse their mouth with water.</string>
 		<key>d</key>
-		<string>Phenobarbital.</string>
+		<string>Not to eat or drink for 30 minutes.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -28,26 +28,25 @@
 		<key>answer</key>
 		<string>C.</string>
 		<key>rationale</key>
-		<string>a-  Digoxin is a cardiac glycoside drug to treat CHF, and is not associated with gingival hyperplasia 
-b-  Diuretics are “water pills” not associated with gingival hyperplasia d- Phenobarbital is a barbiturate; the drugs associated with gingival hyperplasia include Phenytoin (Dilantin), calcium channel blockers (like Procardia), and cyclosporine</string>
+		<string>Advair contains a corticosteroid. The patient should rinse their mouth with water to decrease the risk of caries and Candidiasis. </string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>2</string>
 		<key>Question Title</key>
-		<string>Each of the following classes of drugs may be used to treat an allergic reaction except one. Which is the EXCEPTION? </string>
+		<string>A patient presents with a blood pressure of 144/86. This would be classiﬁed as:</string>
 		<key>a</key>
-		<string>Steroids.</string>
+		<string>Normal.</string>
 		<key>b</key>
-		<string>Antibiotics.</string>
+		<string>Prehypertension.</string>
 		<key>c</key>
-		<string>Antihistamines.</string>
+		<string>Stage 1 hypertension.</string>
 		<key>d</key>
-		<string>Sympathomimetic agents.</string>
+		<string>Stage 2 hypertension.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -55,27 +54,27 @@ b-  Diuretics are “water pills” not associated with gingival hyperplasia d- 
 		<key>g</key>
 		<string></string>
 		<key>answer</key>
-		<string>B.</string>
+		<string>C.</string>
 		<key>rationale</key>
-		<string>a- steroids reduce inﬂammation associated with allergies c- antihistamine reduces histamine action during an allergic reaction  d- sympathomimetics include epinephrine, which is indicated in an anaphylactic reaction</string>
+		<string>Stage 1 hypertension is a blood pressure where the systolic is between 140-159 or the diastolic reading is between 90-99.</string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>3</string>
 		<key>Question Title</key>
-		<string>Which drug would be least desirable to treat an infection in a two-year old patient?</string>
+		<string>All of the following conditions are of viral origin EXCEPT one. Which is the exception?</string>
 		<key>a</key>
-		<string>Penicillin.</string>
+		<string>Shingles.</string>
 		<key>b</key>
-		<string>Tetracycline.</string>
+		<string>Hepatitis E.</string>
 		<key>c</key>
-		<string>Erythromycin.</string>
+		<string>Cerebral palsy.</string>
 		<key>d</key>
-		<string>Cephalosporin.</string>
+		<string>Oral hairy leukoplakia.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -83,27 +82,27 @@ b-  Diuretics are “water pills” not associated with gingival hyperplasia d- 
 		<key>g</key>
 		<string></string>
 		<key>answer</key>
-		<string>B.</string>
+		<string>C.</string>
 		<key>rationale</key>
-		<string>a, c, d- All may be indicated to treat an infection in in a young patient. Tetracycline may result in tooth discoloration if it is taken during tooth development</string>
+		<string>Shingles is associated with the varicella-zoster virus, hepatitis E is a form of viral hepatitis, and oral hairy leukoplakia is associated with the Epstein-Barr virus. Cerebral palsy is not caused by a virus and is not contagious. </string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>4</string>
 		<key>Question Title</key>
-		<string>The abbreviation “qid” stands for </string>
+		<string>Choose all of the following strains of viral hepatitis that are spread through sexual contact?</string>
 		<key>a</key>
-		<string>Every four days.</string>
+		<string>A.</string>
 		<key>b</key>
-		<string>Every four hours.</string>
+		<string>B.</string>
 		<key>c</key>
-		<string>Four times a day.</string>
+		<string>C .</string>
 		<key>d</key>
-		<string>As needed, or as required.</string>
+		<string>E.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -111,28 +110,27 @@ b-  Diuretics are “water pills” not associated with gingival hyperplasia d- 
 		<key>g</key>
 		<string></string>
 		<key>answer</key>
-		<string>C.</string>
+		<string>B &amp; C.</string>
 		<key>rationale</key>
-		<string>a-  every four days = q4d 
-b-  every four hours = q4h d- as needed, or as required = PRN </string>
+		<string>Hepatitis A &amp; E are spread through the fecal oral route, and Hepatitis B &amp; C (as well as D) are transmitted through sexual contact, IV drug use, needle sticks, or perinatally.</string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>5</string>
 		<key>Question Title</key>
-		<string>If a dental patient is allergic to procaine, the allergy is to</string>
+		<string>A patient is experiencing unilateral facial paralysis consistent with Bell’s palsy. Which cranial nerve is involved in this motor deﬁcit?</string>
 		<key>a</key>
-		<string>Esters.</string>
+		<string>Facial.</string>
 		<key>b</key>
-		<string>Amides.</string>
+		<string>Hypoglossal.</string>
 		<key>c</key>
-		<string>Barbiturates.</string>
+		<string>Trigeminal, maxillary branch.</string>
 		<key>d</key>
-		<string>Anticonvulsants.</string>
+		<string>Trigeminal, opthmalmic branch.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -142,26 +140,25 @@ b-  every four hours = q4h d- as needed, or as required = PRN </string>
 		<key>answer</key>
 		<string>A.</string>
 		<key>rationale</key>
-		<string>b- amides are local anesthetics that have an “i” in the ﬁrst part of their name 
-c, d- these medications are not local anesthetics. Procaine (-caine) is an ester local anesthetic medication with a relatively high allergy potential</string>
+		<string>Bell’s palsy causes loss of movement to involvement of the facial nerve (cranial nerve VII).</string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>6</string>
 		<key>Question Title</key>
-		<string>The most common concentration of vasoconstrictor in a local anesthetic solution is </string>
+		<string>You have an 80-year-old female patient with dementia who resides in a long-term care facility. You recommend for the patient to remove her denture at night and brush it daily with a denture brush and cleaner. Which one of the following approaches would provide the best follow-up to your recommendations?</string>
 		<key>a</key>
-		<string>2%.</string>
+		<string>Give the patient a pamphlet on denture care to read. </string>
 		<key>b</key>
-		<string>3%.</string>
+		<string>Tell the patient’s daughter to brush her mother’s denture.</string>
 		<key>c</key>
-		<string>1:50,000.</string>
+		<string>Demonstrate to the patient’s daughter how to brush her mother’s dentures.</string>
 		<key>d</key>
-		<string>1:100,000.</string>
+		<string>Contact the caregivers at the long-term care facility to discuss denture care.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -171,489 +168,25 @@ c, d- these medications are not local anesthetics. Procaine (-caine) is an ester
 		<key>answer</key>
 		<string>D.</string>
 		<key>rationale</key>
-		<string>a, b- vasoconstrictor in a local anesthetic solution is expressed as a ratio, not as a percentage c- a 1:50,000 ratio is higher than 1:100,000, and is often used to control hemorrhage </string>
+		<string>It is important to involve the care-taker(s) to take an active role in a patient’s oral care.</string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
 		<string>7</string>
 		<key>Question Title</key>
-		<string>Which of the following drugs is indicated in the treatment of oral candidiasis? </string>
-		<key>a</key>
-		<string>Penicillin.</string>
-		<key>b</key>
-		<string>Hydrocortisone.</string>
-		<key>c</key>
-		<string>Zovirax (acyclovir).</string>
-		<key>d</key>
-		<string>Nystatin (mycostatin).</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D.</string>
-		<key>rationale</key>
-		<string>a-  Penicillin is an antibiotic used in the treatment of bacterial infections, not fungal infections 
-b-  Hydrocortisone is a steroid medication 
-c-  Zovirax is an antiviral medication, not used to treat fungal infections </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>8</string>
-		<key>Question Title</key>
-		<string>Which condition is an indication for the use of a vasodilator medication?</string>
-		<key>a</key>
-		<string>Syncope.</string>
-		<key>b</key>
-		<string>Chest pain.</string>
-		<key>c</key>
-		<string>Hypoglycemia.</string>
-		<key>d</key>
-		<string>Respiratory distress.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>B.</string>
-		<key>rationale</key>
-		<string>a- Syncope is managed by placing the patient supine, and administering aromatic ammonia and oxygen c-  Hypoglycemia is managed with the administration of oral carbohydrate, such as glucose d-  Respiratory distress in often managed with albuterol and/or oxygen </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>9</string>
-		<key>Question Title</key>
-		<string>What is the action of enalapril maleate (Vasotec)?</string>
-		<key>a</key>
-		<string>Bronchodilator.</string>
-		<key>b</key>
-		<string>Antidepressant.</string>
-		<key>c</key>
-		<string>Antihypertensive.</string>
-		<key>d</key>
-		<string>Sedation and anxiety reduction.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C.</string>
-		<key>rationale</key>
-		<string>a-  Vasotec is an ACE inhibitor used to manage hypertension, it is not a bronchodilator 
-b-  Vasotec is an ACE inhibitor used to manage hypertension, it is not an antidepressant d- Vasotec is an ACE inhibitor used to manage hypertension, it does not reduce anxiety</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>10</string>
-		<key>Question Title</key>
-		<string>Abuse of which drug will result in “pinpoint” pupils of the eyes? </string>
-		<key>a</key>
-		<string>Heroin.</string>
-		<key>b</key>
-		<string>Valium.</string>
-		<key>c</key>
-		<string>Cocaine.</string>
-		<key>d</key>
-		<string>Amphetamines.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>A.</string>
-		<key>rationale</key>
-		<string>b-  Valium is not an opioid medication, it is a benzodiazepine drug 
-c-  Cocaine abusers often present with dilated pupils 
-d-  Amphetamine abusers often present with dilated pupils </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>11</string>
-		<key>Question Title</key>
-		<string>When are anticholinergic drugs indicated in dentistry?</string>
-		<key>a</key>
-		<string>Local anesthesia.</string>
-		<key>b</key>
-		<string>Treatment of xerostomia.</string>
-		<key>c</key>
-		<string>Emergency treatment of chest pain.</string>
-		<key>d</key>
-		<string>Decrease of salivation to obtain dry ﬁeld for treatment.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D.</string>
-		<key>rationale</key>
-		<string>a-  Local anesthetics used in dentistry usually have “-caine” in their names, and they are not anticholinergic drugs 
-b-  Anticholinergic drugs block the parasympathetic nervous system which results in xerostomia 
-c-  Vasodilators (such as nitroglycerin) are indicted in the management of chest pain </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>12</string>
-		<key>Question Title</key>
-		<string>Which medication is contraindicated in young children?</string>
-		<key>a</key>
-		<string>Aspirin.</string>
-		<key>b</key>
-		<string>Opioids.</string>
-		<key>c</key>
-		<string>Acetaminophen.</string>
-		<key>d</key>
-		<string>Non-steroidal anti-inﬂammatory medications (NSAIDs).</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>A.</string>
-		<key>rationale</key>
-		<string>b, c, d- these medications are NOT associated with Reye’s syndrome in young patients</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>13</string>
-		<key>Question Title</key>
-		<string>Epinephrine is added to local anesthetic solutions to </string>
-		<key>a</key>
-		<string>Prevent asthma attacks.</string>
-		<key>b</key>
-		<string>Increase the rate of diﬀusion from the injection site.</string>
-		<key>c</key>
-		<string>Decrease the rate of diﬀusion from the injection site.</string>
-		<key>d</key>
-		<string>Prevent circulatory collapse if the solution is injected into a blood vessel.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C.</string>
-		<key>rationale</key>
-		<string>a-  Epinephrine injection IS indicted in the management of severe asthma episodes, but this is not the reason it is added to local anesthetic solutions 
-b-  Epinephrine decreases the rate of diﬀusion from the site through vasoconstriction d- Epinephrine is not used for this reason</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>14</string>
-		<key>Question Title</key>
-		<string>Benzodiazepines produce all of the following eﬀects except</string>
-		<key>a</key>
-		<string>Anesthesia.</string>
-		<key>b</key>
-		<string>Muscle relaxation.</string>
-		<key>c</key>
-		<string>Anxiety reduction.</string>
-		<key>d</key>
-		<string>Anticonvulsant action.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>A.</string>
-		<key>rationale</key>
-		<string>b, c, d- although benzodiazepines (like Valium) are sedatives, they are not used for anesthesia. Their primary pharmacological eﬀects include anxiety reduction, anticonvulsant activity and muscle relaxation </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>15</string>
-		<key>Question Title</key>
-		<string>Each of the following is a pharmacological eﬀect of narcotic (opioid) agents EXCEPT one. Which is the EXCEPTION? </string>
-		<key>a</key>
-		<string>Euphoria.</string>
-		<key>b</key>
-		<string>Sedation.</string>
-		<key>c</key>
-		<string>Analgesia.</string>
-		<key>d</key>
-		<string>Antitussive action.</string>
-		<key>e</key>
-		<string>Anti-inﬂammatory action</string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>E.</string>
-		<key>rationale</key>
-		<string>a, b, c, d- Opioid medications are analgesics with no anti-inﬂammatory activity. Their pharmacological eﬀects include euphoria (feeling of well-being), sedation, analgesia and antitussive action (cough suppression). </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>16</string>
-		<key>Question Title</key>
-		<string>Which of the following is a relative contraindication for the use of nitrous oxide/oxygen sedation? </string>
+		<string>Which of the following conditions is NOT a contraindication for nitrous oxide use in a patient?</string>
 		<key>a</key>
 		<string>Asthma.</string>
 		<key>b</key>
-		<string>Epilepsy.</string>
+		<string>Emphysema.</string>
 		<key>c</key>
-		<string>Hypertension.</string>
+		<string>Cystic ﬁbrosis.</string>
 		<key>d</key>
-		<string>Mental disability.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D.</string>
-		<key>rationale</key>
-		<string>a, b, c- Nitrous oxide/oxygen sedation can be safely administered to patients with asthma, epilepsy and hypertension. However, some patients with a mental disability are unable to eﬀectively communicate regarding how the nitrous oxide aﬀects them, making titration/dosing diﬃcult. </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>17</string>
-		<key>Question Title</key>
-		<string>Which antibiotic concentrates in gingival crevicular ﬂuid?</string>
-		<key>a</key>
-		<string>Penicillin.</string>
-		<key>b</key>
-		<string>Cephalexin.</string>
-		<key>c</key>
-		<string>Tetracycline.</string>
-		<key>d</key>
-		<string>Erythromycin.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C.</string>
-		<key>rationale</key>
-		<string>a, b, d- These three antibiotic medications are often used in dentistry, but do not concentrate in gingival crevicular ﬂuid to the extent that tetracycline does. This property makes tetracycline a good drug to manage periodontal infections. </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>18</string>
-		<key>Question Title</key>
-		<string>Which drug is a nonselective beta-blocking agent? </string>
-		<key>a</key>
-		<string>Atenolol.</string>
-		<key>b</key>
-		<string>Metoprolol .</string>
-		<key>c</key>
-		<string>Propranolol .</string>
-		<key>d</key>
-		<string>Levonordefrin .</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C.</string>
-		<key>rationale</key>
-		<string>a-  Atenolol (Tenormin) is a “selective” beta-blocker, which means that it blocks beta-1 adrenergic receptors more than beta-2 adrenergic receptors.
-b-  Metoprolol (Lopressor) is a “selective” beta-blocker, which means that it blocks beta-1 adrenergic receptors more than beta-2 adrenergic receptors. d- Levonordefrin is not a beta-blocking drug.</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>19</string>
-		<key>Question Title</key>
-		<string>Which medication is indicated to relieve a dental patient’s anxiety?</string>
-		<key>a</key>
-		<string>Tylenol.</string>
-		<key>b</key>
-		<string>Benadryl.</string>
-		<key>c</key>
-		<string>Tenormin.</string>
-		<key>d</key>
-		<string>Diazepam.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D.</string>
-		<key>rationale</key>
-		<string>a-  Tylenol (acetaminophen) is an analgesic (pain control) drug- it does not control anxiety 
-b-  Benadryl (diphenhydramine) is an antihistamine- it does not control anxiety 
-c-  Tenormin (atenolol) is an adrenergic blocking drug indicated in the management of hypertension- it does not control anxiety 
-d-  Diazepam (Valium) is a benzodiazepine drug that is used to reduce anxiety </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>20</string>
-		<key>Question Title</key>
-		<string>Which of the following drugs acts upon the anaerobic organisms of necrotizing ulcerative gingivitis?</string>
-		<key>a</key>
-		<string>Nystatin.</string>
-		<key>b</key>
-		<string>Isoniazid.</string>
-		<key>c</key>
-		<string>Amoxicillin.</string>
-		<key>d</key>
-		<string>Metronidazole.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D.</string>
-		<key>rationale</key>
-		<string>a-  Nystatin (mycostatin) is an antifungal medication that is not used to treat a bacterial infection such as NUG 
-b-  Isoniazid is an antibiotic most commonly used to treat tuberculosis 
-c-  Amoxicillin is an antibiotic with antibacterial action, but Metronidazole (Flagyl) has a greater anaerobic eﬃcacy</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>21</string>
-		<key>Question Title</key>
-		<string>Tylenol with codeine falls into which DEA schedule of controlled substances?</string>
-		<key>a</key>
-		<string>Schedule I.</string>
-		<key>b</key>
-		<string>Schedule II.</string>
-		<key>c</key>
-		<string>Schedule III.</string>
-		<key>d</key>
-		<string>Schedule IV.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C.</string>
-		<key>rationale</key>
-		<string>a-  Schedule I drugs are associated with a high abuse potential, and have no accepted medical use 
-b-  Schedule II drugs include opioids, such as oxycodone and codeine ALONE. When codeine is found in combination with a non-opioid drug, it is classiﬁed as a schedule III drug d- Schedule IV drugs have a lower abuse potential than Tylenol with codeine</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>22</string>
-		<key>Question Title</key>
-		<string>Narcan (naloxone) reverses the eﬀects of </string>
-		<key>a</key>
-		<string>NSAID medications.</string>
-		<key>b</key>
-		<string>Opioid analgesic medications.</string>
-		<key>c</key>
-		<string>Topical and systemic ﬂuoride.</string>
-		<key>d</key>
-		<string>Antibiotics, especially penicillin.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>B.</string>
-		<key>rationale</key>
-		<string>a- Narcan (naloxone) is a NARCOTIC antagonist that does not reverse NSAID eﬀects 
-c, d- Fluoride and antibiotic eﬀects are not reversed by narcotic antagonists </string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>9.2</string>
-		<key>Chapter Title</key>
-		<string>Pharmacology</string>
-		<key>Question Number</key>
-		<string>23</string>
-		<key>Question Title</key>
-		<string>A patient states that she frequently takes aspirin. Which of the following reasons BEST describes why a dental hygienist should question the patient further regarding her aspirin use? </string>
-		<key>a</key>
-		<string>Aspirin can increase a patient’s clotting time.</string>
-		<key>b</key>
-		<string>Aspirin often reduces a patient’s blood pressure.</string>
-		<key>c</key>
-		<string>Frequent aspirin use may increase the risk of post-treatment infection.</string>
-		<key>d</key>
-		<string>Aspirin interferes with the eﬀectiveness of antibiotics used in dentistry.</string>
+		<string>Chronic bronchitis.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -663,27 +196,25 @@ c, d- Fluoride and antibiotic eﬀects are not reversed by narcotic antagonists 
 		<key>answer</key>
 		<string>A.</string>
 		<key>rationale</key>
-		<string>b-  Aspirin may INCREASE a patient’s blood pressure if he/she is also taking antihypertensive medications 
-c-  At therapeutic doses, aspirin does not aﬀect a patient’s risk of infection 
-d-  Although aspirin is associated with many drug interactions (including with Warfarin, Probenecid, Methotrexate, Sulfonylurea and antihypertensive drugs), it can be taken concurrently with antibiotics </string>
+		<string>While the use of nitrous is generally contraindicated for respiratory conditions, its use in asthmatic patients is not contraindicated.</string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
-		<string>24</string>
+		<string>8</string>
 		<key>Question Title</key>
-		<string>Which of the following medications used to prevent organ transplant rejection might result in gingival overgrowth?</string>
+		<string>You begin treatment and the patient starts convulsing and loses consciousness. What is the ﬁrst thing you should do?</string>
 		<key>a</key>
-		<string>Phenytoin.</string>
+		<string>Activate EMS.</string>
 		<key>b</key>
-		<string>Prednisone.</string>
+		<string>Sit the patient upright.</string>
 		<key>c</key>
-		<string>Cyclosporine.</string>
+		<string>Remove equipment from within reach of the patient.</string>
 		<key>d</key>
-		<string>Cyclobenzaprine.</string>
+		<string>Place a mouth prop or tongue blade between the patient’s teeth to prevent orofacial trauma.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -693,26 +224,25 @@ d-  Although aspirin is associated with many drug interactions (including with W
 		<key>answer</key>
 		<string>C.</string>
 		<key>rationale</key>
-		<string>a-  Phenytoin (Dilantin) has been associated with an increased risk of gingival hyperplasia, but it is an anticonvulsant medication, not used to prevent transplant rejection 
-b-  Prednisone is not typically associated with increasing a patient’s risk of gingival hyperplasia d- Cyclobenzaprine (Flexeril) is a skeletal muscle relaxant </string>
+		<string>Immediately removing equipment within reach of the patient minimizes the patient from contacting something that could cause harm.</string>
 	</dict>
 	<dict>
 		<key>Chapter Number</key>
-		<string>9.2</string>
+		<string>10</string>
 		<key>Chapter Title</key>
-		<string>Pharmacology</string>
+		<string>Special Needs Patients</string>
 		<key>Question Number</key>
-		<string>25</string>
+		<string>9</string>
 		<key>Question Title</key>
-		<string>Which is the ﬁrst drug of choice indicated in the treatment of methicillin-resistant staphylococcus aureus (MRSA)?</string>
+		<string>All of the following are features of hyperthyroidism EXCEPT one. Which is the exception?</string>
 		<key>a</key>
-		<string>Nystatin.</string>
+		<string>Sweating.</string>
 		<key>b</key>
-		<string>Methicillin.</string>
+		<string>Tachycardia.</string>
 		<key>c</key>
-		<string>Amoxicillin.</string>
+		<string>Exophthalmos.</string>
 		<key>d</key>
-		<string>Vancomycin.</string>
+		<string>Delayed tooth eruption.</string>
 		<key>e</key>
 		<string></string>
 		<key>f</key>
@@ -722,9 +252,399 @@ b-  Prednisone is not typically associated with increasing a patient’s risk of
 		<key>answer</key>
 		<string>D.</string>
 		<key>rationale</key>
-		<string>a-  Nystatin (mycostatin) is an antifungal medication, not used to treat bacterial infections 
-b-  MRSA would not be eﬀectively treated with Methicillin, since the disease is resistant to this drug 
-c-  Amoxicillin is in a similar class of antibiotics with Methicillin (beta- lactams), to which MRSA is typically resistant</string>
+		<string>Symptoms of hyperthyroidism include: goiter, tachycardia, nervousness, heat intolerance (sweating), exophthalmos, and accelerated tooth eruption.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>10</string>
+		<key>Question Title</key>
+		<string>Epinephrine should be used with caution in a patient using which of the following medications?</string>
+		<key>a</key>
+		<string>Chantix.</string>
+		<key>b</key>
+		<string>Albuterol.</string>
+		<key>c</key>
+		<string>Synthroid.</string>
+		<key>d</key>
+		<string>Non cardio-selective beta-blocker.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Epinephrine should be used with caution in conjunction with non-selective beta blockers. This does not apply to cardiac selective beta blockers.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>11</string>
+		<key>Question Title</key>
+		<string>Choose all of the following conditions that may require antibiotic premedication prior to invasive dental procedures?</string>
+		<key>a</key>
+		<string>Down syndrome .</string>
+		<key>b</key>
+		<string>Marfan syndrome.</string>
+		<key>c</key>
+		<string>Cardiac valve replacement .</string>
+		<key>d</key>
+		<string>Coronary artery bypass grafts.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A, B, C.</string>
+		<key>rationale</key>
+		<string>Down &amp; Marfan syndromes can both be associated with cardiac abnormalities that would require premedication. Cardiac valve replacement requires premedication, while coronary artery bypass graft surgery does not.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>14</string>
+		<key>Question Title</key>
+		<string>The TB skin test is also known as the Mantoux skin test. If a patient reports a positive TB skin test this means that they have active tuberculosis.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>The TB skin test is also knows as the PPD test, Mantoux skins test, and tuberculin skin test. A positive result indicates that an exposure to TB but not necessarily that the patient has active tuberculosis.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>15</string>
+		<key>Question Title</key>
+		<string>Pinpoint pupils, drowsiness, decreased respiration rate, and bradycardia are all symptoms of abuse of which of the following drugs?</string>
+		<key>a</key>
+		<string>Heroin.</string>
+		<key>b</key>
+		<string>Alcohol.</string>
+		<key>c</key>
+		<string>Cocaine.</string>
+		<key>d</key>
+		<string>Methamphetamine.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>These are all symptoms of heroin use. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>16</string>
+		<key>Question Title</key>
+		<string>Emphysema is caused from over-inﬂation of alveolar sacs that impairs airﬂow out of the lungs. A patient with emphysema is also known as a blue bloater.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Emphysemic patients are also know as pink puﬀers due to an increased respiration rate.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>17</string>
+		<key>Question Title</key>
+		<string>When is the best time to treat a patient with kidney failure who is on dialysis?</string>
+		<key>a</key>
+		<string>The day before dialysis. </string>
+		<key>b</key>
+		<string>Immediately following dialysis.</string>
+		<key>c</key>
+		<string>The afternoon of the dialysis treatment.</string>
+		<key>d</key>
+		<string>The day after dialysis.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>The best time for an appointment is the day after dialysis.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>18</string>
+		<key>Question Title</key>
+		<string>Hypoglycemia is the most common adverse diabetic event. Hypoglycemia can be caused by taking too much insulin, failing to eat, or heavy exercise.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Both statements are true. Emotional stress can also precipitate an event.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>19</string>
+		<key>Question Title</key>
+		<string>Which of the following ﬁndings is not associated with Down syndrome?</string>
+		<key>a</key>
+		<string>Macroglossia.</string>
+		<key>b</key>
+		<string>Fissured tongue .</string>
+		<key>c</key>
+		<string>Periodontal disease.</string>
+		<key>d</key>
+		<string>Increased caries rate.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Down syndrome is associated with a decreased caries rate.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>20</string>
+		<key>Question Title</key>
+		<string>You have a patient that is hearing impaired. Which of the following is NOT an appropriate appointment modiﬁcation?</string>
+		<key>a</key>
+		<string>Provide paper and pencil .</string>
+		<key>b</key>
+		<string>Shout if needed to be heard.</string>
+		<key>c</key>
+		<string>Face the patient when talking.</string>
+		<key>d</key>
+		<string>Remove face mask when talking.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>You should speak to a hearing impaired patient in a normal tone of voice.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>21</string>
+		<key>Question Title</key>
+		<string>All of the following are symptoms of Parkinson’s disease EXCEPT one. Which is the exception?</string>
+		<key>a</key>
+		<string>Temor.</string>
+		<key>b</key>
+		<string>Rigidity.</string>
+		<key>c</key>
+		<string>Bradykinesia.</string>
+		<key>d</key>
+		<string>Excessive blinking.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Patients with Parkinson’s disease have staring, unblinking eyes.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>22</string>
+		<key>Question Title</key>
+		<string>Generalized widening of the periodontal ligament space can be seen in:</string>
+		<key>a</key>
+		<string>Scleroderma.</string>
+		<key>b</key>
+		<string>Grave’s disease.</string>
+		<key>c</key>
+		<string>Down syndrome.</string>
+		<key>d</key>
+		<string>Sickle cell anemia.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Generalized widening of the PDL space is a feature of the overproduction of collagen associated with scleroderma.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>23</string>
+		<key>Question Title</key>
+		<string>Choose all of the following that are commonly seen in a child with cretinism?</string>
+		<key>a</key>
+		<string>Macroglossia.</string>
+		<key>b</key>
+		<string>Periodontal disease.</string>
+		<key>c</key>
+		<string>Mentally challenged .</string>
+		<key>d</key>
+		<string>Delayed tooth eruption.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A, C, D.</string>
+		<key>rationale</key>
+		<string>Mental retardation, physical limitations, enlarged tongue, and delayed tooth eruption are all features of cretinism (hypothyroidism in a child).</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>24</string>
+		<key>Question Title</key>
+		<string>Calcium channel blockers are used to treat epilepsy. The use of calcium channel blockers is associated with gingival hyperplasia.</string>
+		<key>a</key>
+		<string>Both statements are true.</string>
+		<key>b</key>
+		<string>Both statements are false.</string>
+		<key>c</key>
+		<string>The ﬁrst statement is true, the second is false.</string>
+		<key>d</key>
+		<string>The ﬁrst statement is false, the second is true.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Calcium channel blockers are used to treat hypertension. Calcium channel blockers, phenytoin, and cyclosporine are all associated with gingival hyperplasia.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>10</string>
+		<key>Chapter Title</key>
+		<string>Special Needs Patients</string>
+		<key>Question Number</key>
+		<string>25</string>
+		<key>Question Title</key>
+		<string>A patient reports a history of seizures. They report the last seizure was about a month ago, it lasted about 20 seconds, and they experienced a transient loss of consciousness. This likely represents what type of seizure? </string>
+		<key>a</key>
+		<string>Petit mal.</string>
+		<key>b</key>
+		<string>Grand mal.</string>
+		<key>c</key>
+		<string>Status epilepticus.</string>
+		<key>d</key>
+		<string>None of the above as this likely was not a seizure.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Petit mal seizures typically last less than 20 seconds and are also known as absence seizures as they cause impairment of consciousness (absence). Grand mal seizures are associated with tonic-clonic movements, and status epilepticus is a persistent seizure lasting longer than 5 minutes.</string>
 	</dict>
 </array>
 </plist>

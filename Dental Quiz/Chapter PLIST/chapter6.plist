@@ -6,19 +6,19 @@
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>1</string>
           <key>Question Title</key>
-          <string>Bruxism is a pathologic manifestation of which of the following conditions?</string>
+          <string>The ﬂoor of the mouth and the tongue receive their blood supply by the way of the: </string>
           <key>a</key>
-          <string>Erosion.</string>
+          <string>Facial artery.</string>
           <key>b</key>
-          <string>Attrition.</string>
+          <string>Lingual artery.</string>
           <key>c</key>
-          <string>Abrasion.</string>
+          <string>Maxillary artery .</string>
           <key>d</key>
-          <string>Abfraction.</string>
+          <string>Internal carotid artery.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -28,25 +28,26 @@
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>Attrition is loss of tooth structure from tooth to tooth contact and is considered physiologic. The pathologic form of attrition is bruxism. </string>
+          <string>a-the facial artery supplies facial structures, such as the muscles of facial expressionc-  c- the maxillary artery supplies the muscles of mastication 
+d-  the internal carotid artery supplies the skull, eye and brain</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>2</string>
           <key>Question Title</key>
-          <string>Hairy tongue is characterized by hyperplasia of which of the following papillae? </string>
+          <string>The insertion of the buccinator muscle includes the:</string>
           <key>a</key>
-          <string>Foliate.</string>
+          <string>Pterygomandibular raphe.</string>
           <key>b</key>
-          <string>Filiform.</string>
+          <string>Zygomatic process of the maxilla.</string>
           <key>c</key>
-          <string>Fungiform.</string>
+          <string>Coronoid process of the mandible.</string>
           <key>d</key>
-          <string>Circumvallate.</string>
+          <string>Skin and muscle at the corner of the mouth.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -54,27 +55,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>B.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>The ﬁliform papillae are the most numerous tongue papillae. When they are elongated or hyperplastic (hyperplasia is increase in the size of an organ or tissue from an increase number of cells) the condition is called hairy tongue.</string>
+          <string>a-  the pterygomandibular raphe is part of the origin of the muscle 
+b-  the zygomatic process is not an attachment of the buccinator muscle 
+c-  the coronoid process is not an attachment of the buccinator muscle </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>3</string>
           <key>Question Title</key>
-          <string>A debilitated patient on oral penicillin has white lesions that can be stripped away from the tongue, leaving a raw surface. This patient probably has: </string>
+          <string>What is the origin of “rests of Malassez”?</string>
           <key>a</key>
-          <string>Candidiasis. </string>
+          <string>Junctional epithelium.</string>
           <key>b</key>
-          <string>Ichen planus.</string>
+          <string>Reduced enamel epithelium.</string>
           <key>c</key>
-          <string>Mucosal dysplasia. </string>
+          <string>Hertwig’s epithelial root sheath.</string>
           <key>d</key>
-          <string>Rythema multiforme.</string>
+          <string>Cementoblasts in the periodontal ligament.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -82,27 +85,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>A.</string>
+          <string>C.</string>
           <key>rationale</key>
-          <string>Antibiotic therapy predisposes patients to opportunistic infections such as candidiasis. Candida infections often present as white lesions that can be scraped oﬀ leaving a red raw surface. </string>
+          <string>a-  the junctional epithelium is a deep extension of the epithelium of the sulcus 
+b-  the reduced enamel epithelium is the 4 compressed layers of the enamel organ d-Cementoblasts produce cementum matrix </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>4</string>
           <key>Question Title</key>
-          <string>A 50-year-old woman is examined in a dental oﬃce. She smokes, is sensitive to sun-light, and has had basal cell carcinoma of the lower lip. She has a medical history of intestinal polyps and has had a hysterectomy. Upon dental clinical examination, she is found to have yellow elevated areas on the mucosa of her lower lip and on her buccal mucosa, bilaterally. She is not aware of the presence of these yellow elevated areas. This patient most probably has, from a dental point of view: </string>
+          <string>What is the lymph drainage for the tip of the tongue?</string>
           <key>a</key>
-          <string>Candidiasis. </string>
+          <string>Submental to parotid to deep cervical.</string>
           <key>b</key>
-          <string>Fordyce granules. </string>
+          <string>Submandibular to facial to deep cervical.</string>
           <key>c</key>
-          <string>Nicotinic stomatitis. </string>
+          <string>Submandibular to parotid to deep cervical.</string>
           <key>d</key>
-          <string>Upus erythematosis.</string>
+          <string>Submental to submandibular to deep cervical.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -110,27 +114,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>B.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>The ﬁrst 2 sentences are distractors and are not necessary to answer the questions. Fordyce granules, a normal ﬁnding, are intraoral sebaceous glands that present on the buccal mucosa and the vermillion border bilaterally.</string>
+          <string>a-  the parotid area is not in the pathway of tongue lymphatic drainage 
+b-  the facial area is not in the pathway of tongue lymphatic drainage 
+c-  the lymphatic ﬂuid from the tongue drains to the submental region before the submandibular region</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>5</string>
           <key>Question Title</key>
-          <string>nﬂammatory ﬁbrous hyperplasia in the oral cavity is most commonly caused by:</string>
+          <string>Which of the following tissues derive from ectoderm?</string>
           <key>a</key>
-          <string>Smoking.</string>
+          <string>Bone.</string>
           <key>b</key>
-          <string>Candidiasis. </string>
+          <string>Nervous tissue.</string>
           <key>c</key>
-          <string>Poor oral hygiene.</string>
+          <string>Dentin and pulp.</string>
           <key>d</key>
-          <string>Ill-ﬁtting dentures.</string>
+          <string>Chewing muscles.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -138,27 +144,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>Inﬂammatory ﬁbrous hyperplasia (epulis ﬁssuratum) is caused by ill-ﬁtting dentures. Treatment is to remove the lesion and fabricate new dentures. </string>
+          <string>a- bone components may derive from mesoderm or neural crest cells c- dentin and pulp derive from ectomesenchyme 
+d-  muscles derive from mesoderm </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>6</string>
           <key>Question Title</key>
-          <string>The state of teeth joined together only by cementum is diagnosed as:</string>
+          <string>Which of the following arteries carries deoxygenated blood?</string>
           <key>a</key>
-          <string>Fusion.</string>
+          <string>Renal.</string>
           <key>b</key>
-          <string>Budding.</string>
+          <string>Aorta.</string>
           <key>c</key>
-          <string>Gemination.</string>
+          <string>Hepatic.</string>
           <key>d</key>
-          <string>Concrescence.</string>
+          <string>Ulmonary.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -168,25 +175,25 @@
           <key>answer</key>
           <string>D.</string>
           <key>rationale</key>
-          <string>Inﬂammatory ﬁbrous hyperplasia (epulis ﬁssuratum) is caused by ill-ﬁtting dentures. Treatment is to remove the lesion and fabricate new dentures. </string>
+          <string>a, b, and c- most arteries in the body carry oxygenated blood</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>7</string>
           <key>Question Title</key>
-          <string>Two tooth buds are joined together during development and may appear clinically as a macrodont. The probable diagnosis is:</string>
+          <string>Air exchange takes place in which of the following? </string>
           <key>a</key>
-          <string>Fusion.</string>
+          <string>Alveoli.</string>
           <key>b</key>
-          <string>Budding.</string>
+          <string>Venioles.</string>
           <key>c</key>
-          <string>Gemination.</string>
+          <string>Arterioles.</string>
           <key>d</key>
-          <string>Concrescence.</string>
+          <string>Ll of the above.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -196,25 +203,27 @@
           <key>answer</key>
           <string>A.</string>
           <key>rationale</key>
-          <string>Teeth joined during development are “fused” together, hence the term fusion. Teeth that are fused typically would look like a large tooth (a macrodont).</string>
+          <string>b-  venioles carry deoxygenated blood 
+c-  arterioles carry oxygenated blood 
+d-  alveoli of the lungs are the site of gas exchange</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>8</string>
           <key>Question Title</key>
-          <string> A radiograph shows that the roots of a lower molar are severely curved to almost 90 degrees. This is diagnosed as:</string>
+          <string>The degree of mineralization of normal cementum is approximately that of:</string>
           <key>a</key>
-          <string>Hypoplasia. </string>
+          <string>Bone.</string>
           <key>b</key>
-          <string>Dilaceration. </string>
+          <string>Dentin .</string>
           <key>c</key>
-          <string>Turner&apos;s tooth.</string>
+          <string>Enamel .</string>
           <key>d</key>
-          <string>Hutchinson&apos;s tooth.</string>
+          <string>Cartilage.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -222,28 +231,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>B.</string>
+          <string>A.</string>
           <key>rationale</key>
-          <string>A tooth with a severe curve is termed dilacerated or a dilaceration. A Turner’s tooth is a permanent tooth that has defects from an infection in a succedaneous
-(baby) tooth. Hutchinson’s incisors are seen in congenital syphilis.</string>
+          <string>b-  dentin is approximately 70% mineralized 
+c-  enamel is approximately 96% mineralized 
+d-  cartilage is not normally mineralized </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>9</string>
           <key>Question Title</key>
-          <string>Which of the following is the most common site for a supernumerary tooth?</string>
+          <string>The mitral valve separates the</string>
           <key>a</key>
-          <string>Distal to the maxillary third molar.</string>
+          <string>Left atrium from the aorta.</string>
           <key>b</key>
-          <string>Distal to the mandibular third molar.</string>
+          <string>Left atrium from the left ventricle.</string>
           <key>c</key>
-          <string>Between the mandibular bicuspids.</string>
+          <string>Right atrium from the right ventricle.</string>
           <key>d</key>
-          <string>Between the maxillary central incisors.</string>
+          <string>Left atrium from the pulmonary vein.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -251,27 +261,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>The mesiodens, a supernumery tooth in the anterior maxillary, is the most common supernumerary tooth.</string>
+          <string>a- blood does not ﬂow directly from the left atrium to the aorta c-  the tricuspid valve regulates the ﬂow of blood between the right atrium and ventricle 
+d-  the pulmonary veins return oxygenated blood to the left atrium </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>10</string>
           <key>Question Title</key>
-          <string>A patient has lost enamel on the anterior teeth because of a lemon-sucking habit. The diagnosis is:</string>
+          <string>Which of the following exits from the foramen rotundum?</string>
           <key>a</key>
-          <string>Erosion.</string>
+          <string>Inferior alveolar nerve.</string>
           <key>b</key>
-          <string>Attrition.</string>
+          <string>Maxillary division of trigeminal nerve.</string>
           <key>c</key>
-          <string>Abrasion.</string>
+          <string>Ophthalmic division of trigeminal nerve.</string>
           <key>d</key>
-          <string>Chemico-attrition.</string>
+          <string>Mandibular division of trigeminal nerve.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -279,27 +290,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>A.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>Pathologic loss of tooth structure from a chemical process is termed erosion. Lemon juice is an acidic chemical and frequent use can lead to erosion.</string>
+          <string>a- the inferior alveolar nerve is found in the mandibular foramen and mandibular canal c-  the ophthalmic division exits through the superior orbital ﬁssure 
+d-  the mandibular division exits through the foramen ovale </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>11</string>
           <key>Question Title</key>
-          <string>A grayish-white, thickened, multinodular papular appearance of the palate with a small red spot in the center of each nodule, found only in smokers, describes which of the following conditions?</string>
+          <string>Where are von Ebner&apos;s glands located?</string>
           <key>a</key>
-          <string>Candidiasis </string>
+          <string>In submucosa of the pharynx.</string>
           <key>b</key>
-          <string>Leukoplakia </string>
+          <string>In the submucosa of the cheek.</string>
           <key>c</key>
-          <string>Nicotine stomatitis </string>
+          <string>Beneath the ﬂoor of the mouth.</string>
           <key>d</key>
-          <string>Papillary hyperplasia</string>
+          <string>Beneath circumvallate papillae in the tongue.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -307,27 +319,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>Nicotine stomatitis (nicotinic stomatitis, stomatitis nicotina, or smoker’s palate) is basically a callous of the hard palate and has a white wrinkled appearance. The red dots that are seen are the oriﬁces of inﬂamed minor salivary glands.</string>
+          <string>a-  Ebner’s glands are found on the tongue 
+b-  glands in the cheek are called “buccal” glands 
+c-  glands in the ﬂoor of the mouth are sublingual glands</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>12</string>
           <key>Question Title</key>
-          <string>A grayish-white area with a coarsely wrinkled appearance, found bilaterally on the buccal mucosa of a black patient, is probably: </string>
+          <string>Which gland secretes serous saliva ONLY? </string>
           <key>a</key>
-          <string>Leukoplakia. </string>
+          <string>Thyroid.</string>
           <key>b</key>
-          <string>Leukoedema. </string>
+          <string>Parotid.</string>
           <key>c</key>
-          <string>Lichen planus. </string>
+          <string>Sublingual.</string>
           <key>d</key>
-          <string>Upus erythematosus.</string>
+          <string>Submandibular.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -337,25 +351,26 @@
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>Bilateral white lesions of the buccal mucosa that disappear when stretched are called leukoedema. These are seen more commonly in dark-skinned individuals. </string>
+          <string>a- the thyroid gland does not produce saliva c-  the sublingual gland produces a mixed secretion 
+d-  the submandibular gland produces a mixed secretion</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>13</string>
           <key>Question Title</key>
-          <string>Oral squamous cell carcinoma is most commonly found at the following sites:</string>
+          <string>Which of the following parts of a root has the thickest layer of cementum?</string>
           <key>a</key>
-          <string>Hard and soft palate. </string>
+          <string>Apical third of root.</string>
           <key>b</key>
-          <string>Gingiva and alveolar ridge. </string>
+          <string>Middle third of root.</string>
           <key>c</key>
-          <string>Buccal mucosa and mucobuccal fold.</string>
+          <string>Coronal third of root.</string>
           <key>d</key>
-          <string>Lateral tongue and ﬂoor of the mouth. </string>
+          <string>Exposed root surface.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -363,27 +378,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>A.</string>
           <key>rationale</key>
-          <string>Squamous cell carcinoma is seen most commonly at the posterior lateral tongue followed by the ﬂoor of the mouth/ventral tongue. The gingiva, alveolus, hard palate, buccal mucosa, and vestibules are uncommon locations for this cancer. </string>
+          <string>b-  the middle third usually has a moderate layer of cementum 
+c-  the coronal third has the thinnest layer of cementum 
+d-  exposed root surface is near the cervical, and has a thin layer that can be removed</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>14</string>
           <key>Question Title</key>
-          <string>Which of the following is characteristic of a primordial cyst?</string>
+          <string>The nasopalatine nerve enters the oral cavity by the way of the:</string>
           <key>a</key>
-          <string>Develops in place of a tooth.</string>
+          <string>Lesser palatine.</string>
           <key>b</key>
-          <string>Attaches .to the apex of a tooth.</string>
+          <string>Mental foramen.</string>
           <key>c</key>
-          <string>Attaches to the crown of a tooth.</string>
+          <string>Incisive foramen.</string>
           <key>d</key>
-          <string>Remains after the tooth is extracted.</string>
+          <string>Sphenopalatine foramen.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -391,27 +408,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>A.</string>
+          <string>C.</string>
           <key>rationale</key>
-          <string>By deﬁnition, a primordial cyst is a cyst that develops in place of a tooth. A cyst that is attached to the tooth apex is likely a radicular (periapical, apical periodontal) cyst. A cyst that is attached to the crown of an unerupted tooth is likely a dentigerous (follicular) cyst. And a residual cyst is a radicular cyst that was left after tooth extraction. </string>
+          <string>a-  the lesser palatine nerve is transmitted by the lesser palatine foramen 
+b-  the mental nerve is found in the mental foramen of the mandible d- the sphenopalatine foramen contains the sphenopalatine artery </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>15</string>
           <key>Question Title</key>
-          <string>For each of the herpes viruses listed below, select its associated disease process. Virus Disease </string>
+          <string>Pain impulses from the periodontal ligament are carried by which of the following cranial nerves? </string>
           <key>a</key>
-          <string>Epstein-barr virus a. shingles.</string>
+          <string>I.</string>
           <key>b</key>
-          <string>Varicella zoster virus b. herpes labialis.</string>
+          <string>V.</string>
           <key>c</key>
-          <string>Human herpes virus-8 c. kaposi’s sarcoma.</string>
+          <string>III.</string>
           <key>d</key>
-          <string>Herpes simplex virus-1 d. burkitt’s lymphoma.</string>
+          <string>VII.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -419,27 +437,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>d, a, c, b</string>
+          <string>a- the olfactory nerve (I) is responsible for the sense of smell c-  the oculomotor nerve (III) is a motor nerve to muscles of the eye 
+d-  the facial nerve (VII) is the motor nerve to the facial muscles </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>16</string>
           <key>Question Title</key>
-          <string>A 50-year-old man who smokes a pipe is found to have lesions on his palate, underneath his denture. He says he removes the denture only to clean it. The lesions on his palate are erythematous, papillary projections. His chief complaint is an ill-ﬁtting set of dentures that is l0 years old. This patient most probably has: </string>
+          <string>Histologically, gingival epithelium most closely resembles epithelium of the:</string>
           <key>a</key>
-          <string>Candidiasis.</string>
+          <string>Soft palate .</string>
           <key>b</key>
-          <string>Traumatic ulcers. </string>
+          <string>Hard palate .</string>
           <key>c</key>
-          <string>Stomatitis nicotina. </string>
+          <string>Vestibular mucosa .</string>
           <key>d</key>
-          <string>Papillary hyperplasia.</string>
+          <string>Vermillion border of the lips.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -447,27 +466,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>Papillary lesions under a denture that is ill-ﬁtting or is never removed is called papillary hyperplasia. Never removing a denture except to clean it would also predispose a patient to candidiasis, but this would not typically be papillary. This patient is not susceptible to nicotinic stomatitis as the denture is protective and would not allow the smoke to reach the palatal tissue. Ulcers aren’t papillary. </string>
+          <string>a- the soft palate is nonkeratinized c-  the vestibular mucosa is nonkeratinized 
+d-  the vermillion border of the lips is where the skin meets nonkeratinized labial mucosa</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>17</string>
           <key>Question Title</key>
-          <string>The most common location for a mucocele is the:</string>
+          <string>Name the sensory nerve to the mandibular posterior teeth.</string>
           <key>a</key>
-          <string>Palate.</string>
+          <string>Mental.</string>
           <key>b</key>
-          <string>Lower lip.</string>
+          <string>Buccal.</string>
           <key>c</key>
-          <string>Upper lip.</string>
+          <string>Incisive.</string>
           <key>d</key>
-          <string>Retromolar pad.</string>
+          <string>Inferior alveolar.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -475,27 +495,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>B.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>Mucoceles can occur anywhere there are minor salivary glands (everywhere except the attached gingiva and anterior hard palate). The lower lip is a common place for trauma and subsequent mucocele formation. </string>
+          <string>a-  the mental nerve is a sensory nerve to the lower lip, chin and facial gingiva 
+b-  the buccal nerve is a sensory nerve to the posterior buccal gingiva 
+c-  the incisive nerve is the branch of the inferior alveolar nerve that distributes to the mandibular anterior teeth</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>18</string>
           <key>Question Title</key>
-          <string>A permanent tooth that displays hypoplasia caused by trauma or infection during development has been termed: </string>
+          <string>The hypoglossal nerve supplies the:</string>
           <key>a</key>
-          <string>&quot;peg” lateral. </string>
+          <string>Sublingual gland.</string>
           <key>b</key>
-          <string>Mulberry tooth. </string>
+          <string>Muscles of the tongue.</string>
           <key>c</key>
-          <string>Turner’s hypoplasia. </string>
+          <string>Mucous membrane of the ﬂoor of the oral cavity.</string>
           <key>d</key>
-          <string>Hutchinson’s incisor.</string>
+          <string>Mucous membrane of the anterior two-thirds of the tongue.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -503,27 +525,28 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>This is called a Turner’s tooth or hypoplasia. This is a form of environmental hypoplasia. </string>
+          <string>a- the sublingual gland receives parasympathetic supply from a branch of the facial nerve c-  the sensory nerve to the ﬂoor of the mouth area is from the trigeminal nerve 
+d-  the sensory nerve to the anterior 2/3 of the tongue is the lingual nerve </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>19</string>
           <key>Question Title</key>
-          <string>Dysplastic lesions of squamous epithelium occur most often on the:</string>
+          <string>From where does the cementum gain its nourishment?</string>
           <key>a</key>
-          <string>Palate.</string>
+          <string>Pulp.</string>
           <key>b</key>
-          <string>Buccal mucosa.</string>
+          <string>Odontoblasts.</string>
           <key>c</key>
-          <string>ﬂoor of the mouth. </string>
+          <string>Cementocytes.</string>
           <key>d</key>
-          <string>Dorsum of the tongue.</string>
+          <string>Periodontal ligament.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -531,27 +554,29 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>Dysplastic lesions occur at the same location as cancerous lesions—posterior lateral tongue surface followed by ﬂoor of the mouth/ventral tongue. Floor of the mouth is the best answer. </string>
+          <string>a-  arteries from the pulp are not in proximity to the cementum 
+b-  odontoblasts are cells that produce dentin matrix 
+c-  Cementocytes are cells found in cementum, they do not supply nourishment</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>20</string>
           <key>Question Title</key>
-          <string>The most common malignancy in the oral cavity is:</string>
+          <string>Which cell is injured when the tooth overheats during an amalgam preparation?</string>
           <key>a</key>
-          <string>Osteogenic sarcoma. </string>
+          <string>Osteocyte.</string>
           <key>b</key>
-          <string>Basal cell carcinoma.</string>
+          <string>Osteoblast.</string>
           <key>c</key>
-          <string>Metastatic carcinoma. </string>
+          <string>Ameloblast.</string>
           <key>d</key>
-          <string>Epidermoid carcinoma.</string>
+          <string>Odontoblast.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -561,25 +586,27 @@
           <key>answer</key>
           <string>D.</string>
           <key>rationale</key>
-          <string>Epidermoid carcinoma is another name for squamous cell carcinoma, by far the most common cancer of the oral cavity. </string>
+          <string>a-  osteocytes are found in bone, not in tooth tissue 
+b-  osteoblasts are cells that produce bone matrix 
+c-  ameloblasts produce enamel matrix, then are lost after the tooth erupts</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>21</string>
           <key>Question Title</key>
-          <string>Dental ﬂuorosis occurs in the permanent dentition only. It can be prevented by restricting children&apos;s intake of ﬂuoride during the enamel&apos;s calciﬁcation period.</string>
+          <string> Which structure marks the embryonic origin of the thyroid gland?</string>
           <key>a</key>
-          <string>Both statements are true. </string>
+          <string>Tonsillar pillar.</string>
           <key>b</key>
-          <string>Both statements are false. </string>
+          <string>Stensen’s duct.</string>
           <key>c</key>
-          <string>The ﬁrst statement is true, the second is false.</string>
+          <string>Foramen ovale.</string>
           <key>d</key>
-          <string>The ﬁrst statement is false, the second is true.</string>
+          <string>Foramen cecum.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -589,381 +616,19 @@
           <key>answer</key>
           <string>D.</string>
           <key>rationale</key>
-          <string>Fluorosis can occur in any teeth that are forming at the time of the ingestion, whether primary or secondary teeth. If ﬂuoride is restricted during the period of enamel formation, ﬂuorosis cannot develop. </string>
+          <string>a-  the tonsillar pillars are composed of the palatoglossus and palatopharyngeal muscles 
+b-  Stensen’s duct carries saliva produced by the parotid gland 
+c-  foramen ovale is located in the sphenoid bone and transmits the third division of the trigeminal nerve</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
           <string>22</string>
           <key>Question Title</key>
-          <string>Identify the three medications from the following list that can be associated with gingival hyperplasia. </string>
-          <key>a</key>
-          <string>Inderal.</string>
-          <key>b</key>
-          <string>Phenytoin.</string>
-          <key>c</key>
-          <string>Nifedipine.</string>
-          <key>d</key>
-          <string>Cyclosporine.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B, C, D.</string>
-          <key>rationale</key>
-          <string>Inderal is a non-selective beta blocker antihypertensive. This class of drugs does not contribute to gingival hyperplasia. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>23</string>
-          <key>Question Title</key>
-          <string>A herpetic whitlow refers to a herpes infection of the:</string>
-          <key>a</key>
-          <string>Lip.</string>
-          <key>b</key>
-          <string>Finger.</string>
-          <key>c</key>
-          <string>Cervix.</string>
-          <key>d</key>
-          <string>Gingival.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B.</string>
-          <key>rationale</key>
-          <string>By deﬁnition, herpes on a ﬁnger is called a whitlow. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>24</string>
-          <key>Question Title</key>
-          <string>A patient complaining of moderately severe pain, particularly just before, during, and after meals and with evidence of swelling in a salivary gland would be suspected of having: </string>
-          <key>a</key>
-          <string>Xerostomia. </string>
-          <key>b</key>
-          <string>Antrolithiasis.</string>
-          <key>c</key>
-          <string>Rhinolithiasis.</string>
-          <key>d</key>
-          <string>Sialolithiasis. </string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>Sialolithiasis (salivary stones) are most commonly found in Wharton’s duct. They often do not cause complete blockage of the duct, but during mealtime when the submandibular gland is secreting large amounts of saliva, there may be partial obstruction of normal salivary ﬂow. The associated swelling can be painful. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>25</string>
-          <key>Question Title</key>
-          <string>Recurrent aphthous ulcers:</string>
-          <key>a</key>
-          <string>Are caused by a coxsackievirus. </string>
-          <key>b</key>
-          <string>Appear to be associated with stress. </string>
-          <key>c</key>
-          <string>Are caused by herpes simplex virus. </string>
-          <key>d</key>
-          <string>Can produce an associated rise in antibody titer against herpes virus.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B.</string>
-          <key>rationale</key>
-          <string>Aphthous ulcers are NOT associated with a virus. The eﬀects of stress on the immune system is a trigger for aphthous in many people. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>26</string>
-          <key>Question Title</key>
-          <string>A 40-year-old man has routine dental ﬁlms exposed. Upon examination of the radiographs, an oval radiolucent area is discovered above the maxillary central incisors. The teeth are vital, and the roots are not resorbed. This patient most probably has a: </string>
-          <key>a</key>
-          <string>Radicular cyst.</string>
-          <key>b</key>
-          <string>Nasolabial cyst. </string>
-          <key>c</key>
-          <string>Globulomaxillary cyst. </string>
-          <key>d</key>
-          <string>Nasopalatine duct cyst.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>A cyst in the anterior maxilla may be from the most common non-odontogenic cyst in the oral cavity, the nasopalatine (incisive canal) cyst. The fact that the teeth in the area are vital rules out a radicular (periapical, apical periodontal) cyst. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>27</string>
-          <key>Question Title</key>
-          <string>A cyst that remains subsequent to extraction of a tooth is a:</string>
-          <key>a</key>
-          <string>Residual cyst.</string>
-          <key>b</key>
-          <string>Periapical cyst. </string>
-          <key>c</key>
-          <string>Primordial cyst. </string>
-          <key>d</key>
-          <string>Dentigerous cyst.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A.</string>
-          <key>rationale</key>
-          <string> If a tooth has a radicular (periapical, apical periodontal) cyst and the tooth is extracted, the cyst that was left behind is termed a residual cyst. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>28</string>
-          <key>Question Title</key>
-          <string>The odontogenic cyst having the highest recurrence rate is the:</string>
-          <key>a</key>
-          <string>Keratocyst. </string>
-          <key>b</key>
-          <string>Radicular cyst.</string>
-          <key>c</key>
-          <string>Periapical cyst. </string>
-          <key>d</key>
-          <string>Incisive canal cyst.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A.</string>
-          <key>rationale</key>
-          <string>Most oral cysts have a very low recurrence rate. The odontogenic keratocyst (OKC) is an exception and it has at least a 25% chance of recurring or coming back. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>29</string>
-          <key>Question Title</key>
-          <string>A &quot;cotton-wool&quot; appearance of the skull radiographically is characteristic of:</string>
-          <key>a</key>
-          <string>Odontoma. </string>
-          <key>b</key>
-          <string>Cementoma. </string>
-          <key>c</key>
-          <string>Paget&apos;s disease. </string>
-          <key>d</key>
-          <string>Ectodermal dysplasia.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>“Cotton wool” radiopacities is a keyword used to describe the bony lesions of Paget’s disease (osteitis deformans). </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>30</string>
-          <key>Question Title</key>
-          <string>Lace-like white striae present on the buccal mucosa bilaterally may represent:</string>
-          <key>a</key>
-          <string>Linea alba. </string>
-          <key>b</key>
-          <string>Leukoedema.</string>
-          <key>c</key>
-          <string> lichen planus. </string>
-          <key>d</key>
-          <string>Erythema multiforme.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Lace-like white striae are also known as Wickham’s striae and are seen in lichen planus. Linea alba is a single white line along the plane of occlusion, leukoedema are white lesions that disappear when stretched. Erythema multiforme is an ulcerative disease that often has crusting of the lips and bull’s eye or target lesions on the skin. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>31</string>
-          <key>Question Title</key>
-          <string>A 26-year-old black female was examined clinically and radiographically. On a mandibular periapical radiograph that included the central and lateral incisors, radiolucent lesions were found at the apex of each of these four teeth. Six months later, the radiolucent areas were radiopaque. Each of the four teeth retained its vitality. This patient most likely has: </string>
-          <key>a</key>
-          <string>Odontomas. </string>
-          <key>b</key>
-          <string>Cementomas.</string>
-          <key>c</key>
-          <string>Paget’s disease.</string>
-          <key>d</key>
-          <string>Lateral periodontal cysts.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B.</string>
-          <key>rationale</key>
-          <string>Cementomas (periapical cemental dysplasia) are mixed radiolucent/radiopaque lesions seen in the anterior mandible typically in patients of African ancestry. These lesions become more opaque over time. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>32</string>
-          <key>Question Title</key>
-          <string>Patients with bulimia commonly suﬀer from:</string>
-          <key>a</key>
-          <string>Erosion of the teeth.</string>
-          <key>b</key>
-          <string>Severe dental caries. </string>
-          <key>c</key>
-          <string>Gastric acid decalciﬁcation of the teeth.</string>
-          <key>d</key>
-          <string>All of the above are correct. </string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>All answers are correct. The erosion seen is from gastric acids. Bulimics often ingest high sugary foods and chronic bulimia can lead to xerostomia both of which contribute to a high caries rate. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>33</string>
-          <key>Question Title</key>
-          <string>Which of the following intraoral locations is the most common site for formation of a pyogenic granuloma?</string>
-          <key>a</key>
-          <string>Palate.</string>
-          <key>b</key>
-          <string>Tongue.</string>
-          <key>c</key>
-          <string>Gingiva.</string>
-          <key>d</key>
-          <string>Buccal mucosa.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Pyogenic granulomas can literally occur anywhere in the body, but intraorally are most commonly found on the gingiva. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>34</string>
-          <key>Question Title</key>
-          <string> Sialoliths are most commonly found during radiographic examination of (the):</string>
-          <key>a</key>
-          <string>Stenson’s duct. </string>
-          <key>b</key>
-          <string>Wharton’s duct. </string>
-          <key>c</key>
-          <string>Maxillary sinus. </string>
-          <key>d</key>
-          <string>Minor salivary glands.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B.</string>
-          <key>rationale</key>
-          <string>The long tortuous route of the submandibular (Wharton’s) duct along the ﬂoor of the mouth make this the most common location for sailoliths (salivary stones). </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>35</string>
-          <key>Question Title</key>
-          <string>Desquamation of which of the following papillae occurs in benign migratory glossitis?</string>
+          <string>Which tongue papillae have no taste buds?</string>
           <key>a</key>
           <string>Foliate.</string>
           <key>b</key>
@@ -981,249 +646,25 @@
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>The most numerous papillae on the tongue are the ﬁliform and these are desquamated in benign migratory glossitis (geographic tongue, erythema migrans). </string>
+          <string>a, b and c- these tongue papillae types are associated with taste buds</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
-          <string>36</string>
+          <string>23</string>
           <key>Question Title</key>
-          <string>Clinically and microscopically, an epulis ﬁssuratum is most similar to which of the following lesions?</string>
+          <string>The hamulus is a landmark of the:</string>
           <key>a</key>
-          <string>Papilloma.</string>
+          <string>Hyoid bone.</string>
           <key>b</key>
-          <string>Condyloma.</string>
+          <string>Sphenoid bone.</string>
           <key>c</key>
-          <string> irritation ﬁbroma.</string>
+          <string>Temporal bone.</string>
           <key>d</key>
-          <string>Giant cell granuloma.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>An epulis ﬁssuratum forms around the ﬂange of an ill-ﬁtting denture and is essentially an irritation ﬁbroma. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>37</string>
-          <key>Question Title</key>
-          <string>Which of the following teeth most frequently demonstrate microdontia?</string>
-          <key>a</key>
-          <string>Maxillary canines.</string>
-          <key>b</key>
-          <string>Mandibular canines.</string>
-          <key>c</key>
-          <string>Maxillary lateral incisors.</string>
-          <key>d</key>
-          <string>Mandibular second premolars.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Microdontia occurs so frequently in the maxillary lateral incisor that we give it a special name (peg lateral). </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>38</string>
-          <key>Question Title</key>
-          <string>The ﬁrst clinically observable reaction to radiation overexposure is:</string>
-          <key>a</key>
-          <string>Loss of hair. </string>
-          <key>b</key>
-          <string>Radiation caries. </string>
-          <key>c</key>
-          <string>Erythema of the skin.</string>
-          <key>d</key>
-          <string>Agenesis of blood cells.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Radiaton overexposure is like getting a sunburn and erythema of the skin is the ﬁrst reaction. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>39</string>
-          <key>Question Title</key>
-          <string>A speciﬁc presentation of oral candidiasis, sometimes seen in otherwise healthy patients is:</string>
-          <key>a</key>
-          <string>Hairy tongue.</string>
-          <key>b</key>
-          <string>Geographic tongue. </string>
-          <key>c</key>
-          <string>Benign migratory glossitis.</string>
-          <key>d</key>
-          <string>Median rhomboid glossitis. </string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>Median rhomboid glossitis (central papillary atrophy) is caused by Candida albicans and is often seen in folks with a normal immune system. Pseudomembranous candidiasis (thrush) is typically seen with immune suppression. Geographic tongue, also knows as benign migratory glossitis, is not caused by Candida. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>40</string>
-          <key>Question Title</key>
-          <string>Stevens-Johnson syndrome is a severe form of:</string>
-          <key>a</key>
-          <string>Herpes simplex. </string>
-          <key>b</key>
-          <string>Lupus erythmatosus. </string>
-          <key>c</key>
-          <string>Erosive lichen planus.</string>
-          <key>d</key>
-          <string>Erythema multiforme. </string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>Erythema multiforme is an unusual immune system response to something, typically a virus (HSV), a drug, or a food. Severe reactions are called Stevens-Johnson syndrome. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>41</string>
-          <key>Question Title</key>
-          <string>What is the most common location for AIDS-related “oral hairy leukoplakia”?</string>
-          <key>a</key>
-          <string>Soft palate.</string>
-          <key>b</key>
-          <string>Buccal mucosa.</string>
-          <key>c</key>
-          <string>Dorsum of the tongue.</string>
-          <key>d</key>
-          <string>Lateral border of the tongue.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>OHL occurs on the lateral tongue surface. Severe lesions can wrap around to the dorsal surface. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>42</string>
-          <key>Question Title</key>
-          <string>Which of the following is a soft tissue cyst? </string>
-          <key>a</key>
-          <string>Nasolabial cyst.</string>
-          <key>b</key>
-          <string>Primordial cyst.</string>
-          <key>c</key>
-          <string>Incisive canal cyst.</string>
-          <key>d</key>
-          <string>Nasopalatine duct cyst.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A.</string>
-          <key>rationale</key>
-          <string>A nasolabial cyst occurs between the nose (naso) and the lips (labial) in the soft tissues. It often lifts the corner or wing (ala) of the nose. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>43</string>
-          <key>Question Title</key>
-          <string>Identify the four conditions from the following list that appear white on a clinical oral exam.</string>
-          <key>a</key>
-          <string>Mucocele.</string>
-          <key>b</key>
-          <string>Linea alba.</string>
-          <key>c</key>
-          <string>Leukoplakia.</string>
-          <key>d</key>
-          <string>Leukoedema.</string>
-          <key>e</key>
-          <string>Pseudomembranous candidiasis.</string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B, C, D, E.</string>
-          <key>rationale</key>
-          <string>A mucocele typically has a clear or bluish tinge. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>44</string>
-          <key>Question Title</key>
-          <string>A radiograph shows an unerupted mandibular third molar with a 3 cm. pericoronal radiolucency. The most likely diagnosis is:</string>
-          <key>a</key>
-          <string>Primordial cyst. </string>
-          <key>b</key>
-          <string>Follicular cyst. </string>
-          <key>c</key>
-          <string> lateral periodontal cyst. </string>
-          <key>d</key>
-          <string>Odontogenic keratocyst.</string>
+          <string>Maxillary ﬁrst premolar tooth.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -1233,137 +674,26 @@
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>The most common cause of an enlarged radiolucency around the crown of an impacted tooth is a dentigerous (follicular) cyst. </string>
+          <string>a- the hamulus is a bump on the medial pterygoid process of the sphenoid bone c-  the temporal bone does not contain the hamulus 
+d-  the hamulus is a bony landmark, not found on a tooth</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
-          <string>45</string>
+          <string>24</string>
           <key>Question Title</key>
-          <string>Supernumerary teeth are a common feature of which of the following syndromes?</string>
+          <string>The nasopalatine nerve is a branch of which division of the trigeminal nerve?</string>
           <key>a</key>
-          <string>Sjögren syndrome </string>
+          <string>Occipital division.</string>
           <key>b</key>
-          <string>Cushing’s syndrome </string>
+          <string>Maxillary division.</string>
           <key>c</key>
-          <string>Ectodermal dysplasia </string>
+          <string>Ophthalmic division.</string>
           <key>d</key>
-          <string>Cleidocranial dysostosis</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>Cleidocranial dysostosis and Gardner’s syndrome both have supernumerary teeth as a feature. Ectodermal dysplasia has missing teeth (hypodontia or anadontia). </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>46</string>
-          <key>Question Title</key>
-          <string>Carcinoma that does not invade the connective tissue is referred to as:</string>
-          <key>a</key>
-          <string>Carcinoma in situ. </string>
-          <key>b</key>
-          <string>Basal cell carcinoma.</string>
-          <key>c</key>
-          <string>Epidermoid carcinoma.</string>
-          <key>d</key>
-          <string>Squamous cell carcinoma.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A.</string>
-          <key>rationale</key>
-          <string>If invasion has not occurred but the entire thickness of epithelium has features of dysplasia, the term carcinoma in situ is often used.</string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>47</string>
-          <key>Question Title</key>
-          <string>Identify the three conditions in which the papillomavirus has been found?</string>
-          <key>a</key>
-          <string>Oral papilloma </string>
-          <key>b</key>
-          <string>Papillary hyperplasia </string>
-          <key>c</key>
-          <string>Condyloma acuminatum </string>
-          <key>d</key>
-          <string>Squamous cell carcinoma</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A, C, D.</string>
-          <key>rationale</key>
-          <string>Papillary hyperplasia occurs on the hard palate and is usually caused by not taking out a maxillary denture enough. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>48</string>
-          <key>Question Title</key>
-          <string>A patient presents with bilateral linear discoloration of the maxillary and mandibular central incisors. The patient’s medical history includes a serious childhood illness with associated high fevers. Which of the following best describes the cause of the tooth anomalies? </string>
-          <key>a</key>
-          <string>Failure of the dentin matrix to form. </string>
-          <key>b</key>
-          <string>Lack of nutrition aﬀecting amelogenesis. </string>
-          <key>c</key>
-          <string>Interruption of the enamel calciﬁcation process. </string>
-          <key>d</key>
-          <string>Suppression of enamel formation by dentinoblasts.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Ameloblasts are very sensitive to changes in their environment. High fevers can cause interruption in enamel calciﬁcation. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Oral Pathology</string>
-          <key>Question Number</key>
-          <string>49</string>
-          <key>Question Title</key>
-          <string>A patient presents complaining that his dentures no longer ﬁt. Upon radiographic examination, distinct areas of radiopacity are noted throughout the mandible and maxilla. Which of the following conditions is the most likely cause? </string>
-          <key>a</key>
-          <string>Odontoma. </string>
-          <key>b</key>
-          <string>Paget’s disease.</string>
-          <key>c</key>
-          <string>Ameloblastoma.</string>
-          <key>d</key>
-          <string>Odontogenic keratocyst.</string>
+          <string>Mandibular division.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -1373,25 +703,26 @@
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>Paget’s disease (osteitis deformans) is a condition that causes bones to enlarge and patients may complain of a denture that no longer ﬁts. Radiopaque areas called “cotton-wool” radiopacities are also typical. </string>
+          <string>a- the trigeminal nerve does not have an “occipital” division c-  the ophthalmic division is a sensory nerve near the eye, upper nasal cavity and forehead 
+d-  the mandibular division contains branches to the lower teeth, tongue, lip and chin </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>6</string>
           <key>Chapter Title</key>
-          <string>Oral Pathology</string>
+          <string>Oral/Dental Anatomy</string>
           <key>Question Number</key>
-          <string>50</string>
+          <string>25</string>
           <key>Question Title</key>
-          <string>Bence-Jones proteins in the urine and multitple bone radiolucencies can be found in which of the following diseases?</string>
+          <string>The cells that produce enamel derive from the:</string>
           <key>a</key>
-          <string>Leukemia.</string>
+          <string>Stellate reticulum.</string>
           <key>b</key>
-          <string>Cushing’s disease.</string>
+          <string>Junctional epithelium.</string>
           <key>c</key>
-          <string>Multiple myeloma.</string>
+          <string>Inner enamel epithelium.</string>
           <key>d</key>
-          <string>Squamous cell carcinoma.</string>
+          <string>Outer enamel epithelium.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -1401,7 +732,186 @@
           <key>answer</key>
           <string>C.</string>
           <key>rationale</key>
-          <string>Multiple myeloma is a malignancy of plasma cells. Light chain immunoglobulins known as Bence-Jones proteins are seen in the urine. The malignant cells cause what are termed “punched-out” radiolucencies as the aggressive lesions do not have the sclerotic rim typically seen in cysts and benign tumors. </string>
+          <string>a-  the stellate reticulum is a layer of the enamel organ, but does not become ameloblasts 
+b-  the junctional epithelium is a deep extension of the epithelium of the sulcus d- the outer enamel epithelium is a layer of the enamel organ, but does not become ameloblasts</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>6</string>
+          <key>Chapter Title</key>
+          <string>Oral/Dental Anatomy</string>
+          <key>Question Number</key>
+          <string>26</string>
+          <key>Question Title</key>
+          <string> The temporalis muscle inserts into the:</string>
+          <key>a</key>
+          <string>Sphenoid bone.</string>
+          <key>b</key>
+          <string>Zygomatic arch.</string>
+          <key>c</key>
+          <string>Mandibular molars.</string>
+          <key>d</key>
+          <string>Coronoid process of the mandible.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>a-  the sphenoid bone is an attachment for the medial and lateral pterygoid muscles 
+b-  the zygomatic arch is part of the origin of the masseter muscle 
+c-  muscles do not insert into teeth </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>6</string>
+          <key>Chapter Title</key>
+          <string>Oral/Dental Anatomy</string>
+          <key>Question Number</key>
+          <string>27</string>
+          <key>Question Title</key>
+          <string>Energy production for the cell is accomplished through oxidation of nutrients in the:</string>
+          <key>a</key>
+          <string>Lysosomes.</string>
+          <key>b</key>
+          <string>Mitochondria.</string>
+          <key>c</key>
+          <string>Cell membrane.</string>
+          <key>d</key>
+          <string>Endoplasmic reticulum.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>a- lysosomes contain digestive enzymes c-  the cell membrane controls the passage of substances into and out of the cell 
+d-  endoplasmic reticulum forms an interconnected network of membranes </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>6</string>
+          <key>Chapter Title</key>
+          <string>Oral/Dental Anatomy</string>
+          <key>Question Number</key>
+          <string>28</string>
+          <key>Question Title</key>
+          <string>During which time of fetal development will cleft palate form?</string>
+          <key>a</key>
+          <string>Second trimester.</string>
+          <key>b</key>
+          <string>Weeks one through three.</string>
+          <key>c</key>
+          <string>Weeks six through twelve.</string>
+          <key>d</key>
+          <string>Early in the third trimester.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>a-  most body systems are formed in the ﬁrst trimester 
+b-  early layers of development are present by week three, including ectoderm, mesoderm and endoderm d- the palate is formed completely by the third trimester</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>6</string>
+          <key>Chapter Title</key>
+          <string>Oral/Dental Anatomy</string>
+          <key>Question Number</key>
+          <string>29</string>
+          <key>Question Title</key>
+          <string>The action of the medial pterygoid muscle is to:</string>
+          <key>a</key>
+          <string>Elevate the mandible.</string>
+          <key>b</key>
+          <string>Depress the mandible .</string>
+          <key>c</key>
+          <string>Elevate the lip during a smile .</string>
+          <key>d</key>
+          <string>Elevate the hyoid bone during speech.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>b-  the lateral pterygoid is the muscle of mastication that depresses the mandible 
+c-  the medial pterygoid has no attachment to the upper lip 
+d-  the medial pterygoid has no attachment to the hyoid bone in the neck</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>6</string>
+          <key>Chapter Title</key>
+          <string>Oral/Dental Anatomy</string>
+          <key>Question Number</key>
+          <string>30</string>
+          <key>Question Title</key>
+          <string>Which of the following premolar teeth often has three cusps?</string>
+          <key>a</key>
+          <string>Maxillary ﬁrst premolar.</string>
+          <key>b</key>
+          <string>Mandibular ﬁrst premolar.</string>
+          <key>c</key>
+          <string>Maxillary second premolar.</string>
+          <key>d</key>
+          <string>Mandibular second premolar.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>a-  the maxillary ﬁrst premolar has two cusps (buccal and lingual) 
+b-  the mandibular ﬁrst premolar has two cusps (a functional buccal cusp and an “afunctional” lingual cusp) 
+c-  the maxillary second premolar has two cusps (buccal and lingual) </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>6</string>
+          <key>Chapter Title</key>
+          <string>Oral/Dental Anatomy</string>
+          <key>Question Number</key>
+          <string>31</string>
+          <key>Question Title</key>
+          <string>Order the following stages of tooth development from early to late:</string>
+          <key>a</key>
+          <string>Cap stage.</string>
+          <key>b</key>
+          <string>Bud stage.</string>
+          <key>c</key>
+          <string>Bell stage.</string>
+          <key>d</key>
+          <string>Initiation stage.</string>
+          <key>e</key>
+          <string>Apposition stage.</string>
+          <key>f</key>
+          <string>Maturation stage.</string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>a-  initiation is the ﬁrst stage of tooth development 
+b-  initiation comes before the bud stage 
+c-  after initiation, a tooth develops into the bud stage, then cap stage and then bell stage </string>
     </dict>
 </array>
 </plist>

@@ -6,19 +6,19 @@
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>1</string>
           <key>Question Title</key>
-          <string>Which vitamin prevents both cheilosis and glossitis? </string>
+          <string>Bruxism is a pathologic manifestation of which of the following conditions?</string>
           <key>a</key>
-          <string>Niacin.</string>
+          <string>Erosion.</string>
           <key>b</key>
-          <string>Thiamin.</string>
+          <string>Attrition.</string>
           <key>c</key>
-          <string>Riboﬂavin.</string>
+          <string>Abrasion.</string>
           <key>d</key>
-          <string>Cyanocobalamin.</string>
+          <string>Abfraction.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -26,27 +26,27 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>Riboﬂavin (C) prevents cheilosis and glossitis. Niacin (A) prevents pellagra; thiamin (B) prevents beriberi; and cyanocobalamin (cobalamin) (D) prevents pernicious anemia. </string>
+          <string>Attrition is loss of tooth structure from tooth to tooth contact and is considered physiologic. The pathologic form of attrition is bruxism. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>2</string>
           <key>Question Title</key>
-          <string>A deﬁciency of vitamin B12 causes:</string>
+          <string>Hairy tongue is characterized by hyperplasia of which of the following papillae? </string>
           <key>a</key>
-          <string>Scurvy.</string>
+          <string>Foliate.</string>
           <key>b</key>
-          <string>Pellegra. </string>
+          <string>Filiform.</string>
           <key>c</key>
-          <string>Pernicious anemia.</string>
+          <string>Fungiform.</string>
           <key>d</key>
-          <string>Megaloblastic anemia. </string>
+          <string>Circumvallate.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -54,27 +54,27 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>A deﬁciency in B12 (cobalamin) causes pernicious anemia (C). Scurvy (A) is caused by a vitamin C deﬁciency; pellegra (B) results from a niacin deﬁciency; and megaloblastic anemia (D) results from a folic acid deﬁciency. </string>
+          <string>The ﬁliform papillae are the most numerous tongue papillae. When they are elongated or hyperplastic (hyperplasia is increase in the size of an organ or tissue from an increase number of cells) the condition is called hairy tongue.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>3</string>
           <key>Question Title</key>
-          <string>Which vitamin is associated with blood clotting?</string>
+          <string>A debilitated patient on oral penicillin has white lesions that can be stripped away from the tongue, leaving a raw surface. This patient probably has: </string>
           <key>a</key>
-          <string>D.</string>
+          <string>Candidiasis. </string>
           <key>b</key>
-          <string>A.</string>
+          <string>Ichen planus.</string>
           <key>c</key>
-          <string>E.</string>
+          <string>Mucosal dysplasia. </string>
           <key>d</key>
-          <string>K.</string>
+          <string>Rythema multiforme.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -82,27 +82,27 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>A.</string>
           <key>rationale</key>
-          <string>Vitamin K (D) synthesizes prothrombin for blood clotting. Vitamin D (A) helps absorb calcium and phosphorus; vitamin A (B) is needed for vision; and vitamin E (C) is an essential antioxidant. </string>
+          <string>Antibiotic therapy predisposes patients to opportunistic infections such as candidiasis. Candida infections often present as white lesions that can be scraped oﬀ leaving a red raw surface. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>4</string>
           <key>Question Title</key>
-          <string>Lipids provide:</string>
+          <string>A 50-year-old woman is examined in a dental oﬃce. She smokes, is sensitive to sun-light, and has had basal cell carcinoma of the lower lip. She has a medical history of intestinal polyps and has had a hysterectomy. Upon dental clinical examination, she is found to have yellow elevated areas on the mucosa of her lower lip and on her buccal mucosa, bilaterally. She is not aware of the presence of these yellow elevated areas. This patient most probably has, from a dental point of view: </string>
           <key>a</key>
-          <string>Sodium. </string>
+          <string>Candidiasis. </string>
           <key>b</key>
-          <string>Vitamin c. </string>
+          <string>Fordyce granules. </string>
           <key>c</key>
-          <string>Essential fatty acids.</string>
+          <string>Nicotinic stomatitis. </string>
           <key>d</key>
-          <string>Essential amino acids.</string>
+          <string>Upus erythematosis.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -110,57 +110,55 @@
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>Lipids provide essential fatty acids (C). Sodium (A) is a mineral; vitamin C (B) is 
-essential for collagen synthesis and wound healing; and essential amino acids (D) are 
-proteins.</string>
+          <string>The ﬁrst 2 sentences are distractors and are not necessary to answer the questions. Fordyce granules, a normal ﬁnding, are intraoral sebaceous glands that present on the buccal mucosa and the vermillion border bilaterally.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>5</string>
           <key>Question Title</key>
-          <string>Which are associated with calcium? (Select the ﬁve that apply.) </string>
+          <string>nﬂammatory ﬁbrous hyperplasia in the oral cavity is most commonly caused by:</string>
           <key>a</key>
-          <string>Deﬁciency is p.ernicious anemia</string>
+          <string>Smoking.</string>
           <key>b</key>
-          <string>Forms bones and teeth.</string>
+          <string>Candidiasis. </string>
           <key>c</key>
-          <string>Deﬁciency is rickets.</string>
+          <string>Poor oral hygiene.</string>
           <key>d</key>
-          <string>Source includes soy.</string>
+          <string>Ill-ﬁtting dentures.</string>
           <key>e</key>
-          <string>Deﬁciency is osteoporosis.</string>
+          <string></string>
           <key>f</key>
-          <string>Aids in blood coagulation.</string>
+          <string></string>
           <key>g</key>
-          <string>Source includes carrots.</string>
+          <string></string>
           <key>answer</key>
-          <string>B, C, D, E, F.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>Options (B, C, D, E, and F) are associated with calcium. Pernicious anemia (A) results from a cobalamin deﬁciency and carrots are a good source of vitamin A, not calcium (G).</string>
+          <string>Inﬂammatory ﬁbrous hyperplasia (epulis ﬁssuratum) is caused by ill-ﬁtting dentures. Treatment is to remove the lesion and fabricate new dentures. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>6</string>
           <key>Question Title</key>
-          <string>Bulimia involves eating non-nutritive food substances. The cause of bulimia is a zinc deﬁciency. </string>
+          <string>The state of teeth joined together only by cementum is diagnosed as:</string>
           <key>a</key>
-          <string>Both statements are true. </string>
+          <string>Fusion.</string>
           <key>b</key>
-          <string>Both statements are false. </string>
+          <string>Budding.</string>
           <key>c</key>
-          <string>The ﬁrst statement is true and the second is false. </string>
+          <string>Gemination.</string>
           <key>d</key>
-          <string>The ﬁrst statement is false and the second is false.</string>
+          <string>Concrescence.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -168,27 +166,27 @@ proteins.</string>
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>B.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>Both statements are false (B). Bulimia involves purging of foods through vomiting or laxative and/or diuretic abuse. The cause is typically considered psychological, not from a zinc deﬁciency. Choices (A, C and D) do not deﬁne the statements. </string>
+          <string>Inﬂammatory ﬁbrous hyperplasia (epulis ﬁssuratum) is caused by ill-ﬁtting dentures. Treatment is to remove the lesion and fabricate new dentures. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>7</string>
           <key>Question Title</key>
-          <string>Each of the following is a symptom of hypoglycemia EXCEPT one. Which one is the EXCEPTION?</string>
+          <string>Two tooth buds are joined together during development and may appear clinically as a macrodont. The probable diagnosis is:</string>
           <key>a</key>
-          <string>Sweating.</string>
+          <string>Fusion.</string>
           <key>b</key>
-          <string>Shakiness.</string>
+          <string>Budding.</string>
           <key>c</key>
-          <string>Palpitations.</string>
+          <string>Gemination.</string>
           <key>d</key>
-          <string>Lowered heart rate.</string>
+          <string>Concrescence.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -196,27 +194,27 @@ proteins.</string>
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>D.</string>
+          <string>A.</string>
           <key>rationale</key>
-          <string>The exception is lowered heart rate (D). With hypoglycemia, the patient typically xperiences sweating (A), shakiness (C), palpations (D), and an increased rather than decreased heart rate. </string>
+          <string>Teeth joined during development are “fused” together, hence the term fusion. Teeth that are fused typically would look like a large tooth (a macrodont).</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>8</string>
           <key>Question Title</key>
-          <string>Which process is aﬀected by diabetes?</string>
+          <string> A radiograph shows that the roots of a lower molar are severely curved to almost 90 degrees. This is diagnosed as:</string>
           <key>a</key>
-          <string>Fat intolerance.</string>
+          <string>Hypoplasia. </string>
           <key>b</key>
-          <string>Protein metabolism.</string>
+          <string>Dilaceration. </string>
           <key>c</key>
-          <string>Fructose intolerance.</string>
+          <string>Turner&apos;s tooth.</string>
           <key>d</key>
-          <string>Carbohydrate metabolism.</string>
+          <string>Hutchinson&apos;s tooth.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -226,25 +224,26 @@ proteins.</string>
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>Diabetes is aﬀected by carbohydrate metabolism (D). The pancreas releases little or no insulin to transport glucose to the cells. Choices (A, B and C) do not deﬁne the question. </string>
+          <string>A tooth with a severe curve is termed dilacerated or a dilaceration. A Turner’s tooth is a permanent tooth that has defects from an infection in a succedaneous
+(baby) tooth. Hutchinson’s incisors are seen in congenital syphilis.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>9</string>
           <key>Question Title</key>
-          <string>The main function of carbohydrates is to:</string>
+          <string>Which of the following is the most common site for a supernumerary tooth?</string>
           <key>a</key>
-          <string>Regulate metabolism. </string>
+          <string>Distal to the maxillary third molar.</string>
           <key>b</key>
-          <string>Provide energy to the body.</string>
+          <string>Distal to the mandibular third molar.</string>
           <key>c</key>
-          <string>Maintain, repair, and build body tissues.</string>
+          <string>Between the mandibular bicuspids.</string>
           <key>d</key>
-          <string>Aid in maintaining the body&apos;s temperature.</string>
+          <string>Between the maxillary central incisors.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -254,27 +253,27 @@ proteins.</string>
           <key>answer</key>
           <string>D.</string>
           <key>rationale</key>
-          <string>The main function of carbohydrates is to provide energy to the body (B). The main function is not to regulate metabolism (A). Proteins maintain, repair, and build body tissues (C) and lipids aid in maintaining the body&apos;s temperature (D). </string>
+          <string>The mesiodens, a supernumery tooth in the anterior maxillary, is the most common supernumerary tooth.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>10</string>
           <key>Question Title</key>
-          <string>Starch, glycogen, and cellulose are examples of:</string>
+          <string>A patient has lost enamel on the anterior teeth because of a lemon-sucking habit. The diagnosis is:</string>
           <key>a</key>
-          <string>Glucose. </string>
+          <string>Erosion.</string>
           <key>b</key>
-          <string>Dietary ﬁber.</string>
+          <string>Attrition.</string>
           <key>c</key>
-          <string>Disaccharides.</string>
+          <string>Abrasion.</string>
           <key>d</key>
-          <string>Polysaccharides. </string>
+          <string>Chemico-attrition.</string>
           <key>e</key>
-          <string>Monosaccharides.</string>
+          <string></string>
           <key>f</key>
           <string></string>
           <key>g</key>
@@ -282,25 +281,25 @@ proteins.</string>
           <key>answer</key>
           <string>A.</string>
           <key>rationale</key>
-          <string>Starch, glycogen, and cellulose are examples of polysaccharides (D). Glucose (A) is a monosaccharide. Cellulose is a dietary ﬁber (B), but starch and glycogen are not. Disaccharides (C) are made up of two monosaccharides and include sucrose, lactose, and maltose. Monosaccharides (E) are single sugars and include glucose, fructose and galactose. </string>
+          <string>Pathologic loss of tooth structure from a chemical process is termed erosion. Lemon juice is an acidic chemical and frequent use can lead to erosion.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>11</string>
           <key>Question Title</key>
-          <string>Lactose is a:</string>
+          <string>A grayish-white, thickened, multinodular papular appearance of the palate with a small red spot in the center of each nodule, found only in smokers, describes which of the following conditions?</string>
           <key>a</key>
-          <string>Nutritive sweetener and is cariogenic. </string>
+          <string>Candidiasis </string>
           <key>b</key>
-          <string>Nonnutritive sweetener and is cariogenic. </string>
+          <string>Leukoplakia </string>
           <key>c</key>
-          <string>Nutritive sweetener and is noncariogenic. </string>
+          <string>Nicotine stomatitis </string>
           <key>d</key>
-          <string>Nonnutritive sweetener and is noncariogenic.</string>
+          <string>Papillary hyperplasia</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -310,25 +309,25 @@ proteins.</string>
           <key>answer</key>
           <string>C.</string>
           <key>rationale</key>
-          <string>Lactose, made up of glucose and galactose, is a milk sugar. It is a nutritive sweetener and cariogenic (A). A nutritive sweetener provides calories. All disaccharides are capable of causing decay. Options (B, C, and D) do not correctly deﬁne the statement. </string>
+          <string>Nicotine stomatitis (nicotinic stomatitis, stomatitis nicotina, or smoker’s palate) is basically a callous of the hard palate and has a white wrinkled appearance. The red dots that are seen are the oriﬁces of inﬂamed minor salivary glands.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>12</string>
           <key>Question Title</key>
-          <string>Which vitamin is MOST likely to be deﬁcient in a vegan diet? </string>
+          <string>A grayish-white area with a coarsely wrinkled appearance, found bilaterally on the buccal mucosa of a black patient, is probably: </string>
           <key>a</key>
-          <string>Thiamin.</string>
+          <string>Leukoplakia. </string>
           <key>b</key>
-          <string>Riboﬂavin.</string>
+          <string>Leukoedema. </string>
           <key>c</key>
-          <string>Cobalamin.</string>
+          <string>Lichen planus. </string>
           <key>d</key>
-          <string>Vitamin b2.</string>
+          <string>Upus erythematosus.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -336,28 +335,27 @@ proteins.</string>
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>B.</string>
           <key>rationale</key>
-          <string>Vegans are most likely to be deﬁcient in cobalamin (C) since the major source of this vitamin is obtained from animals. Thiamin (A), riboﬂavin (B), and vitamin B2
-(riboﬂavin) (D) are obtained from plant sources. </string>
+          <string>Bilateral white lesions of the buccal mucosa that disappear when stretched are called leukoedema. These are seen more commonly in dark-skinned individuals. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>13</string>
           <key>Question Title</key>
-          <string>Which food group provides the BEST sources of ascorbic acid?</string>
+          <string>Oral squamous cell carcinoma is most commonly found at the following sites:</string>
           <key>a</key>
-          <string>Meat.</string>
+          <string>Hard and soft palate. </string>
           <key>b</key>
-          <string>Grain.</string>
+          <string>Gingiva and alveolar ridge. </string>
           <key>c</key>
-          <string>Dairy.</string>
+          <string>Buccal mucosa and mucobuccal fold.</string>
           <key>d</key>
-          <string>Vegetable and fruit.</string>
+          <string>Lateral tongue and ﬂoor of the mouth. </string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -367,25 +365,25 @@ proteins.</string>
           <key>answer</key>
           <string>D.</string>
           <key>rationale</key>
-          <string>Ascorbic acid (vitamin C) is obtained from dark-green and yellow-orange vegetables and fruits. Some sources include broccoli, oranges, strawberries, and tomatoes. Meat (A), grains (B) and dairy (C) products are not good sources of vitamin C. </string>
+          <string>Squamous cell carcinoma is seen most commonly at the posterior lateral tongue followed by the ﬂoor of the mouth/ventral tongue. The gingiva, alveolus, hard palate, buccal mucosa, and vestibules are uncommon locations for this cancer. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>14</string>
           <key>Question Title</key>
-          <string>A person who consumes the recommended amounts of milk or dairy products will have an adequate intake of:</string>
+          <string>Which of the following is characteristic of a primordial cyst?</string>
           <key>a</key>
-          <string>Iron.</string>
+          <string>Develops in place of a tooth.</string>
           <key>b</key>
-          <string>Thiamine.</string>
+          <string>Attaches .to the apex of a tooth.</string>
           <key>c</key>
-          <string>Vitamin c.</string>
+          <string>Attaches to the crown of a tooth.</string>
           <key>d</key>
-          <string>Vitamin b2.</string>
+          <string>Remains after the tooth is extracted.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -395,25 +393,25 @@ proteins.</string>
           <key>answer</key>
           <string>A.</string>
           <key>rationale</key>
-          <string>A person who consumes the recommended amounts of milk or dairy products will have an adequate intake of vitamin B2 (riboﬂavin) (D). Depending on the type of milk consumed, there may be little to no iron (A), thiamin (B), and/or vitamin C (C) present. </string>
+          <string>By deﬁnition, a primordial cyst is a cyst that develops in place of a tooth. A cyst that is attached to the tooth apex is likely a radicular (periapical, apical periodontal) cyst. A cyst that is attached to the crown of an unerupted tooth is likely a dentigerous (follicular) cyst. And a residual cyst is a radicular cyst that was left after tooth extraction. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>15</string>
           <key>Question Title</key>
-          <string>The most recommended professional topical ﬂuoride for bulimics is:</string>
+          <string>For each of the herpes viruses listed below, select its associated disease process. Virus Disease </string>
           <key>a</key>
-          <string>Sodium. </string>
+          <string>Epstein-barr virus a. shingles.</string>
           <key>b</key>
-          <string>Stannous. </string>
+          <string>Varicella zoster virus b. herpes labialis.</string>
           <key>c</key>
-          <string>Acidulated phosphate.</string>
+          <string>Human herpes virus-8 c. kaposi’s sarcoma.</string>
           <key>d</key>
-          <string>Monoﬂuorophosphate.</string>
+          <string>Herpes simplex virus-1 d. burkitt’s lymphoma.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -421,27 +419,27 @@ proteins.</string>
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>The most recommended professional topical ﬂuoride for bulimics is sodium (A) due to its neutral pH. Stannous (B) and acidulated phosphate (C) are not as commonly recommended. Monoﬂuorophosphate (D) is not a professional topical ﬂuoride, but rather an ingredient found in over-the-counter dentifrices. </string>
+          <string>d, a, c, b</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>16</string>
           <key>Question Title</key>
-          <string>Linolenic fatty acid is essential. Good sources of linolenic fatty acids are sunﬂower and saﬄower oils.</string>
+          <string>A 50-year-old man who smokes a pipe is found to have lesions on his palate, underneath his denture. He says he removes the denture only to clean it. The lesions on his palate are erythematous, papillary projections. His chief complaint is an ill-ﬁtting set of dentures that is l0 years old. This patient most probably has: </string>
           <key>a</key>
-          <string>Both statements are true. </string>
+          <string>Candidiasis.</string>
           <key>b</key>
-          <string>Both statements are false. </string>
+          <string>Traumatic ulcers. </string>
           <key>c</key>
-          <string>The ﬁrst statement is true and the second is false.</string>
+          <string>Stomatitis nicotina. </string>
           <key>d</key>
-          <string>The ﬁrst statement is false and the second is false.</string>
+          <string>Papillary hyperplasia.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -449,139 +447,27 @@ proteins.</string>
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>C.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>The ﬁrst statement is true and the second is false (C). Linolenic (Omega 3) is an essential amino acid. Good sources </string>
+          <string>Papillary lesions under a denture that is ill-ﬁtting or is never removed is called papillary hyperplasia. Never removing a denture except to clean it would also predispose a patient to candidiasis, but this would not typically be papillary. This patient is not susceptible to nicotinic stomatitis as the denture is protective and would not allow the smoke to reach the palatal tissue. Ulcers aren’t papillary. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>17</string>
           <key>Question Title</key>
-          <string> Implications of bulimia include each of the following EXCEPT one. Which one is the EXCEPTION? </string>
+          <string>The most common location for a mucocele is the:</string>
           <key>a</key>
-          <string>Decalciﬁcation of the teeth</string>
+          <string>Palate.</string>
           <key>b</key>
-          <string>Sores in the mouth</string>
+          <string>Lower lip.</string>
           <key>c</key>
-          <string>Low heart rate </string>
+          <string>Upper lip.</string>
           <key>d</key>
-          <string>Perimolysis</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Individuals with bulimia typically do not experience low heart rate (C)—a common side eﬀect of anorexia. Common side eﬀects of bulimia include decalciﬁcation (A), sores in the mouth (B), and perimolysis (D). </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Nutrition</string>
-          <key>Question Number</key>
-          <string>18</string>
-          <key>Question Title</key>
-          <string>For which vitamin is tryptophan a precursor?</string>
-          <key>a</key>
-          <string>C.</string>
-          <key>b</key>
-          <string>D.</string>
-          <key>c</key>
-          <string>Niacin.</string>
-          <key>d</key>
-          <string>Thiamin.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Tryptophan is a precursor of niacin (C). If an individual consumes foods high in tryptophan (e.g., chicken and turkey), it converts to niacin equivalents. Options (A, B and D) do not correctly deﬁne the question. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Nutrition</string>
-          <key>Question Number</key>
-          <string>19</string>
-          <key>Question Title</key>
-          <string>Good sources of vitamin B1 include:</string>
-          <key>a</key>
-          <string>Animal sources only. </string>
-          <key>b</key>
-          <string>Turkey, legumes, and yogurt. </string>
-          <key>c</key>
-          <string>Pork, enriched grains, and nuts. </string>
-          <key>d</key>
-          <string>Fruits, vegetables, and fortiﬁed foods.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>Good sources of vitamin B1 (thiamin) include pork, enriched grains, and nuts (C). Animal sources (A) provide an excellent source of cobalamin. Choices (B and D) do not correctly deﬁne the statement. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Nutrition</string>
-          <key>Question Number</key>
-          <string>20</string>
-          <key>Question Title</key>
-          <string>For each deﬁciency, select the correct vitamin from the list provided. Deﬁciency Vitamin </string>
-          <key>a</key>
-          <string>Night blindness a. folate</string>
-          <key>b</key>
-          <string>Rickets b. niacin </string>
-          <key>c</key>
-          <string>Beriberi c. a </string>
-          <key>d</key>
-          <string>Scurvy d. c </string>
-          <key>e</key>
-          <string>Pellegra E. Thiamin </string>
-          <key>f</key>
-          <string>Spina bifada F. D </string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C.</string>
-          <key>rationale</key>
-          <string>A vitamin A (C) deﬁciency results in night blindness; a vitamin D (F) deﬁciency results in rickets; a thiamin (E) deﬁciency results in beriberi; a vitamin C (D) deﬁciency results in scurvy; a niacin (B) deﬁciency results in pellagra; and a folate (A) deﬁciency can result in spina bifada. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Nutrition</string>
-          <key>Question Number</key>
-          <string>21</string>
-          <key>Question Title</key>
-          <string>Which carbohydrate provides fuel for the brain?</string>
-          <key>a</key>
-          <string>Sucrose.</string>
-          <key>b</key>
-          <string>Glucose.</string>
-          <key>c</key>
-          <string>Fructose.</string>
-          <key>d</key>
-          <string>Galactose.</string>
+          <string>Retromolar pad.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -591,25 +477,25 @@ proteins.</string>
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>Glucose (B) provides fuel for the brain. Sucrose (A), a disaccharide, is table sugar. Fructose (C) is the sweetest of the monosaccharides. Galactose (D), a monosaccharide, is a component of milk sugar. </string>
+          <string>Mucoceles can occur anywhere there are minor salivary glands (everywhere except the attached gingiva and anterior hard palate). The lower lip is a common place for trauma and subsequent mucocele formation. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
-          <string>22</string>
+          <string>18</string>
           <key>Question Title</key>
-          <string>When evaluating the patient’s intake of fermentable carbohydrates during a diet survey,the most important aspect of the evaluation is the:</string>
+          <string>A permanent tooth that displays hypoplasia caused by trauma or infection during development has been termed: </string>
           <key>a</key>
-          <string>Amount of sugar added to foods.</string>
+          <string>&quot;peg” lateral. </string>
           <key>b</key>
-          <string>Consistency (physical form) of food.</string>
+          <string>Mulberry tooth. </string>
           <key>c</key>
-          <string>Frequency of intake. </string>
+          <string>Turner’s hypoplasia. </string>
           <key>d</key>
-          <string>Total intake. </string>
+          <string>Hutchinson’s incisor.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -619,25 +505,137 @@ proteins.</string>
           <key>answer</key>
           <string>C.</string>
           <key>rationale</key>
-          <string>When evaluating a diet survey, the most important aspect of the evaluation is the frequency of intake (C)—the amount of times the dentition is exposed to fermentable carbohydrates. Other considerations do include the amount of sugar added to foods (A), the physical form (c0nsistency) of the food (B), and the total amount (D) consumed. </string>
+          <string>This is called a Turner’s tooth or hypoplasia. This is a form of environmental hypoplasia. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
-          <string>23</string>
+          <string>19</string>
           <key>Question Title</key>
-          <string>Essential amino acids can be made in the body as long as nitrogen is present. There are 11 essential amino acids.</string>
+          <string>Dysplastic lesions of squamous epithelium occur most often on the:</string>
+          <key>a</key>
+          <string>Palate.</string>
+          <key>b</key>
+          <string>Buccal mucosa.</string>
+          <key>c</key>
+          <string>ﬂoor of the mouth. </string>
+          <key>d</key>
+          <string>Dorsum of the tongue.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Dysplastic lesions occur at the same location as cancerous lesions—posterior lateral tongue surface followed by ﬂoor of the mouth/ventral tongue. Floor of the mouth is the best answer. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>20</string>
+          <key>Question Title</key>
+          <string>The most common malignancy in the oral cavity is:</string>
+          <key>a</key>
+          <string>Osteogenic sarcoma. </string>
+          <key>b</key>
+          <string>Basal cell carcinoma.</string>
+          <key>c</key>
+          <string>Metastatic carcinoma. </string>
+          <key>d</key>
+          <string>Epidermoid carcinoma.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Epidermoid carcinoma is another name for squamous cell carcinoma, by far the most common cancer of the oral cavity. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>21</string>
+          <key>Question Title</key>
+          <string>Dental ﬂuorosis occurs in the permanent dentition only. It can be prevented by restricting children&apos;s intake of ﬂuoride during the enamel&apos;s calciﬁcation period.</string>
           <key>a</key>
           <string>Both statements are true. </string>
           <key>b</key>
           <string>Both statements are false. </string>
           <key>c</key>
-          <string>The ﬁrst statement is true and the second is false.</string>
+          <string>The ﬁrst statement is true, the second is false.</string>
           <key>d</key>
-          <string>The ﬁrst statement is false and the second is false.</string>
+          <string>The ﬁrst statement is false, the second is true.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Fluorosis can occur in any teeth that are forming at the time of the ingestion, whether primary or secondary teeth. If ﬂuoride is restricted during the period of enamel formation, ﬂuorosis cannot develop. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>22</string>
+          <key>Question Title</key>
+          <string>Identify the three medications from the following list that can be associated with gingival hyperplasia. </string>
+          <key>a</key>
+          <string>Inderal.</string>
+          <key>b</key>
+          <string>Phenytoin.</string>
+          <key>c</key>
+          <string>Nifedipine.</string>
+          <key>d</key>
+          <string>Cyclosporine.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B, C, D.</string>
+          <key>rationale</key>
+          <string>Inderal is a non-selective beta blocker antihypertensive. This class of drugs does not contribute to gingival hyperplasia. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>23</string>
+          <key>Question Title</key>
+          <string>A herpetic whitlow refers to a herpes infection of the:</string>
+          <key>a</key>
+          <string>Lip.</string>
+          <key>b</key>
+          <string>Finger.</string>
+          <key>c</key>
+          <string>Cervix.</string>
+          <key>d</key>
+          <string>Gingival.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -647,53 +645,81 @@ proteins.</string>
           <key>answer</key>
           <string>B.</string>
           <key>rationale</key>
-          <string>Both statements are false (B). Essential amino acids must be obtained from food sources. There are 9 essential amino acids. Options (A, C and D) do not correctly deﬁne the statements. </string>
+          <string>By deﬁnition, herpes on a ﬁnger is called a whitlow. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>24</string>
           <key>Question Title</key>
-          <string>Monounsaturated fats are bad to consume because they raise serum cholesterol levels.</string>
+          <string>A patient complaining of moderately severe pain, particularly just before, during, and after meals and with evidence of swelling in a salivary gland would be suspected of having: </string>
           <key>a</key>
-          <string>Both statement and reason are correct and related. </string>
+          <string>Xerostomia. </string>
           <key>b</key>
-          <string>Both statement and reason are correct, but not related</string>
+          <string>Antrolithiasis.</string>
           <key>c</key>
-          <string>The statement is correct, but the reason is not. </string>
+          <string>Rhinolithiasis.</string>
           <key>d</key>
-          <string>The statement is not correct, but the reason is correct.</string>
+          <string>Sialolithiasis. </string>
           <key>e</key>
-          <string>NEITHER the statement NOR the reason is correct.</string>
+          <string></string>
           <key>f</key>
           <string></string>
           <key>g</key>
           <string></string>
           <key>answer</key>
-          <string>E.</string>
+          <string>D.</string>
           <key>rationale</key>
-          <string>Neither the statement nor the reason is correct (E). Monounsaturated fats are not bad to consume and provide a fat that maintains serum cholesterol levels. Choices (A, B, C and D) no not correctly deﬁne the statement and reason.</string>
+          <string>Sialolithiasis (salivary stones) are most commonly found in Wharton’s duct. They often do not cause complete blockage of the duct, but during mealtime when the submandibular gland is secreting large amounts of saliva, there may be partial obstruction of normal salivary ﬂow. The associated swelling can be painful. </string>
     </dict>
     <dict>
           <key>Chapter Number</key>
           <string>5</string>
           <key>Chapter Title</key>
-          <string>Nutrition</string>
+          <string>Oral Pathology</string>
           <key>Question Number</key>
           <string>25</string>
           <key>Question Title</key>
-          <string>Which fat-soluble vitamin is synthesized by intestinal bacterial ﬂora?</string>
+          <string>Recurrent aphthous ulcers:</string>
           <key>a</key>
-          <string>A.</string>
+          <string>Are caused by a coxsackievirus. </string>
           <key>b</key>
-          <string>D.</string>
+          <string>Appear to be associated with stress. </string>
           <key>c</key>
-          <string>E.</string>
+          <string>Are caused by herpes simplex virus. </string>
           <key>d</key>
-          <string>K.</string>
+          <string>Can produce an associated rise in antibody titer against herpes virus.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Aphthous ulcers are NOT associated with a virus. The eﬀects of stress on the immune system is a trigger for aphthous in many people. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>26</string>
+          <key>Question Title</key>
+          <string>A 40-year-old man has routine dental ﬁlms exposed. Upon examination of the radiographs, an oval radiolucent area is discovered above the maxillary central incisors. The teeth are vital, and the roots are not resorbed. This patient most probably has a: </string>
+          <key>a</key>
+          <string>Radicular cyst.</string>
+          <key>b</key>
+          <string>Nasolabial cyst. </string>
+          <key>c</key>
+          <string>Globulomaxillary cyst. </string>
+          <key>d</key>
+          <string>Nasopalatine duct cyst.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -703,7 +729,679 @@ proteins.</string>
           <key>answer</key>
           <string>D.</string>
           <key>rationale</key>
-          <string>Although vitamin K (D) is obtained from green leafy vegetables and certain vegetable oils, it is also synthesized by intestinal bacterial ﬂora. Fat-soluble vitamins A (A), D (B), and E (C) are obtained from food sources. </string>
+          <string>A cyst in the anterior maxilla may be from the most common non-odontogenic cyst in the oral cavity, the nasopalatine (incisive canal) cyst. The fact that the teeth in the area are vital rules out a radicular (periapical, apical periodontal) cyst. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>27</string>
+          <key>Question Title</key>
+          <string>A cyst that remains subsequent to extraction of a tooth is a:</string>
+          <key>a</key>
+          <string>Residual cyst.</string>
+          <key>b</key>
+          <string>Periapical cyst. </string>
+          <key>c</key>
+          <string>Primordial cyst. </string>
+          <key>d</key>
+          <string>Dentigerous cyst.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string> If a tooth has a radicular (periapical, apical periodontal) cyst and the tooth is extracted, the cyst that was left behind is termed a residual cyst. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>28</string>
+          <key>Question Title</key>
+          <string>The odontogenic cyst having the highest recurrence rate is the:</string>
+          <key>a</key>
+          <string>Keratocyst. </string>
+          <key>b</key>
+          <string>Radicular cyst.</string>
+          <key>c</key>
+          <string>Periapical cyst. </string>
+          <key>d</key>
+          <string>Incisive canal cyst.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Most oral cysts have a very low recurrence rate. The odontogenic keratocyst (OKC) is an exception and it has at least a 25% chance of recurring or coming back. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>29</string>
+          <key>Question Title</key>
+          <string>A &quot;cotton-wool&quot; appearance of the skull radiographically is characteristic of:</string>
+          <key>a</key>
+          <string>Odontoma. </string>
+          <key>b</key>
+          <string>Cementoma. </string>
+          <key>c</key>
+          <string>Paget&apos;s disease. </string>
+          <key>d</key>
+          <string>Ectodermal dysplasia.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>“Cotton wool” radiopacities is a keyword used to describe the bony lesions of Paget’s disease (osteitis deformans). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>30</string>
+          <key>Question Title</key>
+          <string>Lace-like white striae present on the buccal mucosa bilaterally may represent:</string>
+          <key>a</key>
+          <string>Linea alba. </string>
+          <key>b</key>
+          <string>Leukoedema.</string>
+          <key>c</key>
+          <string> lichen planus. </string>
+          <key>d</key>
+          <string>Erythema multiforme.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Lace-like white striae are also known as Wickham’s striae and are seen in lichen planus. Linea alba is a single white line along the plane of occlusion, leukoedema are white lesions that disappear when stretched. Erythema multiforme is an ulcerative disease that often has crusting of the lips and bull’s eye or target lesions on the skin. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>31</string>
+          <key>Question Title</key>
+          <string>A 26-year-old black female was examined clinically and radiographically. On a mandibular periapical radiograph that included the central and lateral incisors, radiolucent lesions were found at the apex of each of these four teeth. Six months later, the radiolucent areas were radiopaque. Each of the four teeth retained its vitality. This patient most likely has: </string>
+          <key>a</key>
+          <string>Odontomas. </string>
+          <key>b</key>
+          <string>Cementomas.</string>
+          <key>c</key>
+          <string>Paget’s disease.</string>
+          <key>d</key>
+          <string>Lateral periodontal cysts.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Cementomas (periapical cemental dysplasia) are mixed radiolucent/radiopaque lesions seen in the anterior mandible typically in patients of African ancestry. These lesions become more opaque over time. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>32</string>
+          <key>Question Title</key>
+          <string>Patients with bulimia commonly suﬀer from:</string>
+          <key>a</key>
+          <string>Erosion of the teeth.</string>
+          <key>b</key>
+          <string>Severe dental caries. </string>
+          <key>c</key>
+          <string>Gastric acid decalciﬁcation of the teeth.</string>
+          <key>d</key>
+          <string>All of the above are correct. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>All answers are correct. The erosion seen is from gastric acids. Bulimics often ingest high sugary foods and chronic bulimia can lead to xerostomia both of which contribute to a high caries rate. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>33</string>
+          <key>Question Title</key>
+          <string>Which of the following intraoral locations is the most common site for formation of a pyogenic granuloma?</string>
+          <key>a</key>
+          <string>Palate.</string>
+          <key>b</key>
+          <string>Tongue.</string>
+          <key>c</key>
+          <string>Gingiva.</string>
+          <key>d</key>
+          <string>Buccal mucosa.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Pyogenic granulomas can literally occur anywhere in the body, but intraorally are most commonly found on the gingiva. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>34</string>
+          <key>Question Title</key>
+          <string> Sialoliths are most commonly found during radiographic examination of (the):</string>
+          <key>a</key>
+          <string>Stenson’s duct. </string>
+          <key>b</key>
+          <string>Wharton’s duct. </string>
+          <key>c</key>
+          <string>Maxillary sinus. </string>
+          <key>d</key>
+          <string>Minor salivary glands.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>The long tortuous route of the submandibular (Wharton’s) duct along the ﬂoor of the mouth make this the most common location for sailoliths (salivary stones). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>35</string>
+          <key>Question Title</key>
+          <string>Desquamation of which of the following papillae occurs in benign migratory glossitis?</string>
+          <key>a</key>
+          <string>Foliate.</string>
+          <key>b</key>
+          <string>Filiform.</string>
+          <key>c</key>
+          <string>Fungiform.</string>
+          <key>d</key>
+          <string>Circumvallate.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>The most numerous papillae on the tongue are the ﬁliform and these are desquamated in benign migratory glossitis (geographic tongue, erythema migrans). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>36</string>
+          <key>Question Title</key>
+          <string>Clinically and microscopically, an epulis ﬁssuratum is most similar to which of the following lesions?</string>
+          <key>a</key>
+          <string>Papilloma.</string>
+          <key>b</key>
+          <string>Condyloma.</string>
+          <key>c</key>
+          <string> irritation ﬁbroma.</string>
+          <key>d</key>
+          <string>Giant cell granuloma.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>An epulis ﬁssuratum forms around the ﬂange of an ill-ﬁtting denture and is essentially an irritation ﬁbroma. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>37</string>
+          <key>Question Title</key>
+          <string>Which of the following teeth most frequently demonstrate microdontia?</string>
+          <key>a</key>
+          <string>Maxillary canines.</string>
+          <key>b</key>
+          <string>Mandibular canines.</string>
+          <key>c</key>
+          <string>Maxillary lateral incisors.</string>
+          <key>d</key>
+          <string>Mandibular second premolars.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Microdontia occurs so frequently in the maxillary lateral incisor that we give it a special name (peg lateral). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>38</string>
+          <key>Question Title</key>
+          <string>The ﬁrst clinically observable reaction to radiation overexposure is:</string>
+          <key>a</key>
+          <string>Loss of hair. </string>
+          <key>b</key>
+          <string>Radiation caries. </string>
+          <key>c</key>
+          <string>Erythema of the skin.</string>
+          <key>d</key>
+          <string>Agenesis of blood cells.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Radiaton overexposure is like getting a sunburn and erythema of the skin is the ﬁrst reaction. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>39</string>
+          <key>Question Title</key>
+          <string>A speciﬁc presentation of oral candidiasis, sometimes seen in otherwise healthy patients is:</string>
+          <key>a</key>
+          <string>Hairy tongue.</string>
+          <key>b</key>
+          <string>Geographic tongue. </string>
+          <key>c</key>
+          <string>Benign migratory glossitis.</string>
+          <key>d</key>
+          <string>Median rhomboid glossitis. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Median rhomboid glossitis (central papillary atrophy) is caused by Candida albicans and is often seen in folks with a normal immune system. Pseudomembranous candidiasis (thrush) is typically seen with immune suppression. Geographic tongue, also knows as benign migratory glossitis, is not caused by Candida. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>40</string>
+          <key>Question Title</key>
+          <string>Stevens-Johnson syndrome is a severe form of:</string>
+          <key>a</key>
+          <string>Herpes simplex. </string>
+          <key>b</key>
+          <string>Lupus erythmatosus. </string>
+          <key>c</key>
+          <string>Erosive lichen planus.</string>
+          <key>d</key>
+          <string>Erythema multiforme. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Erythema multiforme is an unusual immune system response to something, typically a virus (HSV), a drug, or a food. Severe reactions are called Stevens-Johnson syndrome. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>41</string>
+          <key>Question Title</key>
+          <string>What is the most common location for AIDS-related “oral hairy leukoplakia”?</string>
+          <key>a</key>
+          <string>Soft palate.</string>
+          <key>b</key>
+          <string>Buccal mucosa.</string>
+          <key>c</key>
+          <string>Dorsum of the tongue.</string>
+          <key>d</key>
+          <string>Lateral border of the tongue.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>OHL occurs on the lateral tongue surface. Severe lesions can wrap around to the dorsal surface. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>42</string>
+          <key>Question Title</key>
+          <string>Which of the following is a soft tissue cyst? </string>
+          <key>a</key>
+          <string>Nasolabial cyst.</string>
+          <key>b</key>
+          <string>Primordial cyst.</string>
+          <key>c</key>
+          <string>Incisive canal cyst.</string>
+          <key>d</key>
+          <string>Nasopalatine duct cyst.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>A nasolabial cyst occurs between the nose (naso) and the lips (labial) in the soft tissues. It often lifts the corner or wing (ala) of the nose. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>43</string>
+          <key>Question Title</key>
+          <string>Identify the four conditions from the following list that appear white on a clinical oral exam.</string>
+          <key>a</key>
+          <string>Mucocele.</string>
+          <key>b</key>
+          <string>Linea alba.</string>
+          <key>c</key>
+          <string>Leukoplakia.</string>
+          <key>d</key>
+          <string>Leukoedema.</string>
+          <key>e</key>
+          <string>Pseudomembranous candidiasis.</string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B, C, D, E.</string>
+          <key>rationale</key>
+          <string>A mucocele typically has a clear or bluish tinge. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>44</string>
+          <key>Question Title</key>
+          <string>A radiograph shows an unerupted mandibular third molar with a 3 cm. pericoronal radiolucency. The most likely diagnosis is:</string>
+          <key>a</key>
+          <string>Primordial cyst. </string>
+          <key>b</key>
+          <string>Follicular cyst. </string>
+          <key>c</key>
+          <string> lateral periodontal cyst. </string>
+          <key>d</key>
+          <string>Odontogenic keratocyst.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>The most common cause of an enlarged radiolucency around the crown of an impacted tooth is a dentigerous (follicular) cyst. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>45</string>
+          <key>Question Title</key>
+          <string>Supernumerary teeth are a common feature of which of the following syndromes?</string>
+          <key>a</key>
+          <string>Sjögren syndrome.</string>
+          <key>b</key>
+          <string>Cushing’s syndrome.</string>
+          <key>c</key>
+          <string>Ectodermal dysplasia.</string>
+          <key>d</key>
+          <string>Cleidocranial dysostosis.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Cleidocranial dysostosis and Gardner’s syndrome both have supernumerary teeth as a feature. Ectodermal dysplasia has missing teeth (hypodontia or anadontia). </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>46</string>
+          <key>Question Title</key>
+          <string>Carcinoma that does not invade the connective tissue is referred to as:</string>
+          <key>a</key>
+          <string>Carcinoma in situ. </string>
+          <key>b</key>
+          <string>Basal cell carcinoma.</string>
+          <key>c</key>
+          <string>Epidermoid carcinoma.</string>
+          <key>d</key>
+          <string>Squamous cell carcinoma.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>If invasion has not occurred but the entire thickness of epithelium has features of dysplasia, the term carcinoma in situ is often used.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>47</string>
+          <key>Question Title</key>
+          <string>Identify the three conditions in which the papillomavirus has been found?</string>
+          <key>a</key>
+          <string>Oral papilloma </string>
+          <key>b</key>
+          <string>Papillary hyperplasia </string>
+          <key>c</key>
+          <string>Condyloma acuminatum </string>
+          <key>d</key>
+          <string>Squamous cell carcinoma</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A, C, D.</string>
+          <key>rationale</key>
+          <string>Papillary hyperplasia occurs on the hard palate and is usually caused by not taking out a maxillary denture enough. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>48</string>
+          <key>Question Title</key>
+          <string>A patient presents with bilateral linear discoloration of the maxillary and mandibular central incisors. The patient’s medical history includes a serious childhood illness with associated high fevers. Which of the following best describes the cause of the tooth anomalies? </string>
+          <key>a</key>
+          <string>Failure of the dentin matrix to form. </string>
+          <key>b</key>
+          <string>Lack of nutrition aﬀecting amelogenesis. </string>
+          <key>c</key>
+          <string>Interruption of the enamel calciﬁcation process. </string>
+          <key>d</key>
+          <string>Suppression of enamel formation by dentinoblasts.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Ameloblasts are very sensitive to changes in their environment. High fevers can cause interruption in enamel calciﬁcation. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>49</string>
+          <key>Question Title</key>
+          <string>A patient presents complaining that his dentures no longer ﬁt. Upon radiographic examination, distinct areas of radiopacity are noted throughout the mandible and maxilla. Which of the following conditions is the most likely cause? </string>
+          <key>a</key>
+          <string>Odontoma. </string>
+          <key>b</key>
+          <string>Paget’s disease.</string>
+          <key>c</key>
+          <string>Ameloblastoma.</string>
+          <key>d</key>
+          <string>Odontogenic keratocyst.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Paget’s disease (osteitis deformans) is a condition that causes bones to enlarge and patients may complain of a denture that no longer ﬁts. Radiopaque areas called “cotton-wool” radiopacities are also typical. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>5</string>
+          <key>Chapter Title</key>
+          <string>Oral Pathology</string>
+          <key>Question Number</key>
+          <string>50</string>
+          <key>Question Title</key>
+          <string>Bence-Jones proteins in the urine and multitple bone radiolucencies can be found in which of the following diseases?</string>
+          <key>a</key>
+          <string>Leukemia.</string>
+          <key>b</key>
+          <string>Cushing’s disease.</string>
+          <key>c</key>
+          <string>Multiple myeloma.</string>
+          <key>d</key>
+          <string>Squamous cell carcinoma.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Multiple myeloma is a malignancy of plasma cells. Light chain immunoglobulins known as Bence-Jones proteins are seen in the urine. The malignant cells cause what are termed “punched-out” radiolucencies as the aggressive lesions do not have the sclerotic rim typically seen in cysts and benign tumors. </string>
     </dict>
 </array>
 </plist>

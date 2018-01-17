@@ -14,21 +14,18 @@
 		8A7CAD2F1FD8D206003D991E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD2D1FD8D206003D991E /* Main.storyboard */; };
 		8A7CAD311FD8D206003D991E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD301FD8D206003D991E /* Assets.xcassets */; };
 		8A7CAD341FD8D206003D991E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD321FD8D206003D991E /* LaunchScreen.storyboard */; };
-		8AC106801FEB6FEE003AA4E2 /* chapter1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC1067F1FEB6FEE003AA4E2 /* chapter1.plist */; };
-		8AC106821FEBF4BB003AA4E2 /* chapter2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC106811FEBF4BB003AA4E2 /* chapter2.plist */; };
+		8AB7D7CF201015A4008C77F2 /* chapter1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7CE201015A4008C77F2 /* chapter1.plist */; };
+		8AB7D7D9201016AB008C77F2 /* chapter8.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D0201016AB008C77F2 /* chapter8.plist */; };
+		8AB7D7DA201016AB008C77F2 /* chapter9.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D1201016AB008C77F2 /* chapter9.plist */; };
+		8AB7D7DB201016AB008C77F2 /* chapter4.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D2201016AB008C77F2 /* chapter4.plist */; };
+		8AB7D7DC201016AB008C77F2 /* chapter5.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D3201016AB008C77F2 /* chapter5.plist */; };
+		8AB7D7DD201016AB008C77F2 /* chapter3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D4201016AB008C77F2 /* chapter3.plist */; };
+		8AB7D7DE201016AB008C77F2 /* chapter7.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D5201016AB008C77F2 /* chapter7.plist */; };
+		8AB7D7DF201016AB008C77F2 /* chapter10.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D6201016AB008C77F2 /* chapter10.plist */; };
+		8AB7D7E0201016AB008C77F2 /* chapter2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D7201016AB008C77F2 /* chapter2.plist */; };
+		8AB7D7E1201016AB008C77F2 /* chapter6.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D8201016AB008C77F2 /* chapter6.plist */; };
 		8AC319732001E0F7003504A1 /* RationalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC319722001E0F7003504A1 /* RationalViewController.swift */; };
 		8AC3197620027817003504A1 /* FAQs.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3197520027817003504A1 /* FAQs.pdf */; };
-		8AC3197920032935003504A1 /* chapter3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3197820032935003504A1 /* chapter3.plist */; };
-		8AC3197B20032A00003504A1 /* chapter4.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3197A20032A00003504A1 /* chapter4.plist */; };
-		8AC3197D20032A93003504A1 /* chapter5.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3197C20032A93003504A1 /* chapter5.plist */; };
-		8AC3197F20032B34003504A1 /* chapter6.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3197E20032B34003504A1 /* chapter6.plist */; };
-		8AC319812003BC54003504A1 /* chapter7.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC319802003BC54003504A1 /* chapter7.plist */; };
-		8AC319832003BD94003504A1 /* chapter8.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC319822003BD94003504A1 /* chapter8.plist */; };
-		8AC319852003BED4003504A1 /* chapter9.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC319842003BED4003504A1 /* chapter9.plist */; };
-		8AC319872003BEE9003504A1 /* chapter10.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC319862003BEE9003504A1 /* chapter10.plist */; };
-		8AC319892003BF48003504A1 /* chapter12.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC319882003BF48003504A1 /* chapter12.plist */; };
-		8AC3198B2003C091003504A1 /* chapter13.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3198A2003C090003504A1 /* chapter13.plist */; };
-		8AC3198D2003C0F8003504A1 /* chapter14.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3198C2003C0F8003504A1 /* chapter14.plist */; };
 		8AC3198F2003CE72003504A1 /* Named.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC3198E2003CE72003504A1 /* Named.swift */; };
 		8AD6A88D1FEA1DC200DB2A3F /* ChaptersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6A88C1FEA1DC200DB2A3F /* ChaptersTableViewController.swift */; };
 		8AD6A88F1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6A88E1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift */; };
@@ -59,21 +56,18 @@
 		8A7CAD301FD8D206003D991E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A7CAD331FD8D206003D991E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A7CAD351FD8D206003D991E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8AC1067F1FEB6FEE003AA4E2 /* chapter1.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = chapter1.plist; sourceTree = "<group>"; };
-		8AC106811FEBF4BB003AA4E2 /* chapter2.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = chapter2.plist; sourceTree = "<group>"; };
+		8AB7D7CE201015A4008C77F2 /* chapter1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter1.plist; sourceTree = "<group>"; };
+		8AB7D7D0201016AB008C77F2 /* chapter8.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter8.plist; sourceTree = "<group>"; };
+		8AB7D7D1201016AB008C77F2 /* chapter9.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter9.plist; sourceTree = "<group>"; };
+		8AB7D7D2201016AB008C77F2 /* chapter4.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter4.plist; sourceTree = "<group>"; };
+		8AB7D7D3201016AB008C77F2 /* chapter5.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter5.plist; sourceTree = "<group>"; };
+		8AB7D7D4201016AB008C77F2 /* chapter3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter3.plist; sourceTree = "<group>"; };
+		8AB7D7D5201016AB008C77F2 /* chapter7.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter7.plist; sourceTree = "<group>"; };
+		8AB7D7D6201016AB008C77F2 /* chapter10.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter10.plist; sourceTree = "<group>"; };
+		8AB7D7D7201016AB008C77F2 /* chapter2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter2.plist; sourceTree = "<group>"; };
+		8AB7D7D8201016AB008C77F2 /* chapter6.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter6.plist; sourceTree = "<group>"; };
 		8AC319722001E0F7003504A1 /* RationalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RationalViewController.swift; sourceTree = "<group>"; };
 		8AC3197520027817003504A1 /* FAQs.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = FAQs.pdf; sourceTree = "<group>"; };
-		8AC3197820032935003504A1 /* chapter3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter3.plist; sourceTree = "<group>"; };
-		8AC3197A20032A00003504A1 /* chapter4.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter4.plist; sourceTree = "<group>"; };
-		8AC3197C20032A93003504A1 /* chapter5.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter5.plist; sourceTree = "<group>"; };
-		8AC3197E20032B34003504A1 /* chapter6.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter6.plist; sourceTree = "<group>"; };
-		8AC319802003BC54003504A1 /* chapter7.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter7.plist; sourceTree = "<group>"; };
-		8AC319822003BD94003504A1 /* chapter8.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter8.plist; sourceTree = "<group>"; };
-		8AC319842003BED4003504A1 /* chapter9.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter9.plist; sourceTree = "<group>"; };
-		8AC319862003BEE9003504A1 /* chapter10.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter10.plist; sourceTree = "<group>"; };
-		8AC319882003BF48003504A1 /* chapter12.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter12.plist; sourceTree = "<group>"; };
-		8AC3198A2003C090003504A1 /* chapter13.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter13.plist; sourceTree = "<group>"; };
-		8AC3198C2003C0F8003504A1 /* chapter14.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter14.plist; sourceTree = "<group>"; };
 		8AC3198E2003CE72003504A1 /* Named.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Named.swift; sourceTree = "<group>"; };
 		8AD6A88C1FEA1DC200DB2A3F /* ChaptersTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaptersTableViewController.swift; sourceTree = "<group>"; };
 		8AD6A88E1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterTableViewCell.swift; sourceTree = "<group>"; };
@@ -157,19 +151,16 @@
 		8AC319772003291F003504A1 /* Chapter PLIST */ = {
 			isa = PBXGroup;
 			children = (
-				8AC3198C2003C0F8003504A1 /* chapter14.plist */,
-				8AC3198A2003C090003504A1 /* chapter13.plist */,
-				8AC319882003BF48003504A1 /* chapter12.plist */,
-				8AC319862003BEE9003504A1 /* chapter10.plist */,
-				8AC319842003BED4003504A1 /* chapter9.plist */,
-				8AC319822003BD94003504A1 /* chapter8.plist */,
-				8AC319802003BC54003504A1 /* chapter7.plist */,
-				8AC3197E20032B34003504A1 /* chapter6.plist */,
-				8AC3197C20032A93003504A1 /* chapter5.plist */,
-				8AC3197A20032A00003504A1 /* chapter4.plist */,
-				8AC3197820032935003504A1 /* chapter3.plist */,
-				8AC106811FEBF4BB003AA4E2 /* chapter2.plist */,
-				8AC1067F1FEB6FEE003AA4E2 /* chapter1.plist */,
+				8AB7D7CE201015A4008C77F2 /* chapter1.plist */,
+				8AB7D7D7201016AB008C77F2 /* chapter2.plist */,
+				8AB7D7D4201016AB008C77F2 /* chapter3.plist */,
+				8AB7D7D2201016AB008C77F2 /* chapter4.plist */,
+				8AB7D7D3201016AB008C77F2 /* chapter5.plist */,
+				8AB7D7D8201016AB008C77F2 /* chapter6.plist */,
+				8AB7D7D5201016AB008C77F2 /* chapter7.plist */,
+				8AB7D7D0201016AB008C77F2 /* chapter8.plist */,
+				8AB7D7D1201016AB008C77F2 /* chapter9.plist */,
+				8AB7D7D6201016AB008C77F2 /* chapter10.plist */,
 			);
 			path = "Chapter PLIST";
 			sourceTree = "<group>";
@@ -275,24 +266,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AC319852003BED4003504A1 /* chapter9.plist in Resources */,
-				8AC3197B20032A00003504A1 /* chapter4.plist in Resources */,
-				8AC3198D2003C0F8003504A1 /* chapter14.plist in Resources */,
-				8AC319892003BF48003504A1 /* chapter12.plist in Resources */,
+				8AB7D7DB201016AB008C77F2 /* chapter4.plist in Resources */,
+				8AB7D7E0201016AB008C77F2 /* chapter2.plist in Resources */,
+				8AB7D7DA201016AB008C77F2 /* chapter9.plist in Resources */,
+				8AB7D7CF201015A4008C77F2 /* chapter1.plist in Resources */,
 				8A7CAD341FD8D206003D991E /* LaunchScreen.storyboard in Resources */,
-				8AC106801FEB6FEE003AA4E2 /* chapter1.plist in Resources */,
-				8AC319872003BEE9003504A1 /* chapter10.plist in Resources */,
-				8AC3197920032935003504A1 /* chapter3.plist in Resources */,
-				8AC3198B2003C091003504A1 /* chapter13.plist in Resources */,
-				8AC106821FEBF4BB003AA4E2 /* chapter2.plist in Resources */,
-				8AC3197F20032B34003504A1 /* chapter6.plist in Resources */,
-				8AC319812003BC54003504A1 /* chapter7.plist in Resources */,
-				8AC319832003BD94003504A1 /* chapter8.plist in Resources */,
 				8AC3197620027817003504A1 /* FAQs.pdf in Resources */,
-				8AC3197D20032A93003504A1 /* chapter5.plist in Resources */,
+				8AB7D7E1201016AB008C77F2 /* chapter6.plist in Resources */,
 				8A7CAD311FD8D206003D991E /* Assets.xcassets in Resources */,
+				8AB7D7DE201016AB008C77F2 /* chapter7.plist in Resources */,
+				8AB7D7DC201016AB008C77F2 /* chapter5.plist in Resources */,
+				8AB7D7DD201016AB008C77F2 /* chapter3.plist in Resources */,
 				8A7CAD2F1FD8D206003D991E /* Main.storyboard in Resources */,
 				8AF372D81FFDD0CA00248970 /* About Us.pdf in Resources */,
+				8AB7D7D9201016AB008C77F2 /* chapter8.plist in Resources */,
+				8AB7D7DF201016AB008C77F2 /* chapter10.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

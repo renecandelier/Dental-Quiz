@@ -14,14 +14,10 @@ class ChaptersTableViewController: UITableViewController {
         "Clinical Dental Hygiene/Flouride",
         "Community Dental Health",
         "Dental Materials",
-        "Microbiology/Immunology",
         "Nutrition",
         "Oral Pathology",
         "Oral/Dental Anatomy",
-        "Periodontolgy",
-        "9.1 Pharmacology",
-        "9.2 Pharmacology",
-        "N/A",
+        "Pharmacology",
         "Professional Responsibility",
         "Radiology",
         "Special Needs Patients"
@@ -40,16 +36,6 @@ class ChaptersTableViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: ChapterTableViewCell.className, for: indexPath) as! ChapterTableViewCell
         let row = indexPath.row
-        //var chapterNumber = "" //\(indexPath.row + 1) -
-        
-//        if [9,10].contains(row + 1) {
-//            if row + 1 == 9 {
-//                chapterNumber = "9.1 - "
-//            }
-//            if row + 1 == 10 {
-//                chapterNumber = "9.2 - "
-//            }
-//        }
         cell.chapterLabel.text = chapterTitles[row]
         return cell
     }
@@ -62,25 +48,13 @@ class ChaptersTableViewController: UITableViewController {
             if let upcoming = segue.destination as? QuestionViewController {
                 let cellRow = tableView.indexPathForSelectedRow?.row ?? 0
                 let chapter = "chapter" + "\(cellRow + 1)"
-//                if cellRow + 1 == 9 {
-//                    chapter = "chapter91"
-//                }
-//                if cellRow + 1 == 10 {
-//                    chapter = "chapter92"
-//                }
                 upcoming.chapter = chapter
             }
         }
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        if [8, 4, 11].contains(indexPath.row + 1) {
-            let chapterAlert = UIAlertController(title: "Chapter", message: "No questions found in this chapter", preferredStyle: .alert)
-            chapterAlert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
-            present(chapterAlert, animated: true, completion: nil)
-        } else {
-            performSegue(withIdentifier: QuestionViewController.className, sender: self)
-        }
+        performSegue(withIdentifier: QuestionViewController.className, sender: self)
     }
 
 }

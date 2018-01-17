@@ -2,603 +2,285 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-    <dict>
-          <key>Chapter Number</key>
-          <string>8</string>
-          <key>Chapter Title</key>
-          <string>Periodontolgy</string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>No questions found in this chapter</string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string></string>
-          <key>Chapter Title</key>
-          <string></string>
-          <key>Question Number</key>
-          <string></string>
-          <key>Question Title</key>
-          <string></string>
-          <key>a</key>
-          <string></string>
-          <key>b</key>
-          <string></string>
-          <key>c</key>
-          <string></string>
-          <key>d</key>
-          <string></string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>answer</key>
-          <string></string>
-          <key>rationale</key>
-          <string></string>
-    </dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>1</string>
+		<key>Question Title</key>
+		<string>The purpose of a Professional Code of Ethics includes all of the following EXCEPT one. Which one is the EXCEPTION?</string>
+		<key>a</key>
+		<string>To achieve high levels of practice.</string>
+		<key>b</key>
+		<string>To achieve high levels of integrity.</string>
+		<key>c</key>
+		<string>To achieve high levels of decision making.</string>
+		<key>d</key>
+		<string>To achieve high levels of ethical consciousness.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>The purpose of a Professional code of Ethics does not include high levels of integrity. All of the other choices listed are included in the deﬁnition of a Professional Code of Ethics. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>2</string>
+		<key>Question Title</key>
+		<string>Which of the following examples of the Core Values in the Dental Hygiene Code of Ethics deals with the practitioner?</string>
+		<key>a</key>
+		<string>Autonomy.</string>
+		<key>b</key>
+		<string>Beneficence.</string>
+		<key>c</key>
+		<string>Societal trust.</string>
+		<key>d</key>
+		<string>Non-maleﬁcence.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>D.</string>
+		<key>rationale</key>
+		<string>Non-maleﬁcence is a Core Value in the Dental Hygiene Code of Ethics which deals with the practitioner. This includes providing services which that protect a patient from harm.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>3</string>
+		<key>Question Title</key>
+		<string>Which of the following Core Values states that patients have a right to privacy and freedom of choice?</string>
+		<key>a</key>
+		<string>Autonomy.</string>
+		<key>b</key>
+		<string>Beneficence.</string>
+		<key>c</key>
+		<string>Societal trust.</string>
+		<key>d</key>
+		<string>Conﬁdentiality.</string>
+		<key>e</key>
+		<string>Non-maleﬁcence.</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>Autonomy is the Core Value which deals with patients and gives them the right to informed consent and full disclosure of treatment.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>4</string>
+		<key>Question Title</key>
+		<string>Providing dental screenings would be an example of which Core Value?</string>
+		<key>a</key>
+		<string>Justice.</string>
+		<key>b</key>
+		<string>Autonomy.</string>
+		<key>c</key>
+		<string>Beneﬁcence.</string>
+		<key>d</key>
+		<string>Societal trust.</string>
+		<key>e</key>
+		<string>Community service.</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>Beneﬁcence is the Core Value that includes promoting the well-being of individuals and the public.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>5</string>
+		<key>Question Title</key>
+		<string>Which of the following is the best way to avoid a dental lawsuit?</string>
+		<key>a</key>
+		<string>Proper diagnosis.</string>
+		<key>b</key>
+		<string>Proper documentation.</string>
+		<key>c</key>
+		<string>Moderation of treatment.</string>
+		<key>d</key>
+		<string>Veriﬁcation of treatment plan by dentist.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>The best way to avoid a dental lawsuit is through proper documentation, charting and communication.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>6</string>
+		<key>Question Title</key>
+		<string>Placing a sealant on a child&apos;s tooth without getting parental consent is an example of:</string>
+		<key>a</key>
+		<string>Assault.</string>
+		<key>b</key>
+		<string>Battery.</string>
+		<key>c</key>
+		<string>Negligence.</string>
+		<key>d</key>
+		<string>Defamation.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Battery is deﬁned as causing an individual bodily harm. Dental procedures which have been performed without the approval of the patient or guardian, although beneﬁcial, are considered &quot;bodily harm&quot;. Assault is threatening bodily harm. </string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>7</string>
+		<key>Question Title</key>
+		<string>Which of the following is OSHA NOT responsible for?</string>
+		<key>a</key>
+		<string>Employer.</string>
+		<key>b</key>
+		<string>Employee.</string>
+		<key>c</key>
+		<string>Clinics and facilities.</string>
+		<key>d</key>
+		<string>Material Safety and Data Sheets.</string>
+		<key>e</key>
+		<string></string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>A.</string>
+		<key>rationale</key>
+		<string>OSHA is responsible for developing precautionary protocols for employees to prevent them from harm. It does NOT include the employer.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>8</string>
+		<key>Question Title</key>
+		<string>COBRA (Consolidated Omnibus Budget Reconciliation Act) gives individuals the right to keep group health insurance beneﬁts for:</string>
+		<key>a</key>
+		<string>6 months.</string>
+		<key>b</key>
+		<string>12 months.</string>
+		<key>c</key>
+		<string>18 months.</string>
+		<key>d</key>
+		<string>24 months.</string>
+		<key>e</key>
+		<string>36 months.</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>C.</string>
+		<key>rationale</key>
+		<string>The guidelines for COBRA give individuals the right to keep group health insurance beneﬁts for 18 months if a person has reduced work hours, quits, or is ﬁred from his job.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>9</string>
+		<key>Question Title</key>
+		<string> All of the following are true about Informed Consent EXCEPT one. Which one is the EXCEPTION?</string>
+		<key>a</key>
+		<string>Prognosis.</string>
+		<key>b</key>
+		<string>Cost of procedure.</string>
+		<key>c</key>
+		<string>Alternatives to procedure.</string>
+		<key>d</key>
+		<string>Beneﬁts/risks of procedure.</string>
+		<key>e</key>
+		<string>Presented in understandable language.</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>B.</string>
+		<key>rationale</key>
+		<string>Informed consent includes the following: 1) presented in understandable language; 2) nature and need of procedure; 3) beneﬁts/ risks of procedure; 4) prognosis; 5) alternatives to procedure; 6) allowing the patient to ask questions. The cost of the procedure is not included with informed consent.</string>
+	</dict>
+	<dict>
+		<key>Chapter Number</key>
+		<string>8</string>
+		<key>Chapter Title</key>
+		<string>Professional Responsibility</string>
+		<key>Question Number</key>
+		<string>10</string>
+		<key>Question Title</key>
+		<string>The Statute of Limitations for a dental law suit is:</string>
+		<key>a</key>
+		<string>6 months.</string>
+		<key>b</key>
+		<string>12 months.</string>
+		<key>c</key>
+		<string>3 years.</string>
+		<key>d</key>
+		<string>5 years.</string>
+		<key>e</key>
+		<string>No deﬁnitive time.</string>
+		<key>f</key>
+		<string></string>
+		<key>g</key>
+		<string></string>
+		<key>answer</key>
+		<string>E.</string>
+		<key>rationale</key>
+		<string>Because dental lawsuits vary from state to state and type of oﬀense, there is NO deﬁnite time for a universal statute of limitations.</string>
+	</dict>
 </array>
 </plist>

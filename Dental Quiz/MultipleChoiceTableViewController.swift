@@ -12,12 +12,14 @@ class MultipleChoiceTableViewController: UITableViewController {
     
     var options = (multipleChoices:[String](), answer: "") {
         didSet {
+            getAnswers()
             self.tableView.reloadData()
-            tableView.allowsSelection = true
+            self.tableView.isUserInteractionEnabled = true
         }
     }
     
     var cellSelected: (() -> Void)?
+    var answers = [Int]()
     
     var answer = ""
 
@@ -60,37 +62,45 @@ class MultipleChoiceTableViewController: UITableViewController {
         return attrStr
     }
     
-    func showAnswer() {
+    func getAnswers() {
+        answers.removeAll()
         let cleanedAnswers = Array(options.answer.replacingOccurrences(of: ".", with: "").replacingOccurrences(of: " ", with: ""))
         cleanedAnswers.forEach { (cleanedAnswer) in
             options.multipleChoices.forEach { (choice) in
                 if choice.hasPrefix(String(cleanedAnswer)) {
                     if let index = options.multipleChoices.index(of: choice) {
-//                        DispatchQueue.main.async {
-                            self.highlightRightAnswer(index: index)
-//                        }
+                        answers.append(index)
                     }
                 }
             }
         }
     }
     
-    func highlightRightAnswer(index: Int) {
-        let indexPath = IndexPath(row: index, section: 0)
-        tableView.selectRow(at: indexPath, animated: true, scrollPosition: .top)
-
+    func highlightCell(indexPath: IndexPath, backgroundColor: UIColor) {
         let cell = tableView.cellForRow(at: indexPath)
         let backgroundView = UIView()
-        backgroundView.backgroundColor = UIColor(red:0.14, green:0.80, blue:0.93, alpha:0.3)
+        backgroundView.backgroundColor = backgroundColor
         cell?.selectedBackgroundView = backgroundView
-
+        tableView.selectRow(at: indexPath, animated: true, scrollPosition: .none)
+    }
+    
+    func showSelectedAnswer(indexPath: IndexPath) {
+        if !answers.contains(indexPath.row) {
+            highlightCell(indexPath: indexPath, backgroundColor: UIColor(red:1, green:28/255, blue:0, alpha:0.1))
+        }
+    }
+    
+    func showRightAnswers() {
+        answers.forEach { (a) in
+            let indexPath = IndexPath(row: a, section: 0)
+            highlightCell(indexPath: indexPath, backgroundColor: UIColor(red:0.14, green:0.80, blue:0.93, alpha:0.3))
+        }
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        showAnswer()
-        // fix issue where rational is showing up after selected cell twice
+        showRightAnswers()
+        showSelectedAnswer(indexPath: indexPath)
+        self.tableView.isUserInteractionEnabled = false
         cellSelected?()
-        self.tableView.allowsSelection = false
-
     }
 }
