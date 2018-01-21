@@ -64,7 +64,7 @@ class MultipleChoiceTableViewController: UITableViewController {
     
     func getAnswers() {
         answers.removeAll()
-        let cleanedAnswers = Array(options.answer.replacingOccurrences(of: ".", with: "").replacingOccurrences(of: " ", with: ""))
+        let cleanedAnswers = Array(options.answer.trimmingCharacters(in: .punctuationCharacters).trimmingCharacters(in: .whitespaces))
         cleanedAnswers.forEach { (cleanedAnswer) in
             options.multipleChoices.forEach { (choice) in
                 if choice.hasPrefix(String(cleanedAnswer)) {

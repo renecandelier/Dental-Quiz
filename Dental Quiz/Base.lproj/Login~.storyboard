@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3fA-L8-seo">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="eoK-1S-YMI">
     <device id="retina5_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -244,10 +244,128 @@
             </objects>
             <point key="canvasLocation" x="1254" y="315"/>
         </scene>
+        <!--Welcome View Controller-->
+        <scene sceneID="ckn-xT-ji0">
+            <objects>
+                <viewController id="3SP-Vp-E27" customClass="WelcomeViewController" customModule="Dental_Quiz" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="lfK-rD-Put">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="toothy" translatesAutoresizingMaskIntoConstraints="NO" id="aBS-t8-DmG">
+                                <rect key="frame" x="61" y="251" width="292" height="235"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="235" id="ach-6l-OBs"/>
+                                    <constraint firstAttribute="width" constant="292" id="quk-iw-Wfk"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oAD-gp-Xgs">
+                                <rect key="frame" x="20" y="669" width="374" height="47"/>
+                                <color key="backgroundColor" red="0.0" green="0.76470588240000004" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="47" id="jnC-4G-u6r"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="21"/>
+                                <state key="normal" title="Enter">
+                                    <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="3fA-L8-seo" kind="show" id="3Bn-dZ-qBN"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fam-el-bkf">
+                                <rect key="frame" x="20" y="66" width="374" height="38"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="38" id="hdd-kb-l0u"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="27"/>
+                                <color key="textColor" red="0.094117647060000004" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k2s-1w-Fw0">
+                                <rect key="frame" x="20" y="20" width="374" height="38"/>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="27"/>
+                                <color key="textColor" red="0.094117647060000004" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="oAD-gp-Xgs" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" constant="20" id="1Qg-Tq-zbS"/>
+                            <constraint firstItem="fam-el-bkf" firstAttribute="top" secondItem="k2s-1w-Fw0" secondAttribute="bottom" constant="8" symbolic="YES" id="1X8-o4-RNM"/>
+                            <constraint firstItem="aBS-t8-DmG" firstAttribute="centerX" secondItem="lfK-rD-Put" secondAttribute="centerX" id="5sz-TA-vbp"/>
+                            <constraint firstItem="EBW-2p-en2" firstAttribute="trailing" secondItem="oAD-gp-Xgs" secondAttribute="trailing" constant="20" id="JWG-6i-LqR"/>
+                            <constraint firstItem="fam-el-bkf" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" constant="20" id="KLQ-Gh-jVa"/>
+                            <constraint firstItem="aBS-t8-DmG" firstAttribute="centerY" secondItem="lfK-rD-Put" secondAttribute="centerY" id="RHR-qJ-PNT"/>
+                            <constraint firstItem="k2s-1w-Fw0" firstAttribute="top" secondItem="EBW-2p-en2" secondAttribute="top" id="Rs2-Ew-crf"/>
+                            <constraint firstItem="EBW-2p-en2" firstAttribute="bottom" secondItem="oAD-gp-Xgs" secondAttribute="bottom" constant="20" id="lnn-Zq-oXQ"/>
+                            <constraint firstItem="k2s-1w-Fw0" firstAttribute="leading" secondItem="fam-el-bkf" secondAttribute="leading" id="mnS-Ay-c62"/>
+                            <constraint firstItem="k2s-1w-Fw0" firstAttribute="trailing" secondItem="fam-el-bkf" secondAttribute="trailing" id="nrH-Px-8L1"/>
+                            <constraint firstItem="EBW-2p-en2" firstAttribute="trailing" secondItem="fam-el-bkf" secondAttribute="trailing" constant="20" id="szb-w2-lyq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="EBW-2p-en2"/>
+                    </view>
+                    <connections>
+                        <outlet property="userNameLabel" destination="fam-el-bkf" id="PtY-KT-CBG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KSd-kF-Ttm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1588.4057971014495" y="-451.63043478260875"/>
+        </scene>
+        <!--User Login View Controller-->
+        <scene sceneID="3gc-sW-CMH">
+            <objects>
+                <viewController id="eoK-1S-YMI" customClass="UserLoginViewController" customModule="Dental_Quiz" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3QP-2x-mcq">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KkG-2f-2Yc">
+                                <rect key="frame" x="20" y="214" width="374" height="47"/>
+                                <color key="backgroundColor" red="0.0" green="0.76470588240000004" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="47" id="jmg-CX-Z7g"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Semibold" family="Kohinoor Bangla" pointSize="21"/>
+                                <state key="normal" title="Login">
+                                    <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="signInButtonSelected:" destination="eoK-1S-YMI" eventType="touchUpInside" id="RvL-R8-gwL"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Pin" textAlignment="right" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="5qw-2o-p2R">
+                                <rect key="frame" x="20" y="176" width="374" height="30"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="17"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad" returnKeyType="done"/>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="5qw-2o-p2R" firstAttribute="top" secondItem="v3K-rY-ZJb" secondAttribute="top" constant="156" id="Bhy-gh-Dzh"/>
+                            <constraint firstItem="KkG-2f-2Yc" firstAttribute="trailing" secondItem="5qw-2o-p2R" secondAttribute="trailing" id="Jen-t9-ApZ"/>
+                            <constraint firstItem="5qw-2o-p2R" firstAttribute="leading" secondItem="3QP-2x-mcq" secondAttribute="leadingMargin" id="apn-my-rTO"/>
+                            <constraint firstItem="KkG-2f-2Yc" firstAttribute="leading" secondItem="5qw-2o-p2R" secondAttribute="leading" id="bNe-W6-Qcm"/>
+                            <constraint firstItem="KkG-2f-2Yc" firstAttribute="top" secondItem="5qw-2o-p2R" secondAttribute="bottom" constant="8" symbolic="YES" id="jHW-0T-Yg0"/>
+                            <constraint firstItem="5qw-2o-p2R" firstAttribute="trailing" secondItem="3QP-2x-mcq" secondAttribute="trailingMargin" id="vPJ-5P-cNV"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="v3K-rY-ZJb"/>
+                    </view>
+                    <connections>
+                        <outlet property="userPinTextField" destination="5qw-2o-p2R" id="xhj-ec-ddP"/>
+                        <segue destination="3SP-Vp-E27" kind="show" identifier="WelcomeViewController" id="3jm-oK-paW"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cRM-bC-6mC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2244.927536231884" y="-450.00000000000006"/>
+        </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="Grg-qK-NbL">
             <objects>
-                <tabBarController restorationIdentifier="tabBar" storyboardIdentifier="UITabBarController-3fA-L8-seo" id="3fA-L8-seo" sceneMemberID="viewController">
+                <tabBarController id="3fA-L8-seo" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="K0d-ra-tta">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -507,5 +625,6 @@
         <image name="FAQ" width="25" height="25"/>
         <image name="about us" width="25" height="25"/>
         <image name="chapter" width="25" height="25"/>
+        <image name="toothy" width="800" height="491"/>
     </resources>
 </document>

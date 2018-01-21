@@ -56,7 +56,7 @@ struct Question {
 }
 
 func parseQuestionsFromPList(plistName: String) -> [Question]? {
-    guard let questionsDictionary = getQuestionsFromPlist(plistName: plistName) else { return nil }
+    guard let questionsDictionary = getDictionaryFromPlist(plistName: plistName) else { return nil }
     var questions = [Question]()
     questionsDictionary.forEach { (question) in
         var question1 = Question()
@@ -112,7 +112,7 @@ func parseQuestionsFromPList(plistName: String) -> [Question]? {
     return questions.isEmpty ? nil : questions
 }
 
-func getQuestionsFromPlist(plistName: String) -> [[String: Any]]? {
+func getDictionaryFromPlist(plistName: String) -> [[String: Any]]? {
     guard let fileUrl = Bundle.main.url(forResource: plistName, withExtension: "plist"),
         let data = try? Data(contentsOf: fileUrl) else { return nil }
         if let result = try? PropertyListSerialization.propertyList(from: data, options: [], format: nil) as? [[String: Any]] {
