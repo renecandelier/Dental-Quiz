@@ -11,16 +11,16 @@ import UIKit
 class ChaptersTableViewController: UITableViewController {
     
     let chapterTitles = [
-        "Clinical Dental Hygiene/Flouride",
-        "Community Dental Health",
-        "Dental Materials",
-        "Nutrition",
-        "Oral Pathology",
-        "Oral/Dental Anatomy",
-        "Pharmacology",
-        "Professional Responsibility",
-        "Radiology",
-        "Special Needs Patients"
+        "Ch 1. Clinical Dental Hygiene/Flouride",
+        "Ch 2. Community Dental Health",
+        "Ch 3. Dental Materials",
+        "Ch 4. Nutrition",
+        "Ch 5. Oral Pathology",
+        "Ch 6. Oral/Dental Anatomy",
+        "Ch 7. Pharmacology",
+        "Ch 8. Professional Responsibility",
+        "Ch 9. Radiology",
+        "Ch 10. Special Needs Patients"
     ]
     
     // MARK: - Table view data source
