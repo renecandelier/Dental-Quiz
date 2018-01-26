@@ -24,6 +24,13 @@ struct Question {
     var f = ""
     var g = ""
     
+    var dictionary : [String: String] {
+        return ["chapterTitle": chapterTitle,
+                "chapterNumber": chapterNumber,
+                "questionNumber": questionNumber,
+                "questionTitle": questionTitle]
+    }
+    
     enum Answer:String {
         case a = "A. "
         case b = "B. "

@@ -14,6 +14,9 @@
 		8A7CAD2F1FD8D206003D991E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD2D1FD8D206003D991E /* Main.storyboard */; };
 		8A7CAD311FD8D206003D991E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD301FD8D206003D991E /* Assets.xcassets */; };
 		8A7CAD341FD8D206003D991E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD321FD8D206003D991E /* LaunchScreen.storyboard */; };
+		8A86C357201B8139008680CF /* Mixpanel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A86C352201B8129008680CF /* Mixpanel.framework */; };
+		8A86C358201B8139008680CF /* Mixpanel.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 8A86C352201B8129008680CF /* Mixpanel.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8A9C90A62016EC9100D0ACF1 /* Analytics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9C90A52016EC9100D0ACF1 /* Analytics.swift */; };
 		8AB7D7CF201015A4008C77F2 /* chapter1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7CE201015A4008C77F2 /* chapter1.plist */; };
 		8AB7D7D9201016AB008C77F2 /* chapter8.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D0201016AB008C77F2 /* chapter8.plist */; };
 		8AB7D7DA201016AB008C77F2 /* chapter9.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB7D7D1201016AB008C77F2 /* chapter9.plist */; };
@@ -42,6 +45,34 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		8A86C351201B8129008680CF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E115947D1CFF1491007F8B4F;
+			remoteInfo = Mixpanel;
+		};
+		8A86C353201B8129008680CF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E12782B31D4AB4B30025FB05;
+			remoteInfo = Mixpanel_tvOS;
+		};
+		8A86C355201B8129008680CF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E1F15FC91E64A10700391AE3;
+			remoteInfo = Mixpanel_macOS;
+		};
+		8A86C359201B8139008680CF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = E115947C1CFF1491007F8B4F;
+			remoteInfo = Mixpanel;
+		};
 		8AEEA2461FE9934D00E8CC17 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 8A7CAD1E1FD8D205003D991E /* Project object */;
@@ -50,6 +81,20 @@
 			remoteInfo = "Dental Quiz";
 		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8A9C90A32016E66200D0ACF1 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				8A86C358201B8139008680CF /* Mixpanel.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		8A1091231FF1E63D003C861D /* MultipleChoiceTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleChoiceTableViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +106,13 @@
 		8A7CAD301FD8D206003D991E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A7CAD331FD8D206003D991E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A7CAD351FD8D206003D991E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A8648CA2016D57B00112CEF /* Dental Quiz-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Dental Quiz-Bridging-Header.h"; sourceTree = "<group>"; };
+		8A8648D32016D7CB00112CEF /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		8A8648D52016D7D600112CEF /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		8A8648D72016D7DE00112CEF /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		8A8648D92016D7EB00112CEF /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Mixpanel.xcodeproj; path = mixpanel/Mixpanel.xcodeproj; sourceTree = "<group>"; };
+		8A9C90A52016EC9100D0ACF1 /* Analytics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analytics.swift; sourceTree = "<group>"; };
 		8AB7D7CE201015A4008C77F2 /* chapter1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter1.plist; sourceTree = "<group>"; };
 		8AB7D7D0201016AB008C77F2 /* chapter8.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter8.plist; sourceTree = "<group>"; };
 		8AB7D7D1201016AB008C77F2 /* chapter9.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter9.plist; sourceTree = "<group>"; };
@@ -95,6 +147,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A86C357201B8139008680CF /* Mixpanel.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,9 +164,11 @@
 		8A7CAD1D1FD8D205003D991E = {
 			isa = PBXGroup;
 			children = (
+				8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */,
 				8A7CAD281FD8D206003D991E /* Dental Quiz */,
 				8AEEA2421FE9934D00E8CC17 /* Dental QuizTests */,
 				8A7CAD271FD8D206003D991E /* Products */,
+				8A8648CE2016D5D100112CEF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -129,6 +184,7 @@
 		8A7CAD281FD8D206003D991E /* Dental Quiz */ = {
 			isa = PBXGroup;
 			children = (
+				8A9C90A42016EC7C00D0ACF1 /* Analytics */,
 				8A7CAD291FD8D206003D991E /* AppDelegate.swift */,
 				8AB7D7F02012407A008C77F2 /* Login.storyboard */,
 				8A7CAD2D1FD8D206003D991E /* Main.storyboard */,
@@ -146,8 +202,38 @@
 				8A7CAD301FD8D206003D991E /* Assets.xcassets */,
 				8A7CAD321FD8D206003D991E /* LaunchScreen.storyboard */,
 				8A7CAD351FD8D206003D991E /* Info.plist */,
+				8A8648CA2016D57B00112CEF /* Dental Quiz-Bridging-Header.h */,
 			);
 			path = "Dental Quiz";
+			sourceTree = "<group>";
+		};
+		8A8648CE2016D5D100112CEF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8A8648D92016D7EB00112CEF /* libsqlite3.tbd */,
+				8A8648D72016D7DE00112CEF /* CoreData.framework */,
+				8A8648D52016D7D600112CEF /* SystemConfiguration.framework */,
+				8A8648D32016D7CB00112CEF /* libz.tbd */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8A86C34C201B8129008680CF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8A86C352201B8129008680CF /* Mixpanel.framework */,
+				8A86C354201B8129008680CF /* Mixpanel.framework */,
+				8A86C356201B8129008680CF /* Mixpanel.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8A9C90A42016EC7C00D0ACF1 /* Analytics */ = {
+			isa = PBXGroup;
+			children = (
+				8A9C90A52016EC9100D0ACF1 /* Analytics.swift */,
+			);
+			path = Analytics;
 			sourceTree = "<group>";
 		};
 		8AB7D7E220105612008C77F2 /* PLIsts */ = {
@@ -256,10 +342,12 @@
 				8A7CAD221FD8D206003D991E /* Sources */,
 				8A7CAD231FD8D206003D991E /* Frameworks */,
 				8A7CAD241FD8D206003D991E /* Resources */,
+				8A9C90A32016E66200D0ACF1 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				8A86C35A201B8139008680CF /* PBXTargetDependency */,
 			);
 			name = "Dental Quiz";
 			productName = "Dental Quiz";
@@ -296,6 +384,7 @@
 				TargetAttributes = {
 					8A7CAD251FD8D206003D991E = {
 						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 					8AEEA2401FE9934D00E8CC17 = {
@@ -316,6 +405,12 @@
 			mainGroup = 8A7CAD1D1FD8D205003D991E;
 			productRefGroup = 8A7CAD271FD8D206003D991E /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 8A86C34C201B8129008680CF /* Products */;
+					ProjectRef = 8A86C34B201B8129008680CF /* Mixpanel.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				8A7CAD251FD8D206003D991E /* Dental Quiz */,
@@ -323,6 +418,30 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		8A86C352201B8129008680CF /* Mixpanel.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Mixpanel.framework;
+			remoteRef = 8A86C351201B8129008680CF /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		8A86C354201B8129008680CF /* Mixpanel.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Mixpanel.framework;
+			remoteRef = 8A86C353201B8129008680CF /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		8A86C356201B8129008680CF /* Mixpanel.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Mixpanel.framework;
+			remoteRef = 8A86C355201B8129008680CF /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		8A7CAD241FD8D206003D991E /* Resources */ = {
@@ -371,6 +490,7 @@
 				8AB7D7ED20105DE4008C77F2 /* UserLoginViewController.swift in Sources */,
 				8AD6A88F1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift in Sources */,
 				8AC3198F2003CE72003504A1 /* Named.swift in Sources */,
+				8A9C90A62016EC9100D0ACF1 /* Analytics.swift in Sources */,
 				8A1091261FF1F668003C861D /* ChoiceTableViewCell.swift in Sources */,
 				8AB7D7E7201056CC008C77F2 /* User.swift in Sources */,
 				8AF372D61FFDCF3400248970 /* FAQViewController.swift in Sources */,
@@ -391,6 +511,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		8A86C35A201B8139008680CF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Mixpanel;
+			targetProxy = 8A86C359201B8139008680CF /* PBXContainerItemProxy */;
+		};
 		8AEEA2471FE9934D00E8CC17 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8A7CAD251FD8D206003D991E /* Dental Quiz */;
@@ -536,16 +661,23 @@
 		8A7CAD391FD8D206003D991E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = J2EY74W5G9;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Dental Quiz/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dental.novusmobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Dental Quiz/Dental Quiz-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -554,15 +686,21 @@
 		8A7CAD3A1FD8D206003D991E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = J2EY74W5G9;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Dental Quiz/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dental.novusmobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Dental Quiz/Dental Quiz-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

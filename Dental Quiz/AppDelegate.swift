@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Mixpanel
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        Mixpanel.initialize(token: "a35f0d52ea84fc0181dd0ffcc92ef60a")
         if isUserLoggedIn() {
             if let controller = UIStoryboard(name: "Main", bundle: nil).instantiateInitialViewController() {
                 self.window?.rootViewController = controller

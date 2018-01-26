@@ -15,6 +15,15 @@ struct User {
     var email = ""
     var seminar = ""
     static let userLoggedIn = "UserLoggedIn"
+    
+    var dictionary: [String: String] {
+        return ["pin": pin,
+                "firstName": firstName,
+                "lastName": lastName,
+                "email": email,
+                "seminar": seminar]
+    }
+    
 }
 
 func parseUserFromPList(plistName: String) -> [User]? {

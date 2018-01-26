@@ -15,6 +15,7 @@ class FAQViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        track(event: "FAQ Opened")
         if let pdf = getPDF(pdfFileName: pdfFile)  {
             let req = URLRequest(url: pdf)
             webView.loadRequest(req)

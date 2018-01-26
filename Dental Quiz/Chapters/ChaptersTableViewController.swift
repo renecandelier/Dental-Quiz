@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Mixpanel
 
 class ChaptersTableViewController: UITableViewController {
     
@@ -22,6 +23,11 @@ class ChaptersTableViewController: UITableViewController {
         "Ch 9. Radiology",
         "Ch 10. Special Needs Patients"
     ]
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        track(event: "Chapter View Opened")
+    }
     
     // MARK: - Table view data source
 
@@ -42,12 +48,12 @@ class ChaptersTableViewController: UITableViewController {
     
     // MARK: - Navigation
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == QuestionViewController.className {
             if let upcoming = segue.destination as? QuestionViewController {
                 let cellRow = tableView.indexPathForSelectedRow?.row ?? 0
                 let chapter = "chapter" + "\(cellRow + 1)"
+                track(event: "Chapter Selected", properties: ["chapter": chapter])
                 upcoming.chapter = chapter
             }
         }

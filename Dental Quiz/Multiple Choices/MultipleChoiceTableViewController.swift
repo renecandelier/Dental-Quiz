@@ -20,7 +20,8 @@ class MultipleChoiceTableViewController: UITableViewController {
     
     var cellSelected: (() -> Void)?
     var answers = [Int]()
-    
+    var questionInfo = Question()
+    var chapterInfo = [String: String]()
     var answer = ""
 
     // MARK: - Table view data source
@@ -86,6 +87,12 @@ class MultipleChoiceTableViewController: UITableViewController {
     
     func showSelectedAnswer(indexPath: IndexPath) {
         if !answers.contains(indexPath.row) {
+            let answerData = ["Chapter Title": questionInfo.chapterTitle,
+                              "answer selected" : "\(indexPath.row)",
+                "chapter number": questionInfo.chapterNumber,
+                "question number" : questionInfo.questionNumber,
+                "question Title": questionInfo.questionTitle]
+            track(event: "Incorrect Answer Selected", properties: answerData)
             highlightCell(indexPath: indexPath, backgroundColor: UIColor(red:1, green:28/255, blue:0, alpha:0.1))
         }
     }

@@ -22,14 +22,12 @@ class QuestionViewController: UIViewController {
     var chapter = ""
     var isFirstQuestion = true
     var isLastQuestion = false
-    let showRationalText = "Show Rational"
+    let showRationalText = "Show Rationale"
     let showAnswerText = "Show Answer"
+    
     var isRationalVisible: Bool {
         return rationalContainerViewTopConstraint.isActive
     }
-//    var isShowingRational: Bool {
-//        return rationalContainerViewTopConstraint.isActive
-//    }
     
     fileprivate var multipleQuestionsTableViewController: MultipleChoiceTableViewController?
     fileprivate var rationalViewController: RationalViewController?
@@ -61,9 +59,10 @@ class QuestionViewController: UIViewController {
         let question = chapterQuestions[currentQuestion]
         multipleQuestionsTableViewController?.options = (question.multipleChoices, question.answer)
         multipleQuestionsTableViewController?.cellSelected = animateRational
+        multipleQuestionsTableViewController?.questionInfo = question
+
         rationalViewController?.rationalText = question.rationale
         rationalViewController?.rationalTapHandler = rationalSelected
-        
     }
     
     @IBAction func previousButtonSelected(_ sender: UIButton) {
@@ -87,10 +86,13 @@ class QuestionViewController: UIViewController {
     }
     
     @IBAction func showAnswer(_ sender: UIButton) {
+        let questionDictionary = chapterQuestions[currentQuestion].dictionary
         if showAnswerButton.titleLabel?.text == showAnswerText {
+            track(event: "Show Answer Selected", properties: questionDictionary)
             multipleQuestionsTableViewController?.showRightAnswers()
             animateRational()
         } else {
+            track(event: "Rational Selected", properties: questionDictionary)
             rationalSelected()
         }
     }
@@ -131,6 +133,7 @@ class QuestionViewController: UIViewController {
                 upcoming.cellSelected = animateRational
                 let question = chapterQuestions[currentQuestion]
                 upcoming.options = (question.multipleChoices, question.answer)
+                upcoming.questionInfo = question
             }
         case RationalViewController.className:
             if let upcoming = segue.destination as? RationalViewController, chapterQuestions.count > 0 {
@@ -152,11 +155,13 @@ extension QuestionViewController {
         if isLastQuestion  { return }
         currentQuestion += 1
         loadViewWithData(question: chapterQuestions[currentQuestion])
+        track(event: "next swipe", properties: chapterQuestions[currentQuestion].dictionary)
     }
     
     func goToPreviousQuestion() {
         if currentQuestion == 0 { return }
         currentQuestion -= 1
         loadViewWithData(question: chapterQuestions[currentQuestion])
+        track(event: "previous swipe", properties: chapterQuestions[currentQuestion].dictionary)
     }
 }

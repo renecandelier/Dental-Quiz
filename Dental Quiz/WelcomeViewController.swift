@@ -15,6 +15,7 @@ class WelcomeViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        track(event: "Welcome Screen Opened")
         userNameLabel.text = userName
     }
     

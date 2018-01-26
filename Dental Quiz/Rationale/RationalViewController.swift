@@ -12,8 +12,8 @@ class RationalViewController: UIViewController {
 
     var rationalTapHandler: (() -> Void)?
     var rationalText: String? {
-        didSet(newValue) {
-            rationalTextView.text = newValue ?? ""
+        didSet {
+            rationalTextView.text = rationalText ?? ""
         }
     }
     
@@ -24,7 +24,7 @@ class RationalViewController: UIViewController {
         
     }
     @IBAction func swipeDownRationalView(_ sender: UISwipeGestureRecognizer) {
-    rationalTapHandler?()
+        rationalTapHandler?()
     }
     
     override func viewWillAppear(_ animated: Bool) {

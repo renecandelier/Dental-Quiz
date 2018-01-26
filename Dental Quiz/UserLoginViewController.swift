@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Mixpanel
 
 class UserLoginViewController: UIViewController {
 
@@ -16,7 +17,7 @@ class UserLoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        track(event: "Login Opened")
         guard let usersPlist = parseUserFromPList(plistName: "Users") else { return }
         users = usersPlist
     }
@@ -24,6 +25,7 @@ class UserLoginViewController: UIViewController {
     @IBAction func signInButtonSelected(_ sender: UIButton) {
         users.forEach { (user) in
             if userPinTextField.text == user.pin {
+                track(event: "Logged in Succesful", properties: user.dictionary)
                 userName = "\(user.firstName)\(user.lastName)"
                 UserDefaults.standard.set(true, forKey: User.userLoggedIn)
                 performSegue(withIdentifier: WelcomeViewController.className, sender: self)
@@ -34,6 +36,7 @@ class UserLoginViewController: UIViewController {
     }
     
     func showAlert(title: String, message: String) {
+        track(event: "Error Login Alert Shown")
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)

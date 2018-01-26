@@ -15,6 +15,7 @@ class AboutUsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        track(event: "About Us Opened")
         if let pdf = getPDF(pdfFileName: pdfFile)  {
             let req = URLRequest(url: pdf)
             webView.loadRequest(req)
