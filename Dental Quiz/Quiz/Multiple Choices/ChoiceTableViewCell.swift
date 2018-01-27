@@ -18,6 +18,7 @@ class ChoiceTableViewCell: UITableViewCell {
     }
     
     override func prepareForReuse() {
+        // TODO: Clean what is not needed
         selectedBackgroundView = nil
         isSelected = false
         setSelected(false, animated: false)

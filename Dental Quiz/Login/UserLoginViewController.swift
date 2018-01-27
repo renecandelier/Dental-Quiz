@@ -17,7 +17,7 @@ class UserLoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        track(event: "Login Opened")
+        Analytics.track(event: Analytics.Events.login)
         guard let usersPlist = parseUserFromPList(plistName: "Users") else { return }
         users = usersPlist
     }
@@ -25,7 +25,7 @@ class UserLoginViewController: UIViewController {
     @IBAction func signInButtonSelected(_ sender: UIButton) {
         users.forEach { (user) in
             if userPinTextField.text == user.pin {
-                track(event: "Logged in Succesful", properties: user.dictionary)
+                Analytics.track(event: Analytics.Events.loggedIn, properties: user.dictionary)
                 userName = "\(user.firstName)\(user.lastName)"
                 UserDefaults.standard.set(true, forKey: User.userLoggedIn)
                 performSegue(withIdentifier: WelcomeViewController.className, sender: self)
@@ -36,7 +36,7 @@ class UserLoginViewController: UIViewController {
     }
     
     func showAlert(title: String, message: String) {
-        track(event: "Error Login Alert Shown")
+        Analytics.track(event: Analytics.Events.loginErrorAlert)
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)
@@ -44,7 +44,6 @@ class UserLoginViewController: UIViewController {
     
     // MARK: - Navigation
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == WelcomeViewController.className {
             let welcomeVC = segue.destination as! WelcomeViewController

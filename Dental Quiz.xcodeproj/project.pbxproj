@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8A1091241FF1E63D003C861D /* MultipleChoiceTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1091231FF1E63D003C861D /* MultipleChoiceTableViewController.swift */; };
 		8A1091261FF1F668003C861D /* ChoiceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1091251FF1F668003C861D /* ChoiceTableViewCell.swift */; };
+		8A71C682201CC86F00ACA293 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A71C681201CC86F00ACA293 /* Utils.swift */; };
 		8A7CAD2A1FD8D206003D991E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7CAD291FD8D206003D991E /* AppDelegate.swift */; };
 		8A7CAD2C1FD8D206003D991E /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7CAD2B1FD8D206003D991E /* QuestionViewController.swift */; };
 		8A7CAD2F1FD8D206003D991E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A7CAD2D1FD8D206003D991E /* Main.storyboard */; };
@@ -99,6 +100,7 @@
 /* Begin PBXFileReference section */
 		8A1091231FF1E63D003C861D /* MultipleChoiceTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleChoiceTableViewController.swift; sourceTree = "<group>"; };
 		8A1091251FF1F668003C861D /* ChoiceTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoiceTableViewCell.swift; sourceTree = "<group>"; };
+		8A71C681201CC86F00ACA293 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		8A7CAD261FD8D206003D991E /* Dental Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dental Quiz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A7CAD291FD8D206003D991E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A7CAD2B1FD8D206003D991E /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
@@ -161,6 +163,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8A71C67E201CBD8C00ACA293 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				8AB7D7F02012407A008C77F2 /* Login.storyboard */,
+				8AB7D7EC20105DE4008C77F2 /* UserLoginViewController.swift */,
+				8AB7D7EE2011B0B8008C77F2 /* WelcomeViewController.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		8A71C67F201CBE8D00ACA293 /* About Us */ = {
+			isa = PBXGroup;
+			children = (
+				8AF372D11FFC815400248970 /* AboutUsViewController.swift */,
+			);
+			path = "About Us";
+			sourceTree = "<group>";
+		};
+		8A71C680201CBE9900ACA293 /* FAQ */ = {
+			isa = PBXGroup;
+			children = (
+				8AF372D51FFDCF3400248970 /* FAQViewController.swift */,
+			);
+			path = FAQ;
+			sourceTree = "<group>";
+		};
+		8A71C683201CCFAC00ACA293 /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				8AB7D7E920105BC9008C77F2 /* Question */,
+				8AB7D7EA20105C66008C77F2 /* Rationale */,
+				8AB7D7EB20105C92008C77F2 /* Multiple Choices */,
+			);
+			path = Quiz;
+			sourceTree = "<group>";
+		};
 		8A7CAD1D1FD8D205003D991E = {
 			isa = PBXGroup;
 			children = (
@@ -184,21 +222,17 @@
 		8A7CAD281FD8D206003D991E /* Dental Quiz */ = {
 			isa = PBXGroup;
 			children = (
-				8A9C90A42016EC7C00D0ACF1 /* Analytics */,
 				8A7CAD291FD8D206003D991E /* AppDelegate.swift */,
-				8AB7D7F02012407A008C77F2 /* Login.storyboard */,
 				8A7CAD2D1FD8D206003D991E /* Main.storyboard */,
+				8A71C67E201CBD8C00ACA293 /* Login */,
+				8AB7D7E820105B9D008C77F2 /* Chapters */,
+				8A71C683201CCFAC00ACA293 /* Quiz */,
+				8A71C67F201CBE8D00ACA293 /* About Us */,
+				8A71C680201CBE9900ACA293 /* FAQ */,
 				8AC319902003CE95003504A1 /* Utils */,
+				8A9C90A42016EC7C00D0ACF1 /* Analytics */,
 				8AC3197420027794003504A1 /* PDFs */,
 				8AB7D7E220105612008C77F2 /* PLIsts */,
-				8AB7D7EC20105DE4008C77F2 /* UserLoginViewController.swift */,
-				8AF372D11FFC815400248970 /* AboutUsViewController.swift */,
-				8AB7D7EE2011B0B8008C77F2 /* WelcomeViewController.swift */,
-				8AF372D51FFDCF3400248970 /* FAQViewController.swift */,
-				8AB7D7E820105B9D008C77F2 /* Chapters */,
-				8AB7D7E920105BC9008C77F2 /* Question */,
-				8AB7D7EA20105C66008C77F2 /* Rationale */,
-				8AB7D7EB20105C92008C77F2 /* Multiple Choices */,
 				8A7CAD301FD8D206003D991E /* Assets.xcassets */,
 				8A7CAD321FD8D206003D991E /* LaunchScreen.storyboard */,
 				8A7CAD351FD8D206003D991E /* Info.plist */,
@@ -319,6 +353,7 @@
 				8AC3198E2003CE72003504A1 /* Named.swift */,
 				8AEEA23B1FE7615F00E8CC17 /* QuestionViewModel.swift */,
 				8AB7D7E6201056CC008C77F2 /* User.swift */,
+				8A71C681201CC86F00ACA293 /* Utils.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -489,6 +524,7 @@
 				8AF372D21FFC815400248970 /* AboutUsViewController.swift in Sources */,
 				8AB7D7ED20105DE4008C77F2 /* UserLoginViewController.swift in Sources */,
 				8AD6A88F1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift in Sources */,
+				8A71C682201CC86F00ACA293 /* Utils.swift in Sources */,
 				8AC3198F2003CE72003504A1 /* Named.swift in Sources */,
 				8A9C90A62016EC9100D0ACF1 /* Analytics.swift in Sources */,
 				8A1091261FF1F668003C861D /* ChoiceTableViewCell.swift in Sources */,

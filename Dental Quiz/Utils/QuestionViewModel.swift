@@ -25,25 +25,13 @@ struct Question {
     var g = ""
     
     var dictionary : [String: String] {
-        return ["chapterTitle": chapterTitle,
-                "chapterNumber": chapterNumber,
-                "questionNumber": questionNumber,
-                "questionTitle": questionTitle]
+        return [Constants.chapterTitle: chapterTitle,
+                Constants.chapterNumber: chapterNumber,
+                Constants.questionNumber: questionNumber,
+                Constants.questionTitle: questionTitle]
     }
     
-    enum Answer:String {
-        case a = "A. "
-        case b = "B. "
-        case c = "C. "
-        case d = "D. "
-        case e = "E. "
-        case f = "F. "
-        case g = "G. "
-        
-        init() {
-            self = .a
-        }
-    }
+    // TODO: Add elements to dictionary
     
     struct Constants {
         static let a = "a"
@@ -63,7 +51,7 @@ struct Question {
 }
 
 func parseQuestionsFromPList(plistName: String) -> [Question]? {
-    guard let questionsDictionary = getDictionaryFromPlist(plistName: plistName) else { return nil }
+    guard let questionsDictionary = Utils.getDictionaryFromPlist(plistName: plistName) else { return nil }
     var questions = [Question]()
     questionsDictionary.forEach { (question) in
         var question1 = Question()
@@ -117,19 +105,4 @@ func parseQuestionsFromPList(plistName: String) -> [Question]? {
     }
     
     return questions.isEmpty ? nil : questions
-}
-
-func getDictionaryFromPlist(plistName: String) -> [[String: Any]]? {
-    guard let fileUrl = Bundle.main.url(forResource: plistName, withExtension: "plist"),
-        let data = try? Data(contentsOf: fileUrl) else { return nil }
-        if let result = try? PropertyListSerialization.propertyList(from: data, options: [], format: nil) as? [[String: Any]] {
-            guard let result = result else { return nil }
-            return result
-    }
-    return nil
-}
-
-func getPDF(pdfFileName: String) -> URL? {
-    guard let pdfURL = Bundle.main.url(forResource: pdfFileName, withExtension: "pdf", subdirectory: nil, localization: nil) else { return .none }
-    return pdfURL
 }

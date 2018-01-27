@@ -27,12 +27,16 @@ class RationalViewController: UIViewController {
         rationalTapHandler?()
     }
     
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
+    fileprivate func addShadowToView() {
         view.layer.shadowColor = UIColor.lightGray.cgColor
         view.layer.shadowOpacity = 0.5
         view.layer.shadowOffset = CGSize(width: 1, height: 1.1)
         view.layer.shadowRadius = 3
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        addShadowToView()
         rationalTextView.text = rationalText
     }
     

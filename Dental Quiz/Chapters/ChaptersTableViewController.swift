@@ -26,7 +26,7 @@ class ChaptersTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        track(event: "Chapter View Opened")
+        Analytics.track(event: Analytics.Events.chapters)
     }
     
     // MARK: - Table view data source
@@ -50,11 +50,11 @@ class ChaptersTableViewController: UITableViewController {
 
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == QuestionViewController.className {
-            if let upcoming = segue.destination as? QuestionViewController {
+            if let questionViewController = segue.destination as? QuestionViewController {
                 let cellRow = tableView.indexPathForSelectedRow?.row ?? 0
                 let chapter = "chapter" + "\(cellRow + 1)"
-                track(event: "Chapter Selected", properties: ["chapter": chapter])
-                upcoming.chapter = chapter
+                Analytics.track(event: Analytics.Events.chapterSelected, properties: ["chapter": chapter])
+                questionViewController.chapter = chapter
             }
         }
     }
