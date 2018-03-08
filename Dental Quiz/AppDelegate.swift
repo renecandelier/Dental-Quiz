@@ -18,11 +18,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         Analytics.initializeTracking()
         
-        if Utils.isUserLoggedIn() {
-            if let controller = UIStoryboard(name: "Main", bundle: nil).instantiateInitialViewController() {
-                self.window?.rootViewController = controller
-            }
-        }
+//        if Utils.isUserLoggedIn() {
+//            if let controller = UIStoryboard(name: "Main", bundle: nil).instantiateInitialViewController() {
+//                self.window?.rootViewController = controller
+//            }
+//        }
         return true
     }
 
