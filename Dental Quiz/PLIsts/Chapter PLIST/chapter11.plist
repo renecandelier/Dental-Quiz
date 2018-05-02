@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>1</string>
+          <key>Question Title</key>
+          <string>The word “pleomorphic” means:</string>
+          <key>a</key>
+          <string>Rod-like.</string>
+          <key>b</key>
+          <string>Spherical.</string>
+          <key>c</key>
+          <string>Shapeless.</string>
+          <key>d</key>
+          <string>Comma-shaped.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>“Pleo” means “more than the usual number,” and the word “pleomorphic” means “shapeless.”</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>2</string>
+          <key>Question Title</key>
+          <string>Which bacteria is associated with NUP and NUG?</string>
+          <key>a</key>
+          <string>Listeria.</string>
+          <key>b</key>
+          <string>Prevotella.</string>
+          <key>c</key>
+          <string>Actinomyces.</string>
+          <key>d</key>
+          <string>Mycobacterium.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Prevotella is associated with NUP and NUG. Listeria is the causative agent of meningitis; actinomyces is associated with root caries; mycobacterium is the causative agent of tuberculosis.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>3</string>
+          <key>Question Title</key>
+          <string>Which bacteria produces collagenase?</string>
+          <key>a</key>
+          <string>Clostridium.</string>
+          <key>b</key>
+          <string>Pseudomonas.</string>
+          <key>c</key>
+          <string>Corynebacterium.</string>
+          <key>d</key>
+          <string>Porphyromonas gingivalis.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Porphyromonas gingivalis is found deep within the periodontal pocket and contributes to the destruction of the periodontal ligament using collagenase.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>4</string>
+          <key>Question Title</key>
+          <string>Bacteria are most susceptible to antimicrobials during which phase?</string>
+          <key>a</key>
+          <string>Lag.</string>
+          <key>b</key>
+          <string>Death.</string>
+          <key>c</key>
+          <string>Stationary.</string>
+          <key>d</key>
+          <string>Logarithmic.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>Bacteria are most susceptible to destruction by antimicrobial agents during the logarithmic growth phase.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>5</string>
+          <key>Question Title</key>
+          <string>A characteristic of the gram-negative cell wall is that it:</string>
+          <key>a</key>
+          <string>Contains endotoxin.</string>
+          <key>b</key>
+          <string>Has low lipid content.</string>
+          <key>c</key>
+          <string>Is susceptible to penicillin.</string>
+          <key>d</key>
+          <string>Is susceptible to lysozymes.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Unlike gram-positive bacteria, the gram-negative bacterial cell wall contains endotoxin.  Low lip content and susceptibility to penicillin and lysozymes are characteristics of the gram-positive cell wall.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>6</string>
+          <key>Question Title</key>
+          <string>Which one of the following enzymes is not used by bacteria to break down byproducts of oxygen metabolism?</string>
+          <key>a</key>
+          <string>Catalase.</string>
+          <key>b</key>
+          <string>Peroxidase.</string>
+          <key>c</key>
+          <string>Hyaluronidase.</string>
+          <key>d</key>
+          <string>Superoxide dismutase.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Hyaluronidase, also known as “spreading factor,” is an enzyme which breaks down hyaluronic acid, a component of collagen.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>7</string>
+          <key>Question Title</key>
+          <string>(a) Transcription is the process by which genetic information is passed from DNA to mRNA.  (b) Translation is the process by which mRNA directs protein synthesis.</string>
+          <key>a</key>
+          <string>Both statements are correct.</string>
+          <key>b</key>
+          <string>Both statements are incorrect.</string>
+          <key>c</key>
+          <string>(a) is correct, (b) is incorrect.</string>
+          <key>d</key>
+          <string>(a) is incorrect, (b) is correct.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Both statements are correct by definition.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>8</string>
+          <key>Question Title</key>
+          <string>The process by which a pathogen is marked by an antibody for phagocytosis is called:</string>
+          <key>a</key>
+          <string>Avidity.</string>
+          <key>b</key>
+          <string>Diapedesis.</string>
+          <key>c</key>
+          <string>Opsonization.</string>
+          <key>d</key>
+          <string>Agglutination.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Opsonization is the process by which a pathogen is marked by an antibody for destruction by phagocytosis.  Avidity refers to the “bond strength” of an antibody; diapedesis is the process by which neutrophils penetrate the intact lining of a capillary; agglutination refers to the “clumping” of particles as in an antigen-antibody reaction.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>9</string>
+          <key>Question Title</key>
+          <string>An example of a Type IV (delayed) hypersensitivity reaction is:</string>
+          <key>a</key>
+          <string>Hemolytic anemia.</string>
+          <key>b</key>
+          <string>Contact dermatitis.</string>
+          <key>c</key>
+          <string>Allergy to penicillin.</string>
+          <key>d</key>
+          <string>Rheumatoid arthritis.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Contact dermatitis (such as a rash caused by poison ivy) is an example of a Type IV (delayed) hypersensitivity reaction, and typically occurs within 72 hours of exposure.  An allergy to penicillin is an example of a Type I (Anaphylactic) hypersensitivity reaction; hemolytic anemia is an example of a Type II (Cytotoxic) hypersensitivity reaction; rheumatoid arthritis is an example of a Type III (Immune Complex) hypersensitivity reaction.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>11</string>
+          <key>Chapter Title</key>
+          <string>Ch 11. Microbiology</string>
+          <key>Question Number</key>
+          <string>10</string>
+          <key>Question Title</key>
+          <string>The most abundant antibody is:</string>
+          <key>a</key>
+          <string>IgA</string>
+          <key>b</key>
+          <string>IgE</string>
+          <key>c</key>
+          <string>IgG</string>
+          <key>d</key>
+          <string>IgM</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>IgG is the most abundant antibody.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+</array>
+</plist>

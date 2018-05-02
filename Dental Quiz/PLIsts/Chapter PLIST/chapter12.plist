@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>1</string>
+          <key>Question Title</key>
+          <string>Which bacterial species is found in high concentrations in early, healthy dental biofilm?</string>
+          <key>a</key>
+          <string>Streptococcus mitis.</string>
+          <key>b</key>
+          <string>Treponema pallidum.</string>
+          <key>c</key>
+          <string>Prevotella intermedia.</string>
+          <key>d</key>
+          <string>Porphyromonas gingivalis.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>S. mitis is a cocci bacterium attaching early to the acquired pellicle. P. gingivalis and p. intermedia are found in periodontal diseases, and t. pallidum is the causative agent in syphilis.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>2</string>
+          <key>Question Title</key>
+          <string>Which bacterial species is most closely associated with inflammation during pregnancy?</string>
+          <key>a</key>
+          <string>Treponema pallidum.</string>
+          <key>b</key>
+          <string>Prevotella intermedia.</string>
+          <key>c</key>
+          <string>Streptococcus mutans.</string>
+          <key>d</key>
+          <string>Porphyromonas gingivalis.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>P. intermedia and c. rectus are bacterial species associated with “pregnancy gingivitis.”</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>3</string>
+          <key>Question Title</key>
+          <string>Tetracycline is often indicated in the management of necrotizing periodontal diseases because:</string>
+          <key>a</key>
+          <string>Tetracycline is most effective against gram (+) aerobic bacteria.</string>
+          <key>b</key>
+          <string>Tetracycline binds with minerals and dairy foods in the patient’s diet.</string>
+          <key>c</key>
+          <string>Tetracycline is eliminated and concentrates in gingival crevicular fluid.</string>
+          <key>d</key>
+          <string>Tetracycline is a narrow spectrum drug that is specific in treatment of periodontal disease.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Tetracycline is a broad spectrum antibiotic that concentrates in gingival crevicular fluid.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>4</string>
+          <key>Question Title</key>
+          <string>Leukemia affecting the periodontium would be classified as:</string>
+          <key>a</key>
+          <string>Abscess of the periodontium.</string>
+          <key>b</key>
+          <string>Periodontitis associated with a genetic disorder.</string>
+          <key>c</key>
+          <string>Periodontitis as a manifestation of a systemic disease.</string>
+          <key>d</key>
+          <string>Periodontitis associated with a developmental disorder.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Leukemia is a systemic disease that can affect periodontal tissues.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>5</string>
+          <key>Question Title</key>
+          <string>A tooth can be moved 1.5 mm in a buccal-lingual direction. The mobility of this tooth should be classified as:</string>
+          <key>a</key>
+          <string>Class I mobility.</string>
+          <key>b</key>
+          <string>Class II mobility.</string>
+          <key>c</key>
+          <string>Class III mobility.</string>
+          <key>d</key>
+          <string>Class IV mobility.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>A tooth exhibiting Class II mobility can be moved 1-2 mm in a horizontal direction.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>6</string>
+          <key>Question Title</key>
+          <string>Which periodontal ligament fiber group is most important in resisting intrusive masticatory forces?</string>
+          <key>a</key>
+          <string>Apical fibers.</string>
+          <key>b</key>
+          <string>Oblique fibers.</string>
+          <key>c</key>
+          <string>Horizontal fibers.</string>
+          <key>d</key>
+          <string>Interradicular fibers.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Oblique fibers are arranged diagonally from the bone to the tooth surface, so they prevent the tooth from being pushed into the bottom of the alveolus during chewing.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>7</string>
+          <key>Question Title</key>
+          <string>Each of the following medications increase the risk of gingival overgrowth except one. Which is the exception? </string>
+          <key>a</key>
+          <string>Aspirin.</string>
+          <key>b</key>
+          <string>Phenytoin.</string>
+          <key>c</key>
+          <string>Nifedipine.</string>
+          <key>d</key>
+          <string>Cyclosporine.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Phenytoin (Dilantin), nifedipine (Procardia) and cyclosporine all may contribute to gingival enlargement in patients taking the medication.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>8</string>
+          <key>Question Title</key>
+          <string>Which radiographic finding may be associated with periodontitis?</string>
+          <key>a</key>
+          <string>Indistinct lamina dura.</string>
+          <key>b</key>
+          <string>Visible and uniform periodontal ligament space.</string>
+          <key>c</key>
+          <string>Alveolar bone following the contour of the CEJ.</string>
+          <key>d</key>
+          <string>Alveolar crest bone 1 millimeter apical to the CEJ.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>In a healthy periodontium, the lamina dura should be completely intact, distinct and radiopaque.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>9</string>
+          <key>Question Title</key>
+          <string>Tissues exhibiting aggressive periodontitis contain elevated proportions of:</string>
+          <key>a</key>
+          <string>Candida albicans.</string>
+          <key>b</key>
+          <string>Actinomyces viscous.</string>
+          <key>c</key>
+          <string>Streptococcus mutans.</string>
+          <key>d</key>
+          <string>Aggregatibacter actinomycetemcomitans.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D.</string>
+          <key>rationale</key>
+          <string>The bacterial species “a.a” is important in aggressive periodontal disease. Candida albicans is a fungus, a. viscous and s. mutans are associated with caries.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>12</string>
+          <key>Chapter Title</key>
+          <string>Ch 12. Periodontology</string>
+          <key>Question Number</key>
+          <string>10</string>
+          <key>Question Title</key>
+          <string>The primary cell involved in acute inflammation is the:</string>
+          <key>a</key>
+          <string>Fibroblast.</string>
+          <key>b</key>
+          <string>Monocyte.</string>
+          <key>c</key>
+          <string>Neutrophil.</string>
+          <key>d</key>
+          <string>Plasma cell.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>Neutrophils (or PMNs) are the first cell to emigrate to the site of injury and are the primary cells in acute inflammation.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+</array>
+</plist>
