@@ -16,7 +16,7 @@
           <key>b</key>
           <string>Lingual artery.</string>
           <key>c</key>
-          <string>Maxillary artery .</string>
+          <string>Maxillary artery.</string>
           <key>d</key>
           <string>Internal carotid artery.</string>
           <key>e</key>
@@ -165,7 +165,7 @@ d-  muscles derive from mesoderm </string>
           <key>c</key>
           <string>Hepatic.</string>
           <key>d</key>
-          <string>Ulmonary.</string>
+          <string>Pulmonary.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -219,9 +219,9 @@ d-  alveoli of the lungs are the site of gas exchange</string>
           <key>a</key>
           <string>Bone.</string>
           <key>b</key>
-          <string>Dentin .</string>
+          <string>Dentin.</string>
           <key>c</key>
-          <string>Enamel .</string>
+          <string>Enamel.</string>
           <key>d</key>
           <string>Cartilage.</string>
           <key>e</key>
@@ -245,7 +245,7 @@ d-  cartilage is not normally mineralized </string>
           <key>Question Number</key>
           <string>9</string>
           <key>Question Title</key>
-          <string>The mitral valve separates the</string>
+          <string>The mitral valve separates the:</string>
           <key>a</key>
           <string>Left atrium from the aorta.</string>
           <key>b</key>
@@ -452,11 +452,11 @@ d-  the facial nerve (VII) is the motor nerve to the facial muscles </string>
           <key>Question Title</key>
           <string>Histologically, gingival epithelium most closely resembles epithelium of the:</string>
           <key>a</key>
-          <string>Soft palate .</string>
+          <string>Soft palate.</string>
           <key>b</key>
-          <string>Hard palate .</string>
+          <string>Hard palate.</string>
           <key>c</key>
-          <string>Vestibular mucosa .</string>
+          <string>Vestibular mucosa.</string>
           <key>d</key>
           <string>Vermillion border of the lips.</string>
           <key>e</key>
@@ -835,7 +835,7 @@ b-  early layers of development are present by week three, including ectoderm, m
           <key>a</key>
           <string>Elevate the mandible.</string>
           <key>b</key>
-          <string>Depress the mandible .</string>
+          <string>Depress the mandible.</string>
           <key>c</key>
           <string>Elevate the lip during a smile .</string>
           <key>d</key>
@@ -882,36 +882,6 @@ d-  the medial pterygoid has no attachment to the hyoid bone in the neck</string
           <string>a-  the maxillary ﬁrst premolar has two cusps (buccal and lingual) 
 b-  the mandibular ﬁrst premolar has two cusps (a functional buccal cusp and an “afunctional” lingual cusp) 
 c-  the maxillary second premolar has two cusps (buccal and lingual) </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>6</string>
-          <key>Chapter Title</key>
-          <string>Ch 6. Oral/Dental Anatomy</string>
-          <key>Question Number</key>
-          <string>31</string>
-          <key>Question Title</key>
-          <string>Order the following stages of tooth development from early to late:</string>
-          <key>a</key>
-          <string>Cap stage.</string>
-          <key>b</key>
-          <string>Bud stage.</string>
-          <key>c</key>
-          <string>Bell stage.</string>
-          <key>d</key>
-          <string>Initiation stage.</string>
-          <key>e</key>
-          <string>Apposition stage.</string>
-          <key>f</key>
-          <string>Maturation stage.</string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>a-  initiation is the ﬁrst stage of tooth development 
-b-  initiation comes before the bud stage 
-c-  after initiation, a tooth develops into the bud stage, then cap stage and then bell stage </string>
     </dict>
 </array>
 </plist>

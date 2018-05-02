@@ -56,7 +56,7 @@
           <key>answer</key>
           <string>C.</string>
           <key>rationale</key>
-          <string>Calcium hydroxide has long been used to stimulate the development of reparative dentin in the case of a small, clean pulpal exposure. Oil of cloves, like oil of eugenol – a component of zinc-oxide/eugenol cement – is considered to be a “pulpal anodyne,” or agent which soothes an unexposed pulp. Copal varnish can be eﬀective in sealing open dentinal tubules which is critical to prevent dentinal hypersensitivity, but has no medicinal value in the case of a pulpal expos</string>
+          <string>Calcium hydroxide has long been used to stimulate the development of reparative dentin in the case of a small, clean pulpal exposure. Oil of cloves, like oil of eugenol – a component of zinc-oxide/eugenol cement – is considered to be a “pulpal anodyne,” or agent which soothes an unexposed pulp. Copal varnish can be eﬀective in sealing open dentinal tubules which is critical to prevent dentinal hypersensitivity, but has no medicinal value in the case of a pulpal exposure.</string>
     </dict>
     <dict>
           <key>Chapter Number</key>
@@ -186,7 +186,7 @@
           <key>c</key>
           <string>Tin oxide.</string>
           <key>d</key>
-          <string>Prophy-jet,</string>
+          <string>Prophy-jet.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -214,7 +214,7 @@
           <key>c</key>
           <string>Using stone instead of plaster.</string>
           <key>d</key>
-          <string>Both a and c.</string>
+          <string>Both A and C.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -318,34 +318,6 @@
           <key>Question Number</key>
           <string>12</string>
           <key>Question Title</key>
-          <string>Two ways to prevent the creation of a Class II overhang include:</string>
-          <key>a</key>
-          <string>Use a base.</string>
-          <key>b</key>
-          <string>Only use amalgam.</string>
-          <key>c</key>
-          <string>Place a wedge interproximally. </string>
-          <key>d</key>
-          <string>Use a properly shaped and placed matrix band.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>C., D.</string>
-          <key>rationale</key>
-          <string>Proximal overhangs of Class II restorations can be avoided by using optimally placed matrix bands wedged tightly interproximally. Whether a base is used or not has no impact; similarly the placement of any restorative material can produce an overhang if the ﬂoor of the proximal box hasn’t been properly banded and wedged. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>3</string>
-          <key>Chapter Title</key>
-          <string>Ch 3. Dental Materials</string>
-          <key>Question Number</key>
-          <string>13</string>
-          <key>Question Title</key>
           <string>The material of choice for a Class VI restoration would be:</string>
           <key>a</key>
           <string>Amalgam. </string>
@@ -372,7 +344,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>14</string>
+          <string>13</string>
           <key>Question Title</key>
           <string>The gypsum product with the least compressive strength is:</string>
           <key>a</key>
@@ -400,7 +372,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>15</string>
+          <string>14</string>
           <key>Question Title</key>
           <string>Intraorally, a clinician may polish gold with tin oxide. Extraorally, a clinician or laboratory technician may polish gold with rouge.</string>
           <key>a</key>
@@ -428,7 +400,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>16</string>
+          <string>15</string>
           <key>Question Title</key>
           <string>A cantilevered bridge can be easily identiﬁed radiographically because:</string>
           <key>a</key>
@@ -456,7 +428,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>17</string>
+          <string>16</string>
           <key>Question Title</key>
           <string>A beneﬁt of light-cured composites over self-cured composites is: </string>
           <key>a</key>
@@ -484,7 +456,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>18</string>
+          <string>17</string>
           <key>Question Title</key>
           <string>Fluﬃng (aerating) alginate before using it:</string>
           <key>a</key>
@@ -512,7 +484,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>19</string>
+          <string>18</string>
           <key>Question Title</key>
           <string>Zinc phosphate cement helps keep a crown in place by its:</string>
           <key>a</key>
@@ -540,37 +512,9 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>20</string>
+          <string>19</string>
           <key>Question Title</key>
-          <string>Three ways to ensure the best results in mixing a gypsum product include:</string>
-          <key>a</key>
-          <string>Weigh the necessary gypsum. </string>
-          <key>b</key>
-          <string>Measure the proper volume of water. </string>
-          <key>c</key>
-          <string>Mix and vibrate for a minimum of ten minutes. </string>
-          <key>d</key>
-          <string>Vibrate the mixed gypsum to release trapped air.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A, B, D. </string>
-          <key>rationale</key>
-          <string>It is always desirable to properly proportion any dental material before mixing, and it is always desirable to minimize porosity when mixing. Therefore gypsum should be weighed, the water should be measured, and the mix should be vibrated while mixing to release any trapped air. Mixing and vibrating for ten minutes would actually result in the accelerated setting of the gypsum in the mixing bowl. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>3</string>
-          <key>Chapter Title</key>
-          <string>Ch 3. Dental Materials</string>
-          <key>Question Number</key>
-          <string>21</string>
-          <key>Question Title</key>
-          <string>The setting rate of an irreversible hydrocolloid may be slowed safely and eﬀectively by: a. increasing the spatulation time. </string>
+          <string>The setting rate of an irreversible hydrocolloid may be slowed safely and eﬀectively by:</string>
           <key>a</key>
           <string>Increasing the spatulation time. </string>
           <key>b</key>
@@ -596,7 +540,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>22</string>
+          <string>20</string>
           <key>Question Title</key>
           <string>A force exerted to stretch a material to the point of fracture indicates its:</string>
           <key>a</key>
@@ -624,35 +568,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>23</string>
-          <key>Question Title</key>
-          <string>A dental amalgam alloy contains three of the following elements:</string>
-          <key>a</key>
-          <string>Tin.</string>
-          <key>b</key>
-          <string>Silver.</string>
-          <key>c</key>
-          <string>Copper.</string>
-          <key>d</key>
-          <string>Magnesium.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A, B, C.</string>
-          <key>rationale</key>
-          <string>By deﬁnition, “amalgam” is an alloy of mercury. Dental amalgam is typically comprised of mercury alloyed with silver, copper, tin, and zinc. Magnesium is a distractor. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>3</string>
-          <key>Chapter Title</key>
-          <string>Ch 3. Dental Materials</string>
-          <key>Question Number</key>
-          <string>24</string>
+          <string>21</string>
           <key>Question Title</key>
           <string>Air incorporated into a gypsum mix results in: </string>
           <key>a</key>
@@ -680,7 +596,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>25</string>
+          <string>22</string>
           <key>Question Title</key>
           <string>An interproximal composite on an anterior tooth is classiﬁed by G. V. Black as a:</string>
           <key>a</key>
@@ -708,7 +624,7 @@
           <key>Chapter Title</key>
           <string>Ch 3. Dental Materials</string>
           <key>Question Number</key>
-          <string>26</string>
+          <string>23</string>
           <key>Question Title</key>
           <string>Pyrophosphates are added to commercial toothpaste preparations to prevent tartar accumulation. Triclosan is sometimes added as an antimicrobial agent. </string>
           <key>a</key>
@@ -730,90 +646,6 @@
           <key>rationale</key>
           <string>Pyrophosphates are the key additives to “tartar control” dentifrices, while triclosan is the most often used (antimicrobial) additive in a tooth paste marketed for
 “gum care.” Both statements are true. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>3</string>
-          <key>Chapter Title</key>
-          <string>Ch 3. Dental Materials</string>
-          <key>Question Number</key>
-          <string>27</string>
-          <key>Question Title</key>
-          <string>The contraction of a gel due to a loss of solvent is called:</string>
-          <key>a</key>
-          <string>Syneresis. </string>
-          <key>b</key>
-          <string>Adhesion. </string>
-          <key>c</key>
-          <string> Imbibition. </string>
-          <key>d</key>
-          <string>Malleability.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A. </string>
-          <key>rationale</key>
-          <string>The contraction of a gel due to the loss of solvent is called syneresis. Adhesion is the chemical attraction between unlike molecules. Imbibition is the absorption of a solvent by a gel. Malleability refers to a material’s capacity to be shaped by force or pressure. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>3</string>
-          <key>Chapter Title</key>
-          <string>Ch 3. Dental Materials</string>
-          <key>Question Number</key>
-          <string>28</string>
-          <key>Question Title</key>
-          <string>In the event of deep decay, which has exposed the pulp, the clinician would perform the following steps in sequence: </string>
-          <key>a</key>
-          <string>Check the occlusion.</string>
-          <key>b</key>
-          <string>Place a cement base.</string>
-          <key>c</key>
-          <string>Place the ﬁnal restoration.</string>
-          <key>d</key>
-          <string>Place a calcium hydroxide liner.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D, B, C, A.</string>
-          <key>rationale</key>
-          <string>To properly restore a tooth involving a small, clean exposure of the pulp, the clinician would ﬁrst want to seal and/or medicate the pulp with a liner. Because calcium hydroxide is the liner of choice for its ability to stimulate the development of reparative dentin, placing a small layer of calcium hydroxide directly over the pulp exposure would be the ﬁrst step in this proposed sequence. Because it’s critically important to insulate the pulp from thermal extremes and to protect the pulp from the condensation or compaction of the restorative material, a base must be placed over the liner. Virtually any cement can be used. Once lined and based, the tooth can now be restored with the clinician’s material of choice. To avoid any post restorative discomfort resulting from an over-ﬁlled tooth, it is important to check the occlusion and adjust as needed.</string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>3</string>
-          <key>Chapter Title</key>
-          <string>Ch 3. Dental Materials</string>
-          <key>Question Number</key>
-          <string>29</string>
-          <key>Question Title</key>
-          <string>The proper sequence for pouring an alginate study model is:</string>
-          <key>a</key>
-          <string>Thoroughly mix the stone and water.</string>
-          <key>b</key>
-          <string>Measure the water and weigh the stone needed.</string>
-          <key>c</key>
-          <string>Thoroughly vibrate the stone mix to release trapped air.</string>
-          <key>d</key>
-          <string>Carefully vib+H25rate the stone into the impression to avoid trapping air.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B, A, C, D.</string>
-          <key>rationale</key>
-          <string>For optimal results, gypsum should always been weighed and the water should always be measured before mixing. The gypsum and water should be thoroughly – but eﬃciently – mixed in a ﬂexible bowl which must then be thoroughly vibrated to release any entrapped air. Finally, the gypsum product is carefully vibrated into the alginate to – once again – avoid trapping any air. </string>
     </dict>
 </array>
 </plist>

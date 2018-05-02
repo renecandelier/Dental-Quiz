@@ -122,7 +122,7 @@
           <key>Question Number</key>
           <string>5</string>
           <key>Question Title</key>
-          <string>nﬂammatory ﬁbrous hyperplasia in the oral cavity is most commonly caused by:</string>
+          <string>Inﬂammatory ﬁbrous hyperplasia in the oral cavity is most commonly caused by:</string>
           <key>a</key>
           <string>Smoking.</string>
           <key>b</key>
@@ -293,13 +293,13 @@
           <key>Question Title</key>
           <string>A grayish-white, thickened, multinodular papular appearance of the palate with a small red spot in the center of each nodule, found only in smokers, describes which of the following conditions?</string>
           <key>a</key>
-          <string>Candidiasis </string>
+          <string>Candidiasis.</string>
           <key>b</key>
-          <string>Leukoplakia </string>
+          <string>Leukoplakia.</string>
           <key>c</key>
-          <string>Nicotine stomatitis </string>
+          <string>Nicotine stomatitis.</string>
           <key>d</key>
-          <string>Papillary hyperplasia</string>
+          <string>Papillary hyperplasia.</string>
           <key>e</key>
           <string></string>
           <key>f</key>
@@ -403,34 +403,6 @@
           <key>Question Number</key>
           <string>15</string>
           <key>Question Title</key>
-          <string>For each of the herpes viruses listed below, select its associated disease process. Virus Disease </string>
-          <key>a</key>
-          <string>Epstein-barr virus a. shingles.</string>
-          <key>b</key>
-          <string>Varicella zoster virus b. herpes labialis.</string>
-          <key>c</key>
-          <string>Human herpes virus-8 c. kaposi’s sarcoma.</string>
-          <key>d</key>
-          <string>Herpes simplex virus-1 d. burkitt’s lymphoma.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>D.</string>
-          <key>rationale</key>
-          <string>d, a, c, b</string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Ch 5. Oral Pathology</string>
-          <key>Question Number</key>
-          <string>16</string>
-          <key>Question Title</key>
           <string>A 50-year-old man who smokes a pipe is found to have lesions on his palate, underneath his denture. He says he removes the denture only to clean it. The lesions on his palate are erythematous, papillary projections. His chief complaint is an ill-ﬁtting set of dentures that is l0 years old. This patient most probably has: </string>
           <key>a</key>
           <string>Candidiasis.</string>
@@ -457,7 +429,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>17</string>
+          <string>16</string>
           <key>Question Title</key>
           <string>The most common location for a mucocele is the:</string>
           <key>a</key>
@@ -485,7 +457,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>18</string>
+          <string>17</string>
           <key>Question Title</key>
           <string>A permanent tooth that displays hypoplasia caused by trauma or infection during development has been termed: </string>
           <key>a</key>
@@ -513,7 +485,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>19</string>
+          <string>18</string>
           <key>Question Title</key>
           <string>Dysplastic lesions of squamous epithelium occur most often on the:</string>
           <key>a</key>
@@ -541,7 +513,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>20</string>
+          <string>19</string>
           <key>Question Title</key>
           <string>The most common malignancy in the oral cavity is:</string>
           <key>a</key>
@@ -569,7 +541,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>21</string>
+          <string>20</string>
           <key>Question Title</key>
           <string>Dental ﬂuorosis occurs in the permanent dentition only. It can be prevented by restricting children&apos;s intake of ﬂuoride during the enamel&apos;s calciﬁcation period.</string>
           <key>a</key>
@@ -597,35 +569,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>22</string>
-          <key>Question Title</key>
-          <string>Identify the three medications from the following list that can be associated with gingival hyperplasia. </string>
-          <key>a</key>
-          <string>Inderal.</string>
-          <key>b</key>
-          <string>Phenytoin.</string>
-          <key>c</key>
-          <string>Nifedipine.</string>
-          <key>d</key>
-          <string>Cyclosporine.</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B, C, D.</string>
-          <key>rationale</key>
-          <string>Inderal is a non-selective beta blocker antihypertensive. This class of drugs does not contribute to gingival hyperplasia. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Ch 5. Oral Pathology</string>
-          <key>Question Number</key>
-          <string>23</string>
+          <string>21</string>
           <key>Question Title</key>
           <string>A herpetic whitlow refers to a herpes infection of the:</string>
           <key>a</key>
@@ -653,7 +597,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>24</string>
+          <string>22</string>
           <key>Question Title</key>
           <string>A patient complaining of moderately severe pain, particularly just before, during, and after meals and with evidence of swelling in a salivary gland would be suspected of having: </string>
           <key>a</key>
@@ -681,7 +625,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>25</string>
+          <string>23</string>
           <key>Question Title</key>
           <string>Recurrent aphthous ulcers:</string>
           <key>a</key>
@@ -709,7 +653,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>26</string>
+          <string>24</string>
           <key>Question Title</key>
           <string>A 40-year-old man has routine dental ﬁlms exposed. Upon examination of the radiographs, an oval radiolucent area is discovered above the maxillary central incisors. The teeth are vital, and the roots are not resorbed. This patient most probably has a: </string>
           <key>a</key>
@@ -737,7 +681,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>27</string>
+          <string>25</string>
           <key>Question Title</key>
           <string>A cyst that remains subsequent to extraction of a tooth is a:</string>
           <key>a</key>
@@ -765,7 +709,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>28</string>
+          <string>26</string>
           <key>Question Title</key>
           <string>The odontogenic cyst having the highest recurrence rate is the:</string>
           <key>a</key>
@@ -793,7 +737,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>29</string>
+          <string>27</string>
           <key>Question Title</key>
           <string>A &quot;cotton-wool&quot; appearance of the skull radiographically is characteristic of:</string>
           <key>a</key>
@@ -821,7 +765,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>30</string>
+          <string>28</string>
           <key>Question Title</key>
           <string>Lace-like white striae present on the buccal mucosa bilaterally may represent:</string>
           <key>a</key>
@@ -849,7 +793,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>31</string>
+          <string>29</string>
           <key>Question Title</key>
           <string>A 26-year-old black female was examined clinically and radiographically. On a mandibular periapical radiograph that included the central and lateral incisors, radiolucent lesions were found at the apex of each of these four teeth. Six months later, the radiolucent areas were radiopaque. Each of the four teeth retained its vitality. This patient most likely has: </string>
           <key>a</key>
@@ -877,7 +821,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>32</string>
+          <string>30</string>
           <key>Question Title</key>
           <string>Patients with bulimia commonly suﬀer from:</string>
           <key>a</key>
@@ -905,7 +849,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>33</string>
+          <string>31</string>
           <key>Question Title</key>
           <string>Which of the following intraoral locations is the most common site for formation of a pyogenic granuloma?</string>
           <key>a</key>
@@ -933,7 +877,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>34</string>
+          <string>32</string>
           <key>Question Title</key>
           <string> Sialoliths are most commonly found during radiographic examination of (the):</string>
           <key>a</key>
@@ -961,7 +905,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>35</string>
+          <string>33</string>
           <key>Question Title</key>
           <string>Desquamation of which of the following papillae occurs in benign migratory glossitis?</string>
           <key>a</key>
@@ -989,7 +933,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>36</string>
+          <string>34</string>
           <key>Question Title</key>
           <string>Clinically and microscopically, an epulis ﬁssuratum is most similar to which of the following lesions?</string>
           <key>a</key>
@@ -1017,7 +961,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>37</string>
+          <string>35</string>
           <key>Question Title</key>
           <string>Which of the following teeth most frequently demonstrate microdontia?</string>
           <key>a</key>
@@ -1045,7 +989,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>38</string>
+          <string>36</string>
           <key>Question Title</key>
           <string>The ﬁrst clinically observable reaction to radiation overexposure is:</string>
           <key>a</key>
@@ -1073,7 +1017,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>39</string>
+          <string>37</string>
           <key>Question Title</key>
           <string>A speciﬁc presentation of oral candidiasis, sometimes seen in otherwise healthy patients is:</string>
           <key>a</key>
@@ -1101,7 +1045,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>40</string>
+          <string>38</string>
           <key>Question Title</key>
           <string>Stevens-Johnson syndrome is a severe form of:</string>
           <key>a</key>
@@ -1129,7 +1073,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>41</string>
+          <string>39</string>
           <key>Question Title</key>
           <string>What is the most common location for AIDS-related “oral hairy leukoplakia”?</string>
           <key>a</key>
@@ -1157,7 +1101,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>42</string>
+          <string>40</string>
           <key>Question Title</key>
           <string>Which of the following is a soft tissue cyst? </string>
           <key>a</key>
@@ -1185,35 +1129,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>43</string>
-          <key>Question Title</key>
-          <string>Identify the four conditions from the following list that appear white on a clinical oral exam.</string>
-          <key>a</key>
-          <string>Mucocele.</string>
-          <key>b</key>
-          <string>Linea alba.</string>
-          <key>c</key>
-          <string>Leukoplakia.</string>
-          <key>d</key>
-          <string>Leukoedema.</string>
-          <key>e</key>
-          <string>Pseudomembranous candidiasis.</string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>B, C, D, E.</string>
-          <key>rationale</key>
-          <string>A mucocele typically has a clear or bluish tinge. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Ch 5. Oral Pathology</string>
-          <key>Question Number</key>
-          <string>44</string>
+          <string>41</string>
           <key>Question Title</key>
           <string>A radiograph shows an unerupted mandibular third molar with a 3 cm. pericoronal radiolucency. The most likely diagnosis is:</string>
           <key>a</key>
@@ -1241,7 +1157,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>45</string>
+          <string>42</string>
           <key>Question Title</key>
           <string>Supernumerary teeth are a common feature of which of the following syndromes?</string>
           <key>a</key>
@@ -1269,7 +1185,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>46</string>
+          <string>43</string>
           <key>Question Title</key>
           <string>Carcinoma that does not invade the connective tissue is referred to as:</string>
           <key>a</key>
@@ -1297,35 +1213,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>47</string>
-          <key>Question Title</key>
-          <string>Identify the three conditions in which the papillomavirus has been found?</string>
-          <key>a</key>
-          <string>Oral papilloma </string>
-          <key>b</key>
-          <string>Papillary hyperplasia </string>
-          <key>c</key>
-          <string>Condyloma acuminatum </string>
-          <key>d</key>
-          <string>Squamous cell carcinoma</string>
-          <key>e</key>
-          <string></string>
-          <key>f</key>
-          <string></string>
-          <key>g</key>
-          <string></string>
-          <key>answer</key>
-          <string>A, C, D.</string>
-          <key>rationale</key>
-          <string>Papillary hyperplasia occurs on the hard palate and is usually caused by not taking out a maxillary denture enough. </string>
-    </dict>
-    <dict>
-          <key>Chapter Number</key>
-          <string>5</string>
-          <key>Chapter Title</key>
-          <string>Ch 5. Oral Pathology</string>
-          <key>Question Number</key>
-          <string>48</string>
+          <string>44</string>
           <key>Question Title</key>
           <string>A patient presents with bilateral linear discoloration of the maxillary and mandibular central incisors. The patient’s medical history includes a serious childhood illness with associated high fevers. Which of the following best describes the cause of the tooth anomalies? </string>
           <key>a</key>
@@ -1353,7 +1241,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>49</string>
+          <string>45</string>
           <key>Question Title</key>
           <string>A patient presents complaining that his dentures no longer ﬁt. Upon radiographic examination, distinct areas of radiopacity are noted throughout the mandible and maxilla. Which of the following conditions is the most likely cause? </string>
           <key>a</key>
@@ -1381,7 +1269,7 @@
           <key>Chapter Title</key>
           <string>Ch 5. Oral Pathology</string>
           <key>Question Number</key>
-          <string>50</string>
+          <string>46</string>
           <key>Question Title</key>
           <string>Bence-Jones proteins in the urine and multitple bone radiolucencies can be found in which of the following diseases?</string>
           <key>a</key>

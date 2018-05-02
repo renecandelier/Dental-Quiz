@@ -21,7 +21,9 @@ class ChaptersTableViewController: UITableViewController {
         "Ch 7. Pharmacology",
         "Ch 8. Professional Responsibility",
         "Ch 9. Radiology",
-        "Ch 10. Special Needs Patients"
+        "Ch 10. Special Needs Patients",
+        "Ch 11. Microbiology",
+        "Ch 12. Periodontology"
     ]
     
     override func viewDidLoad() {

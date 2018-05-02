@@ -2,285 +2,652 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>1</string>
-		<key>Question Title</key>
-		<string>The similarity of private practice versus community dental care can be demonstrated by which of the following:</string>
-		<key>a</key>
-		<string>The treatment of a patient is similar to community analysis of the data from a needs survey.</string>
-		<key>b</key>
-		<string>A clinical diagnosis of dental disease is similar to program planning of a sealant program.</string>
-		<key>c</key>
-		<string>An oral health survey to assess the status of the elderly is similar to providing scaling and root planning treatment for a periodontal patient. </string>
-		<key>d</key>
-		<string>The re-evaluation appointment after scaling and root planning is similar to summative evaluation on a dental health program. </string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D. </string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>2</string>
-		<key>Question Title</key>
-		<string>Which of the following Federal agencies does NOT participate in dental health-related activities?</string>
-		<key>a</key>
-		<string>Department of Health and Human Services.</string>
-		<key>b</key>
-		<string>Health Resources and services Administration.</string>
-		<key>c</key>
-		<string>American Association of Public Health Dentistry.</string>
-		<key>d</key>
-		<string>National Institute of Health.</string>
-		<key>e</key>
-		<string>Centers for Disease Control and Prevention. </string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>C.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>3</string>
-		<key>Question Title</key>
-		<string>What is the most common measure of dispersion?</string>
-		<key>a</key>
-		<string>Mean.</string>
-		<key>b</key>
-		<string>Standard deviation.</string>
-		<key>c</key>
-		<string>Mode.</string>
-		<key>d</key>
-		<string>Range.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>B.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>4</string>
-		<key>Question Title</key>
-		<string>This type of study uses a survey method to measure and describe the presence and distribution of a disease or a health condition in a population or sample at one time. </string>
-		<key>a</key>
-		<string>Descriptive study.</string>
-		<key>b</key>
-		<string>Experimental study.</string>
-		<key>c</key>
-		<string>Analytical study.</string>
-		<key>d</key>
-		<string>Clinical trial study.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>A.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>5</string>
-		<key>Question Title</key>
-		<string>The delivery of dental care in the U.S. is mostly a private sector endeavor. Medicare is a federal program insurance to pay medical bills for people over age 6</string>
-		<key>a</key>
-		<string>Both statements are true.</string>
-		<key>b</key>
-		<string>Both statements are false.</string>
-		<key>c</key>
-		<string>The ﬁrst statement is true and the second statement is false.</string>
-		<key>d</key>
-		<string>The ﬁrst statement is false and the second statement is true.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>A.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>6</string>
-		<key>Question Title</key>
-		<string>he occurrence of an illness in excess of normal expectancy in a community or region, usually occurring suddenly and spreading rapidly, is termed a (an): </string>
-		<key>a</key>
-		<string>Endemic.</string>
-		<key>b</key>
-		<string>Epidemic.</string>
-		<key>c</key>
-		<string>Pandemic.</string>
-		<key>d</key>
-		<string>None of the above.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>B.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>7</string>
-		<key>Question Title</key>
-		<string>Which type of sample consists of selecting an element according to certain subgroups?</string>
-		<key>a</key>
-		<string>Random.</string>
-		<key>b</key>
-		<string>Stratiﬁed .</string>
-		<key>c</key>
-		<string>Systemic.</string>
-		<key>d</key>
-		<string>Judgement.</string>
-		<key>e</key>
-		<string>Convenience.</string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>D. </string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>8</string>
-		<key>Question Title</key>
-		<string>The amount of untreated caries in a population at a time of examination is known as:</string>
-		<key>a</key>
-		<string>Caries incidence.</string>
-		<key>b</key>
-		<string>Caries prevalence.</string>
-		<key>c</key>
-		<string>Dental neglect. </string>
-		<key>d</key>
-		<string>Primary caries. </string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>B.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>9</string>
-		<key>Question Title</key>
-		<string>A parametric statistic used to determine whether statistically signiﬁcant diﬀerences occur when comparing more than two mean scores is:</string>
-		<key>a</key>
-		<string>T-test.</string>
-		<key>b</key>
-		<string>Analysis of Variance (ANOVA).</string>
-		<key>c</key>
-		<string>Chi-square test.</string>
-		<key>d</key>
-		<string>P-value.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>B.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
-	<dict>
-		<key>Chapter Number</key>
-		<string>2</string>
-		<key>Chapter Title</key>
-		<string>Ch 2. Community Dental Health</string>
-		<key>Question Number</key>
-		<string>10</string>
-		<key>Question Title</key>
-		<string>While participating in a community project with the Special Olympics, a hygiene student demonstrates tooth brushing, ﬂossing, and discusses nutrition. These activities are examples of: </string>
-		<key>a</key>
-		<string>Primary prevention.</string>
-		<key>b</key>
-		<string>Secondary prevention.</string>
-		<key>c</key>
-		<string>Tertiary prevention. </string>
-		<key>d</key>
-		<string>Primary and secondary prevention.</string>
-		<key>e</key>
-		<string></string>
-		<key>f</key>
-		<string></string>
-		<key>g</key>
-		<string></string>
-		<key>answer</key>
-		<string>A.</string>
-		<key>rationale</key>
-		<string>N/A</string>
-	</dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>1</string>
+          <key>Question Title</key>
+          <string>The similarity of private practice versus community dental care can be demonstrated by which of the following:</string>
+          <key>a</key>
+          <string>The treatment of a patient is similar to community analysis of the data from a needs survey.</string>
+          <key>b</key>
+          <string>A clinical diagnosis of dental disease is similar to program planning of a sealant program.</string>
+          <key>c</key>
+          <string>An oral health survey to assess the status of the elderly is similar to providing scaling and root planning treatment for a periodontal patient. </string>
+          <key>d</key>
+          <string>The re-evaluation appointment after scaling and root planning is similar to summative evaluation on a dental health program. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>D. </string>
+          <key>rationale</key>
+          <string>Assessment phase-includes gathering information about the population, and relevant data; This phases includes surveying the population for; This is the same as the patient assessment phase of private practice.
+Planning phase-includes prioritizing needs, planning interventions, educational experiences, and treatment for the population.  This is similar to the treatment planning and care planning stage of private practice. 
+Implementation phase-includes carrying out the plans made during the planning phase.  This can include education, treatment, and interventions. This is similar to the treatment phase of private practice. 
+Evaluation phase-includes evaluating the outcomes of the planned and implemented education/treatment/interventions carried out by the programmers.  This is similar to the evaluation phase of private practice. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>2</string>
+          <key>Question Title</key>
+          <string>Which of the following Federal agencies does NOT participate in dental health-related activities?</string>
+          <key>a</key>
+          <string>Department of Health and Human Services.</string>
+          <key>b</key>
+          <string>Health Resources and services Administration.</string>
+          <key>c</key>
+          <string>American Association of Public Health Dentistry.</string>
+          <key>d</key>
+          <string>National Institute of Health.</string>
+          <key>e</key>
+          <string>Centers for Disease Control and Prevention. </string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>C.</string>
+          <key>rationale</key>
+          <string>The AAPHD is a professional membership organization.  This is not a federal agency.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>3</string>
+          <key>Question Title</key>
+          <string>What is the most common measure of dispersion?</string>
+          <key>a</key>
+          <string>Mean.</string>
+          <key>b</key>
+          <string>Standard deviation.</string>
+          <key>c</key>
+          <string>Mode.</string>
+          <key>d</key>
+          <string>Range.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Mean and Mode are measures of central tendency.  Range is a measure of dispersion, but it is not as widely used as standard deviation.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>4</string>
+          <key>Question Title</key>
+          <string>This type of study uses a survey method to measure and describe the presence and distribution of a disease or a health condition in a population or sample at one time. </string>
+          <key>a</key>
+          <string>Descriptive study.</string>
+          <key>b</key>
+          <string>Experimental study.</string>
+          <key>c</key>
+          <string>Analytical study.</string>
+          <key>d</key>
+          <string>Clinical trial study.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>A descriptive study DESCRIBES a disease with relation to who, when, and where a disease is taking place.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>5</string>
+          <key>Question Title</key>
+          <string>The delivery of dental care in the U.S. is mostly a private sector endeavor. Medicare is a federal program insurance to pay medical bills for people over age 65.</string>
+          <key>a</key>
+          <string>Both statements are true.</string>
+          <key>b</key>
+          <string>Both statements are false.</string>
+          <key>c</key>
+          <string>The ﬁrst statement is true and the second statement is false.</string>
+          <key>d</key>
+          <string>The ﬁrst statement is false and the second statement is true.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Most dental offices in the U.S. are owned and operated by private owners.  Medicare is a federal health insurance program for the elderly, and younger people with disabilities. There is no age limit for Medicaid. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>6</string>
+          <key>Question Title</key>
+          <string>The occurrence of an illness in excess of normal expectancy in a community or region, usually occurring suddenly and spreading rapidly, is termed a (an): </string>
+          <key>a</key>
+          <string>Endemic.</string>
+          <key>b</key>
+          <string>Epidemic.</string>
+          <key>c</key>
+          <string>Pandemic.</string>
+          <key>d</key>
+          <string>None of the above.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Endemic is the usually rate of a disease in a population.  A pandemic is an increase in a disease rate seen over large geographic areas, usually involving multiple countries. A epidemic is an increase above the normal levels of a disease in a population. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>7</string>
+          <key>Question Title</key>
+          <string>Which type of sample consists of selecting an element according to certain subgroups?</string>
+          <key>a</key>
+          <string>Random.</string>
+          <key>b</key>
+          <string>Stratiﬁed.</string>
+          <key>c</key>
+          <string>Systematic.</string>
+          <key>d</key>
+          <string>Judgement.</string>
+          <key>e</key>
+          <string>Convenience.</string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>Random sampling includes giving every member of the population the same chance of being selected.  Systematic sampling includes taking the Nth number of people (count off 1-5, now select all 3s for the sample).  Judgement includes someone familiar with the population selecting the sample population.  Convenience includes selecting the population from people that are easy to find (ie dental hygiene students for hygiene instructor research).</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>8</string>
+          <key>Question Title</key>
+          <string>The amount of untreated caries in a population at a time of examination is known as:</string>
+          <key>a</key>
+          <string>Caries incidence.</string>
+          <key>b</key>
+          <string>Caries prevalence.</string>
+          <key>c</key>
+          <string>Dental neglect. </string>
+          <key>d</key>
+          <string>Primary caries. </string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Incidence is new cases of a disease (ex. Caries).  Prevalence is cases of new AND old cases of a disease (caries AND fillings (fillings are old untreated caries)). Primary caries is a lesion that indicates an initial attack on the tooth surface.  There is not enough information to support the primary caries claim therefore this is not the best answer. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>9</string>
+          <key>Question Title</key>
+          <string>A parametric statistic used to determine whether statistically signiﬁcant diﬀerences occur when comparing more than two mean scores is:</string>
+          <key>a</key>
+          <string>T-test.</string>
+          <key>b</key>
+          <string>Analysis of Variance (ANOVA).</string>
+          <key>c</key>
+          <string>Chi-square test.</string>
+          <key>d</key>
+          <string>P-value.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>B.</string>
+          <key>rationale</key>
+          <string>A T-test is a parametric statistic used to determine whether statistically significant differences occur when comparing TWO mean scores. P value and Chi-square are used for hypothesis testing. </string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string>2</string>
+          <key>Chapter Title</key>
+          <string>Ch 2. Community Dental Health</string>
+          <key>Question Number</key>
+          <string>10</string>
+          <key>Question Title</key>
+          <string>While participating in a community project with the Special Olympics, a hygiene student demonstrates tooth brushing, ﬂossing, and discusses nutrition. These activities are examples of: </string>
+          <key>a</key>
+          <string>Primary prevention.</string>
+          <key>b</key>
+          <string>Secondary prevention.</string>
+          <key>c</key>
+          <string>Tertiary prevention. </string>
+          <key>d</key>
+          <string>Primary and secondary prevention.</string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string>A.</string>
+          <key>rationale</key>
+          <string>Levels of prevention are dependent on the level of known disease of the population.  Primary prevention is preventive education/treatment when no signs of a disease are present (example water fluoridation without caries).  Secondary prevention is preventive education/treatment when disease is present, but the tissues can be returned to as near as natural as possible (example fluoride varnish on demineralize tooth structure).  Tertiary prevention occurs when the tissue is lost and must be replaced to appear natural such as with dentures.</string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
+    <dict>
+          <key>Chapter Number</key>
+          <string></string>
+          <key>Chapter Title</key>
+          <string></string>
+          <key>Question Number</key>
+          <string></string>
+          <key>Question Title</key>
+          <string></string>
+          <key>a</key>
+          <string></string>
+          <key>b</key>
+          <string></string>
+          <key>c</key>
+          <string></string>
+          <key>d</key>
+          <string></string>
+          <key>e</key>
+          <string></string>
+          <key>f</key>
+          <string></string>
+          <key>g</key>
+          <string></string>
+          <key>answer</key>
+          <string></string>
+          <key>rationale</key>
+          <string></string>
+    </dict>
 </array>
 </plist>

@@ -36,6 +36,8 @@
 		8AC319732001E0F7003504A1 /* RationalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC319722001E0F7003504A1 /* RationalViewController.swift */; };
 		8AC3197620027817003504A1 /* FAQs.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 8AC3197520027817003504A1 /* FAQs.pdf */; };
 		8AC3198F2003CE72003504A1 /* Named.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC3198E2003CE72003504A1 /* Named.swift */; };
+		8AD4215620995F140089D355 /* chapter11.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AD4215220995F130089D355 /* chapter11.plist */; };
+		8AD4215720995F140089D355 /* chapter12.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AD4215520995F140089D355 /* chapter12.plist */; };
 		8AD6A88D1FEA1DC200DB2A3F /* ChaptersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6A88C1FEA1DC200DB2A3F /* ChaptersTableViewController.swift */; };
 		8AD6A88F1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD6A88E1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift */; };
 		8AEEA23C1FE7615F00E8CC17 /* QuestionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AEEA23B1FE7615F00E8CC17 /* QuestionViewModel.swift */; };
@@ -133,6 +135,8 @@
 		8AC319722001E0F7003504A1 /* RationalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RationalViewController.swift; sourceTree = "<group>"; };
 		8AC3197520027817003504A1 /* FAQs.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = FAQs.pdf; sourceTree = "<group>"; };
 		8AC3198E2003CE72003504A1 /* Named.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Named.swift; sourceTree = "<group>"; };
+		8AD4215220995F130089D355 /* chapter11.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter11.plist; sourceTree = "<group>"; };
+		8AD4215520995F140089D355 /* chapter12.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chapter12.plist; sourceTree = "<group>"; };
 		8AD6A88C1FEA1DC200DB2A3F /* ChaptersTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaptersTableViewController.swift; sourceTree = "<group>"; };
 		8AD6A88E1FEA1E6E00DB2A3F /* ChapterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterTableViewCell.swift; sourceTree = "<group>"; };
 		8AEEA23B1FE7615F00E8CC17 /* QuestionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewModel.swift; sourceTree = "<group>"; };
@@ -343,6 +347,8 @@
 				8AB7D7D0201016AB008C77F2 /* chapter8.plist */,
 				8AB7D7D1201016AB008C77F2 /* chapter9.plist */,
 				8AB7D7D6201016AB008C77F2 /* chapter10.plist */,
+				8AD4215220995F130089D355 /* chapter11.plist */,
+				8AD4215520995F140089D355 /* chapter12.plist */,
 			);
 			path = "Chapter PLIST";
 			sourceTree = "<group>";
@@ -483,8 +489,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AD4215620995F140089D355 /* chapter11.plist in Resources */,
 				8AB7D7DB201016AB008C77F2 /* chapter4.plist in Resources */,
 				8AB7D7E0201016AB008C77F2 /* chapter2.plist in Resources */,
+				8AD4215720995F140089D355 /* chapter12.plist in Resources */,
 				8AB7D7DA201016AB008C77F2 /* chapter9.plist in Resources */,
 				8AB7D7CF201015A4008C77F2 /* chapter1.plist in Resources */,
 				8A7CAD341FD8D206003D991E /* LaunchScreen.storyboard in Resources */,
