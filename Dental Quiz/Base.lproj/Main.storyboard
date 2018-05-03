@@ -447,11 +447,11 @@
             </objects>
             <point key="canvasLocation" x="2908.6956521739135" y="-450.40760869565219"/>
         </scene>
-        <!--FAQs-->
+        <!--FAQ'S-->
         <scene sceneID="5uX-8x-JAm">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="azC-dC-pOv" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="FAQs" image="FAQ" id="yk1-aH-HB5"/>
+                    <tabBarItem key="tabBarItem" title="FAQ'S" image="FAQ" id="yk1-aH-HB5"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="FLC-a6-gxQ">
                         <rect key="frame" x="0.0" y="20" width="414" height="44"/>
