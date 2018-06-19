@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="eoK-1S-YMI">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3SP-Vp-E27">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
-    <customFonts key="customFonts">
-        <array key="KohinoorBangla.ttc">
-            <string>KohinoorBangla-Regular</string>
-            <string>KohinoorBangla-Semibold</string>
-        </array>
-    </customFonts>
     <scenes>
         <!--Welcome View Controller-->
         <scene sceneID="ckn-xT-ji0">
@@ -26,60 +20,81 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="toothy" translatesAutoresizingMaskIntoConstraints="NO" id="aBS-t8-DmG">
-                                <rect key="frame" x="42" y="216" width="292" height="235"/>
+                                <rect key="frame" x="13" y="58" width="348" height="235"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="235" id="ach-6l-OBs"/>
-                                    <constraint firstAttribute="width" constant="292" id="quk-iw-Wfk"/>
+                                    <constraint firstAttribute="height" constant="235" id="1HB-4V-1Fx"/>
                                 </constraints>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oAD-gp-Xgs">
-                                <rect key="frame" x="20" y="600" width="335" height="47"/>
-                                <color key="backgroundColor" red="0.0" green="0.76470588240000004" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="47" id="jnC-4G-u6r"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="21"/>
-                                <state key="normal" title="Enter">
-                                    <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <segue destination="arV-tg-ag5" kind="show" id="b43-0Y-bz9"/>
-                                </connections>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k2s-1w-Fw0">
-                                <rect key="frame" x="20" y="20" width="335" height="38"/>
-                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="27"/>
-                                <color key="textColor" red="0.094117647060000004" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="DENTAL HYGIENE SEMINARS" textAlignment="center" lineBreakMode="headTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9uv-cr-g6K">
+                                <rect key="frame" x="13" y="319" width="348" height="115"/>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Semibold" family="Kohinoor Bangla" pointSize="41"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fam-el-bkf">
-                                <rect key="frame" x="20" y="79" width="335" height="129"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zC8-Bp-bgb">
+                                <rect key="frame" x="0.0" y="525" width="375" height="60"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Designed for you." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bdk-Rd-coZ">
+                                        <rect key="frame" x="8" y="8" width="359" height="44"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="37"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.97254901960784312" green="0.77647058823529413" blue="0.27450980392156865" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="129" id="E3S-4F-dDs"/>
+                                    <constraint firstAttribute="trailing" secondItem="bdk-Rd-coZ" secondAttribute="trailing" constant="8" id="8rp-4g-A8K"/>
+                                    <constraint firstItem="bdk-Rd-coZ" firstAttribute="top" secondItem="zC8-Bp-bgb" secondAttribute="top" constant="8" id="Bjd-5Z-au1"/>
+                                    <constraint firstItem="bdk-Rd-coZ" firstAttribute="leading" secondItem="zC8-Bp-bgb" secondAttribute="leading" constant="8" id="G6P-Il-f7Y"/>
+                                    <constraint firstAttribute="height" constant="60" id="P7x-GP-jfZ"/>
+                                    <constraint firstAttribute="bottom" secondItem="bdk-Rd-coZ" secondAttribute="bottom" constant="8" id="Xeh-fa-jJA"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="27"/>
-                                <color key="textColor" red="0.094117647060000004" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <nil key="highlightedColor"/>
-                            </label>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3HS-0B-47U">
+                                <rect key="frame" x="0.0" y="582" width="375" height="85"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oAD-gp-Xgs">
+                                        <rect key="frame" x="82" y="16" width="211" height="52"/>
+                                        <color key="backgroundColor" red="0.10588235294117647" green="0.22745098039215686" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="211" id="fAu-JF-j1b"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="33"/>
+                                        <state key="normal" title="BEGIN">
+                                            <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <segue destination="arV-tg-ag5" kind="show" id="b43-0Y-bz9"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.098039215686274508" green="0.22352941176470589" blue="0.35294117647058826" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="oAD-gp-Xgs" firstAttribute="centerY" secondItem="3HS-0B-47U" secondAttribute="centerY" id="5zY-gs-Kw8"/>
+                                    <constraint firstItem="oAD-gp-Xgs" firstAttribute="centerX" secondItem="3HS-0B-47U" secondAttribute="centerX" id="Jqw-Xg-zxI"/>
+                                    <constraint firstAttribute="height" constant="85" id="Wv3-oP-y40"/>
+                                </constraints>
+                            </view>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.62745098040000002" green="0.41176470590000003" blue="0.6588235294" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="oAD-gp-Xgs" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" constant="20" id="1Qg-Tq-zbS"/>
-                            <constraint firstItem="aBS-t8-DmG" firstAttribute="top" secondItem="fam-el-bkf" secondAttribute="bottom" constant="8" symbolic="YES" id="3VU-Jg-beh"/>
-                            <constraint firstItem="aBS-t8-DmG" firstAttribute="centerX" secondItem="lfK-rD-Put" secondAttribute="centerX" id="5sz-TA-vbp"/>
-                            <constraint firstItem="EBW-2p-en2" firstAttribute="trailing" secondItem="oAD-gp-Xgs" secondAttribute="trailing" constant="20" id="JWG-6i-LqR"/>
-                            <constraint firstItem="fam-el-bkf" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" constant="20" id="KLQ-Gh-jVa"/>
-                            <constraint firstItem="aBS-t8-DmG" firstAttribute="centerY" secondItem="lfK-rD-Put" secondAttribute="centerY" id="RHR-qJ-PNT"/>
-                            <constraint firstItem="k2s-1w-Fw0" firstAttribute="top" secondItem="EBW-2p-en2" secondAttribute="top" id="Rs2-Ew-crf"/>
-                            <constraint firstItem="EBW-2p-en2" firstAttribute="bottom" secondItem="oAD-gp-Xgs" secondAttribute="bottom" constant="20" id="lnn-Zq-oXQ"/>
-                            <constraint firstItem="k2s-1w-Fw0" firstAttribute="leading" secondItem="fam-el-bkf" secondAttribute="leading" id="mnS-Ay-c62"/>
-                            <constraint firstItem="k2s-1w-Fw0" firstAttribute="trailing" secondItem="fam-el-bkf" secondAttribute="trailing" id="nrH-Px-8L1"/>
-                            <constraint firstItem="EBW-2p-en2" firstAttribute="trailing" secondItem="fam-el-bkf" secondAttribute="trailing" constant="20" id="szb-w2-lyq"/>
+                            <constraint firstItem="EBW-2p-en2" firstAttribute="trailing" secondItem="9uv-cr-g6K" secondAttribute="trailing" constant="14" id="Jyx-l8-EUh"/>
+                            <constraint firstItem="aBS-t8-DmG" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" constant="13" id="Nct-yH-yDC"/>
+                            <constraint firstItem="zC8-Bp-bgb" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" id="R23-ks-FmK"/>
+                            <constraint firstItem="3HS-0B-47U" firstAttribute="top" secondItem="zC8-Bp-bgb" secondAttribute="bottom" constant="-3" id="T7p-1p-Z4H"/>
+                            <constraint firstItem="EBW-2p-en2" firstAttribute="trailing" secondItem="aBS-t8-DmG" secondAttribute="trailing" constant="14" id="UOG-NA-FY2"/>
+                            <constraint firstItem="aBS-t8-DmG" firstAttribute="top" secondItem="EBW-2p-en2" secondAttribute="top" constant="38" id="X78-2k-bsy"/>
+                            <constraint firstItem="9uv-cr-g6K" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" constant="13" id="XW2-TM-sYl"/>
+                            <constraint firstItem="3HS-0B-47U" firstAttribute="trailing" secondItem="EBW-2p-en2" secondAttribute="trailing" id="bkD-ka-N5Y"/>
+                            <constraint firstItem="3HS-0B-47U" firstAttribute="bottom" secondItem="EBW-2p-en2" secondAttribute="bottom" id="cBI-WV-yue"/>
+                            <constraint firstItem="9uv-cr-g6K" firstAttribute="top" secondItem="aBS-t8-DmG" secondAttribute="bottom" constant="26" id="s6L-bB-2Cn"/>
+                            <constraint firstItem="3HS-0B-47U" firstAttribute="leading" secondItem="EBW-2p-en2" secondAttribute="leading" id="tSa-9q-5LL"/>
+                            <constraint firstItem="zC8-Bp-bgb" firstAttribute="trailing" secondItem="EBW-2p-en2" secondAttribute="trailing" id="uUU-R6-Jwr"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="EBW-2p-en2"/>
                     </view>
                     <connections>
-                        <outlet property="userNameLabel" destination="fam-el-bkf" id="PtY-KT-CBG"/>
+                        <outlet property="beginButton" destination="oAD-gp-Xgs" id="OWf-Jh-h2N"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KSd-kF-Ttm" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -136,12 +151,11 @@
                     </view>
                     <connections>
                         <outlet property="userPinTextField" destination="5qw-2o-p2R" id="xhj-ec-ddP"/>
-                        <segue destination="3SP-Vp-E27" kind="show" identifier="WelcomeViewController" id="3jm-oK-paW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cRM-bC-6mC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2244.927536231884" y="-450.00000000000006"/>
+            <point key="canvasLocation" x="-2556" y="-452"/>
         </scene>
     </scenes>
     <resources>

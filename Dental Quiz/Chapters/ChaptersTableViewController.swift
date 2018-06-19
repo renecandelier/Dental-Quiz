@@ -12,7 +12,7 @@ import Mixpanel
 class ChaptersTableViewController: UITableViewController {
     
     let chapterTitles = [
-        "Ch 1. Clinical Dental Hygiene/Flouride",
+        "Ch 1. Clinical Dental Hygiene/Fluoride",
         "Ch 2. Community Dental Health",
         "Ch 3. Dental Materials",
         "Ch 4. Nutrition",
@@ -29,6 +29,8 @@ class ChaptersTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         Analytics.track(event: Analytics.Events.chapters)
+        UserDefaults.standard.set(true, forKey: User.userLoggedIn)
+
     }
     
     // MARK: - Table view data source

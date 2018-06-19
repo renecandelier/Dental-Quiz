@@ -48,4 +48,5 @@ struct Utils {
 struct Colors {
     static let lightBlue = UIColor(red:0.14, green:0.80, blue:0.93, alpha:0.3)
     static let red = UIColor(red:1, green:28/255, blue:0, alpha:0.1)
+    static let mustard = UIColor(red:0.99, green:0.78, blue:0.33, alpha:1.00)
 }

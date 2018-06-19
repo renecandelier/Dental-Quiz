@@ -169,7 +169,7 @@
             </objects>
             <point key="canvasLocation" x="2146" y="-450"/>
         </scene>
-        <!--FAQ-->
+        <!--FAQ's-->
         <scene sceneID="Vly-Xg-JvT">
             <objects>
                 <viewController id="3iD-ax-aSc" customClass="FAQViewController" customModule="Dental_Quiz" customModuleProvider="target" sceneMemberID="viewController">
@@ -194,7 +194,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="62Z-XH-5sh"/>
                     </view>
-                    <navigationItem key="navigationItem" title="FAQ" id="gmX-ha-fGe">
+                    <navigationItem key="navigationItem" title="FAQ's" id="gmX-ha-fGe">
                         <barButtonItem key="backBarButtonItem" title=" " id="GnV-hW-g10"/>
                     </navigationItem>
                     <connections>
