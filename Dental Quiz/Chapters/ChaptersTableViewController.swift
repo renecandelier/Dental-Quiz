@@ -2,12 +2,8 @@
 //  ChaptersTableViewController.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 12/19/17.
-//  Copyright © 2017 Novus Mobile. All rights reserved.
-//
 
 import UIKit
-import Mixpanel
 
 class ChaptersTableViewController: UITableViewController {
     
@@ -28,9 +24,7 @@ class ChaptersTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        Analytics.track(event: Analytics.Events.chapters)
         UserDefaults.standard.set(true, forKey: User.userLoggedIn)
-
     }
     
     // MARK: - Table view data source
@@ -57,7 +51,6 @@ class ChaptersTableViewController: UITableViewController {
             if let questionViewController = segue.destination as? QuestionViewController {
                 let cellRow = tableView.indexPathForSelectedRow?.row ?? 0
                 let chapter = "chapter" + "\(cellRow + 1)"
-                Analytics.track(event: Analytics.Events.chapterSelected, properties: ["chapter": chapter])
                 questionViewController.chapter = chapter
             }
         }

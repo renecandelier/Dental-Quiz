@@ -2,12 +2,8 @@
 //  UserLoginViewController.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 1/17/18.
-//  Copyright © 2018 Novus Mobile. All rights reserved.
-//
 
 import UIKit
-import Mixpanel
 
 class UserLoginViewController: UIViewController {
 
@@ -17,7 +13,6 @@ class UserLoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        Analytics.track(event: Analytics.Events.login)
         guard let usersPlist = parseUserFromPList(plistName: "Users") else { return }
         users = usersPlist
     }
@@ -25,7 +20,6 @@ class UserLoginViewController: UIViewController {
     @IBAction func signInButtonSelected(_ sender: UIButton) {
         users.forEach { (user) in
             if userPinTextField.text == user.pin {
-                Analytics.track(event: Analytics.Events.loggedIn, properties: user.dictionary)
                 userName = "\(user.firstName)\(user.lastName)"
                 UserDefaults.standard.set(true, forKey: User.userLoggedIn)
                 performSegue(withIdentifier: WelcomeViewController.className, sender: self)
@@ -36,7 +30,6 @@ class UserLoginViewController: UIViewController {
     }
     
     func showAlert(title: String, message: String) {
-        Analytics.track(event: Analytics.Events.loginErrorAlert)
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)

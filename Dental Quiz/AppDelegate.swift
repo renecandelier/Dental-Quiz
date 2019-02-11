@@ -2,12 +2,8 @@
 //  AppDelegate.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 12/6/17.
-//  Copyright © 2017 Novus Mobile. All rights reserved.
-//
 
 import UIKit
-import Mixpanel
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,14 +11,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-
-        Analytics.initializeTracking()
-        
-//        if Utils.isUserLoggedIn() {
-//            if let controller = UIStoryboard(name: "Main", bundle: nil).instantiateInitialViewController() {
-//                self.window?.rootViewController = controller
-//            }
-//        }
         return true
     }
 

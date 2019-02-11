@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3SP-Vp-E27">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3SP-Vp-E27">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -108,54 +107,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EGH-P0-9mN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-941" y="-451"/>
-        </scene>
-        <!--User Login View Controller-->
-        <scene sceneID="3gc-sW-CMH">
-            <objects>
-                <viewController id="eoK-1S-YMI" customClass="UserLoginViewController" customModule="Dental_Quiz" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="3QP-2x-mcq">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KkG-2f-2Yc">
-                                <rect key="frame" x="16" y="214" width="343" height="47"/>
-                                <color key="backgroundColor" red="0.0" green="0.76470588240000004" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="47" id="jmg-CX-Z7g"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" name="KohinoorBangla-Semibold" family="Kohinoor Bangla" pointSize="21"/>
-                                <state key="normal" title="Login">
-                                    <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="signInButtonSelected:" destination="eoK-1S-YMI" eventType="touchUpInside" id="RvL-R8-gwL"/>
-                                </connections>
-                            </button>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Pin" textAlignment="right" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="5qw-2o-p2R">
-                                <rect key="frame" x="16" y="176" width="343" height="30"/>
-                                <nil key="textColor"/>
-                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="17"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numberPad" returnKeyType="done"/>
-                            </textField>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <constraints>
-                            <constraint firstItem="5qw-2o-p2R" firstAttribute="top" secondItem="v3K-rY-ZJb" secondAttribute="top" constant="156" id="Bhy-gh-Dzh"/>
-                            <constraint firstItem="KkG-2f-2Yc" firstAttribute="trailing" secondItem="5qw-2o-p2R" secondAttribute="trailing" id="Jen-t9-ApZ"/>
-                            <constraint firstItem="5qw-2o-p2R" firstAttribute="leading" secondItem="3QP-2x-mcq" secondAttribute="leadingMargin" id="apn-my-rTO"/>
-                            <constraint firstItem="KkG-2f-2Yc" firstAttribute="leading" secondItem="5qw-2o-p2R" secondAttribute="leading" id="bNe-W6-Qcm"/>
-                            <constraint firstItem="KkG-2f-2Yc" firstAttribute="top" secondItem="5qw-2o-p2R" secondAttribute="bottom" constant="8" symbolic="YES" id="jHW-0T-Yg0"/>
-                            <constraint firstItem="5qw-2o-p2R" firstAttribute="trailing" secondItem="3QP-2x-mcq" secondAttribute="trailingMargin" id="vPJ-5P-cNV"/>
-                        </constraints>
-                        <viewLayoutGuide key="safeArea" id="v3K-rY-ZJb"/>
-                    </view>
-                    <connections>
-                        <outlet property="userPinTextField" destination="5qw-2o-p2R" id="xhj-ec-ddP"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="cRM-bC-6mC" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-2556" y="-452"/>
         </scene>
     </scenes>
     <resources>

@@ -2,9 +2,6 @@
 //  QuestionViewModel.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 12/17/17.
-//  Copyright © 2017 Novus Mobile. All rights reserved.
-//
 
 import Foundation
 

@@ -1,9 +1,5 @@
 //
 //  Named.swift
-//  CNN
-//
-//  Created by Lett, Jeff on 8/26/16.
-//  Copyright © 2016 CNN. All rights reserved.
 //
 
 import Foundation

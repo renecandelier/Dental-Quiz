@@ -2,9 +2,6 @@
 //  MultipleChoiceTableViewController.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 12/25/17.
-//  Copyright © 2017 Novus Mobile. All rights reserved.
-//
 
 import UIKit
 
@@ -69,13 +66,6 @@ class MultipleChoiceTableViewController: UITableViewController {
     
     func showSelectedAnswer(indexPath: IndexPath) {
         if !answers.contains(indexPath.row) {
-            // Todo: Create This dictionary in a method under Question
-            let answerData = [Question.Constants.chapterTitle: questionInfo.chapterTitle,
-                              "answer selected" : "\(indexPath.row)",
-                Question.Constants.chapterNumber: questionInfo.chapterNumber,
-                Question.Constants.questionNumber : questionInfo.questionNumber,
-                Question.Constants.questionTitle: questionInfo.questionTitle]
-            Analytics.track(event: Analytics.Events.incorrectAnswer, properties: answerData)
             highlightCell(indexPath: indexPath, backgroundColor: Colors.red)
         }
     }

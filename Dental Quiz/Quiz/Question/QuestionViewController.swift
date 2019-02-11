@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 12/6/17.
-//  Copyright © 2017 Novus Mobile. All rights reserved.
-//
 
 import UIKit
 
@@ -60,13 +57,10 @@ class QuestionViewController: UIViewController {
     }
     
     @IBAction func showAnswer(_ sender: UIButton) {
-        let questionDictionary = chapterQuestions[currentQuestion].dictionary
         if showAnswerButton.titleLabel?.text == showAnswerText {
-            Analytics.track(event: Analytics.Events.answerButtonSelected, properties: questionDictionary)
             multipleQuestionsTableViewController?.showRightAnswers()
             updatedShowAnswerButtonTitle()
         } else {
-            Analytics.track(event: Analytics.Events.rationaleButtonSelected, properties: questionDictionary)
             animateRationale()
         }
     }
@@ -123,13 +117,11 @@ extension QuestionViewController {
         if isLastQuestion  { return }
         currentQuestion += 1
         loadViewWithData(question: chapterQuestions[currentQuestion])
-        Analytics.track(event: Analytics.Events.nextSwipe, properties: chapterQuestions[currentQuestion].dictionary)
     }
     
     func goToPreviousQuestion() {
         if currentQuestion == 0 { return }
         currentQuestion -= 1
         loadViewWithData(question: chapterQuestions[currentQuestion])
-        Analytics.track(event: Analytics.Events.previousSwipe, properties: chapterQuestions[currentQuestion].dictionary)
     }
 }

@@ -2,9 +2,6 @@
 //  Utils.swift
 //  Dental Quiz
 //
-//  Created by Rene Candelier on 1/27/18.
-//  Copyright © 2018 Novus Mobile. All rights reserved.
-//
 
 import Foundation
 import UIKit
